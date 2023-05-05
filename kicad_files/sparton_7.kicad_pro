@@ -495,6 +495,30 @@
     [
       "94bd3a84-5526-4cf2-a5cc-3887356f447c",
       ""
+    ],
+    [
+      "30d52c37-ae5c-405e-8a78-89b18a6efc4e",
+      "FPGA_SPARTAN_7"
+    ],
+    [
+      "8d3a0d7e-2c3f-4655-9a92-fa874992cbfb",
+      "POWER"
+    ],
+    [
+      "af489dd5-0e9e-4b3e-a401-f1288bd8b210",
+      "CONFIG"
+    ],
+    [
+      "b9c5b3c3-3c31-4d87-a13a-ee1ac9be93fb",
+      "BANK_14"
+    ],
+    [
+      "d1eb2df6-5d21-4689-a8d4-647171d24549",
+      "BANK_15"
+    ],
+    [
+      "b960daef-a33b-4092-bc34-2d71c1670028",
+      "BANK_34"
     ]
   ],
   "text_variables": {}
