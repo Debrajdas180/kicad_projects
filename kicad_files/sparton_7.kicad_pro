@@ -523,6 +523,10 @@
     [
       "716f4b89-38a5-4a12-8d27-cb14e81152b6",
       "FTDI"
+    ],
+    [
+      "0038f6f4-d69f-44ce-9e9f-5c3cc31e7114",
+      "POWER_REGULATOR"
     ]
   ],
   "text_variables": {}

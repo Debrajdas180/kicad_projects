@@ -1000,7 +1000,7 @@
     (property "Value" "XC7S25-1CSGA225C" (at 102.87 55.245 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "BGA225C80P15X15_1300X1300X140" (at 213.995 82.55 0)
+    (property "Footprint" "SamacSys_Parts:BGA225C80P15X15_1300X1300X140" (at 213.995 82.55 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "https://www.xilinx.com/support/documentation/data_sheets/ds180_7Series_Overview.pdf" (at 213.995 85.09 0)
