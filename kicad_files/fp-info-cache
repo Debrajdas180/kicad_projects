@@ -1,4 +1,4 @@
-21712514356954968
+21732717581746167
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -83048,6 +83048,13 @@ rotary encoder
 7
 6
 SamacSys_Parts
+74AHCT125BQQ1001
+74AHCT125BQ-Q100,1-4
+Integrated Circuit
+0
+15
+15
+SamacSys_Parts
 2002151100010T4LF
 20021511-00010T4LF-3
 Connector
@@ -83061,6 +83068,13 @@ Connector
 0
 12
 12
+SamacSys_Parts
+ABM3B
+ABM3B
+Crystal or Oscillator
+0
+4
+4
 SamacSys_Parts
 ABP2DRRN002ND2B3XX
 DIP RR
@@ -83104,6 +83118,13 @@ Integrated Circuit
 31
 31
 SamacSys_Parts
+BZX84B2V7215
+BZX84-B2V7,215
+Zener Diode
+0
+3
+3
+SamacSys_Parts
 CLMVCFKACLBDGL7LBB79353
 CLMVC-FKA-CLBDGL7LBB79353-3
 LED
@@ -83139,6 +83160,13 @@ Switch
 6
 6
 SamacSys_Parts
+LESD5D50CT1G
+LESD5D5.0CT1G-1
+TVS Diode (Bi-directional)
+0
+2
+2
+SamacSys_Parts
 NE555DR
 D (R-PDSO-G8)
 Integrated Circuit
@@ -83152,6 +83180,27 @@ Switch
 0
 4
 4
+SamacSys_Parts
+QFN50P300X400X80-21N-D
+20-Lead Plastic QFN (3mm × 4mm)
+Integrated Circuit
+0
+21
+21
+SamacSys_Parts
+QFN50P800X800X100-57N-D
+VQFN-56_1
+Integrated Circuit
+0
+57
+57
+SamacSys_Parts
+QFN50P900X900X90-65N-D
+QFN-64_2020
+Integrated Circuit
+0
+65
+65
 SamacSys_Parts
 RHDR40W64P254X254_2X20_5105X500X865P
 2223
@@ -83181,6 +83230,13 @@ Integrated Circuit
 8
 8
 SamacSys_Parts
+SOT65P210X110-6N
+SC-88 SC70-6 CASE 419B-02 ISSUE Y
+Integrated Circuit
+0
+6
+6
+SamacSys_Parts
 SOT95P230X110-3N
 SOT23_2022
 MOSFET (N-Channel)
@@ -83191,6 +83247,20 @@ SamacSys_Parts
 SOT95P237X112-3N
 SOT-23 (TO-236)
 MOSFET (N-Channel)
+0
+3
+3
+SamacSys_Parts
+SOT95P275X110-5N
+TSOP-5 CASE 483-02
+Integrated Circuit
+0
+5
+5
+SamacSys_Parts
+SOT96P237X111-3N
+SOT-23 (TO-236) CASE 318-08
+Transistor
 0
 3
 3
@@ -90383,3 +90453,17 @@ varistor
 0
 2
 2
+footprints
+SOP8L_200MIL_6110-1406_MAC
+
+MX25L3233FM2I-08G 
+0
+8
+8
+footprints
+U254-051N-4BH806
+
+
+0
+9
+9
