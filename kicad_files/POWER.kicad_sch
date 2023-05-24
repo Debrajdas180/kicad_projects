@@ -4087,7 +4087,7 @@
     (property "Value" "L_Ferrite" (at 84.455 135.89 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 84.455 138.43 0)
+    (property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (at 84.455 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 84.455 138.43 0)
