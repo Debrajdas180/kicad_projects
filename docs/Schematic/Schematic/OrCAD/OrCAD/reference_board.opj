@@ -1,0 +1,31 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\reference_board.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (MPSSessionName "aey1")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "Z:\D_ユーザ\鮒谷\AE_FAE\101_ソリューション\001_リファレンスソリューション\101_FPGA_Spartan7_reference\基板情報\回路図\OrCAD\reference_board.dsn")
+      (Path "Design Resources"
+         "Z:\D_ユーザ\鮒谷\AE_FAE\101_ソリューション\001_リファレンスソリューション\101_FPGA_Spartan7_reference\基板情報\回路図\OrCAD\reference_board.dsn"
+         "Spartan-7_Ref")
+      (Select "Design Resources"
+         "Z:\D_ユーザ\鮒谷\AE_FAE\101_ソリューション\001_リファレンスソリューション\101_FPGA_Spartan7_reference\基板情報\回路図\OrCAD\reference_board.dsn"
+         "Spartan-7_Ref"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 420"))
+      (Tab 0))))
