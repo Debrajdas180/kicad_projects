@@ -2717,6 +2717,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e3c62300-34d0-498f-aee0-81c9a219e06c)
   )
+  (label "VDD3V3" (at 152.4 37.465 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid fd7da6f8-559a-460e-a2f6-c1260ced9188)
+  )
 
   (hierarchical_label "TXD" (shape output) (at 287.655 144.145 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
