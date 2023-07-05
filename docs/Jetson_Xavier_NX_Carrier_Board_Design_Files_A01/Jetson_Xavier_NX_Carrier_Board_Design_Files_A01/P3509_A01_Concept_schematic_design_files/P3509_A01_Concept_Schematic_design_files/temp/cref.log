@@ -1,0 +1,106 @@
+
+Spawning... creferhdl.exe   -proj "C:\Users\asalam\Desktop\Rey\P3509\A00\p3509_a00.cpm"
+@(#)$CDS: Crefer version 17.2-2016 S050 (3751466) 12/12/2018 
+Reading Design ...
+Copyright 2011 Cadence Design Systems, Inc Cadence Design Systems. 
+
+Crefer 17.2-2016 S050 (3751466) 12/12/2018
+Copyright 2011 Cadence Design Systems, Inc
+
+
+, Status (12):: Loading design 'p3509_a00'.
+
+
+, Status (10):: Loading connectivity file 'C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1/p3509_a00.xcon'.
+
+
+, Status (11):: Loading property file 'C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\p3509_a00.dcf'.
+
+
+, Status (121):: Validating physical part information for components in design 'p3509_a00'.
+
+Reading hdl database                                        (00:00:03.08)
+
+Creating C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\rptcref_1 ...
+Using NV_11X17XXL_V3_TOC.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page1.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page2.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page3.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page4.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page5.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page6.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page7.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page8.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page9.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page10.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page11.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page12.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page13.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page14.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page15.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page16.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page17.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page18.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page19.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page20.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page21.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page22.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page23.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page24.csb.
+Using NV_11X17XXL_V3.1 as sheet border for design C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page25.csb.
+Processing Design ...
+Writing C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\rptcref_1\basenets.txt ...
+
+Processing p3509_a00:page1  ... Done
+Writing Design ...
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page1.csb
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page2.csb
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page3.csb
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page4.csb
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page5.csb
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page6.csb
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page7.csb
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page8.csb
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page9.csb
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page10.csb
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page11.csb
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page12.csb
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page13.csb
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page14.csb
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page15.csb
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page16.csb
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page17.csb
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page18.csb
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page19.csb
+
+Warnings in Page : @p3509_a00_lib.p3509_a00(sch_1):Page20
+Signal        I2C2_SDA at (4 F) has too little display space.
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page20.csb
+
+Warnings in Page : @p3509_a00_lib.p3509_a00(sch_1):Page21
+Signal        I2C2_SDA at (4 B) has too little display space.
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page21.csb
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page22.csb
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page23.csb
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page24.csb
+Rewriting C:\Users\asalam\Desktop\Rey\P3509\A00\worklib\p3509_a00\sch_1\page25.csb
+
+Schematic Reports Generated Successfully
+For details refer log file : C:\Users\asalam\Desktop\Rey\P3509\A00\temp\schrpt.log
+
+Normal completion.
+
+Crefer run on Sep 22 14:16:06 2019
+   DESIGN NAME : 'P3509_A00'
+
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:30:22
+elapsed time  0:00:18
+
+
+For the design expansion related errors/oversights/warnings, please review the file: C:\Users\asalam\Desktop\Rey\P3509\A00\temp\creferhdl.lst
+
+Exiting... creferhdl.exe

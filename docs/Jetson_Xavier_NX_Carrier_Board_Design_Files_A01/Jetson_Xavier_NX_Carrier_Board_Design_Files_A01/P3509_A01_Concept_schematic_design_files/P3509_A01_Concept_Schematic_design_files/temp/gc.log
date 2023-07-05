@@ -1,0 +1,826 @@
+
+Log File Report from Global Change Utility
+------------------------------------------
+
+Feb 10 15:00:46 2020
+
+Input Data:
+   Mode                :   Global Property Delete
+   Delete Property     :   COSTS = *
+
+Options:
+   Scope               :   Design (from this level down)
+   Initial Active Page :   @p3509_a01_lib.p3509_a01:sch_1 (page 1)
+   Objects to Process  :   Components
+   Save Modified Pages :   Yes
+   Wildcard Enabled    :   Yes
+
+Special Warnings:
+   1. There is no UNDO for multi-page changes
+   2. Wildcard used in property value
+   3. Occurrence properties will not be modified.
+
+
+Details on Modified Properties:
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 1)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 2)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 3)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 4)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 5)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 6)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 7)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 8)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 9)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 10)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 11)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 12)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 13)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 14)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 15)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 16)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 17)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 18)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 19)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 20)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 21)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 22)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 23)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 24)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 25)  
+
+
+Summary:
+
+    Status                     :  Successful Completion!
+    Pages Processed            :  25
+    Read Only Pages            :  0
+    Properties Deleted         :  0
+    Properties Not Deleted
+       Default Body Properties :  0
+       Locked Properties       :  0
+
+    Start Time                 :  Feb 10 15:00:46 2020
+    End Time                   :  Feb 10 15:01:03 2020
+    Elapsed Time               :  00:00:17  (hrs:min:sec)
+
+
+
+
+
+Log File Report from Global Change Utility
+------------------------------------------
+
+Feb 10 15:01:03 2020
+
+Input Data:
+   Mode                :   Global Property Delete
+   Delete Property     :   DESCRIPTION = *
+
+Options:
+   Scope               :   Design (from this level down)
+   Initial Active Page :   @p3509_a01_lib.p3509_a01:sch_1 (page 1)
+   Objects to Process  :   Components
+   Save Modified Pages :   Yes
+   Wildcard Enabled    :   Yes
+
+Special Warnings:
+   1. There is no UNDO for multi-page changes
+   2. Wildcard used in property value
+   3. Occurrence properties will not be modified.
+
+
+Details on Modified Properties:
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 1)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 2)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 3)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 4)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 5)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 6)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 7)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 8)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 9)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 10)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 11)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 12)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 13)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 14)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 15)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 16)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 17)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 18)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 19)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 20)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 21)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 22)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 23)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 24)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 25)  
+
+
+Summary:
+
+    Status                     :  Successful Completion!
+    Pages Processed            :  25
+    Read Only Pages            :  0
+    Properties Deleted         :  0
+    Properties Not Deleted
+       Default Body Properties :  0
+       Locked Properties       :  0
+
+    Start Time                 :  Feb 10 15:01:03 2020
+    End Time                   :  Feb 10 15:01:19 2020
+    Elapsed Time               :  00:00:16  (hrs:min:sec)
+
+
+
+
+
+Log File Report from Global Change Utility
+------------------------------------------
+
+Feb 10 15:01:19 2020
+
+Input Data:
+   Mode                :   Global Property Delete
+   Delete Property     :   HEIGHT = *
+
+Options:
+   Scope               :   Design (from this level down)
+   Initial Active Page :   @p3509_a01_lib.p3509_a01:sch_1 (page 1)
+   Objects to Process  :   Components
+   Save Modified Pages :   Yes
+   Wildcard Enabled    :   Yes
+
+Special Warnings:
+   1. There is no UNDO for multi-page changes
+   2. Wildcard used in property value
+   3. Occurrence properties will not be modified.
+
+
+Details on Modified Properties:
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 1)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 2)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 3)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 4)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 5)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 6)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 7)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 8)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 9)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 10)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 11)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 12)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 13)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 14)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 15)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 16)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 17)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 18)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 19)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 20)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 21)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 22)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 23)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 24)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 25)  
+
+
+Summary:
+
+    Status                     :  Successful Completion!
+    Pages Processed            :  25
+    Read Only Pages            :  0
+    Properties Deleted         :  0
+    Properties Not Deleted
+       Default Body Properties :  0
+       Locked Properties       :  0
+
+    Start Time                 :  Feb 10 15:01:19 2020
+    End Time                   :  Feb 10 15:01:35 2020
+    Elapsed Time               :  00:00:16  (hrs:min:sec)
+
+
+
+
+
+Log File Report from Global Change Utility
+------------------------------------------
+
+Feb 10 15:01:35 2020
+
+Input Data:
+   Mode                :   Global Property Delete
+   Delete Property     :   JEDEC_TYPE = *
+
+Options:
+   Scope               :   Design (from this level down)
+   Initial Active Page :   @p3509_a01_lib.p3509_a01:sch_1 (page 1)
+   Objects to Process  :   Components
+   Save Modified Pages :   Yes
+   Wildcard Enabled    :   Yes
+
+Special Warnings:
+   1. There is no UNDO for multi-page changes
+   2. Wildcard used in property value
+   3. Occurrence properties will not be modified.
+
+
+Details on Modified Properties:
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 1)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 2)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 3)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 4)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 5)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 6)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 7)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 8)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 9)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 10)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 11)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 12)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 13)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 14)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 15)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 16)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 17)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 18)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 19)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 20)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 21)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 22)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 23)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 24)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 25)  
+
+
+Summary:
+
+    Status                     :  Successful Completion!
+    Pages Processed            :  25
+    Read Only Pages            :  0
+    Properties Deleted         :  0
+    Properties Not Deleted
+       Default Body Properties :  0
+       Locked Properties       :  0
+
+    Start Time                 :  Feb 10 15:01:35 2020
+    End Time                   :  Feb 10 15:01:51 2020
+    Elapsed Time               :  00:00:16  (hrs:min:sec)
+
+
+
+
+
+Log File Report from Global Change Utility
+------------------------------------------
+
+Feb 10 15:01:51 2020
+
+Input Data:
+   Mode                :   Global Property Delete
+   Delete Property     :   LEAD_TIME = *
+
+Options:
+   Scope               :   Design (from this level down)
+   Initial Active Page :   @p3509_a01_lib.p3509_a01:sch_1 (page 1)
+   Objects to Process  :   Components
+   Save Modified Pages :   Yes
+   Wildcard Enabled    :   Yes
+
+Special Warnings:
+   1. There is no UNDO for multi-page changes
+   2. Wildcard used in property value
+   3. Occurrence properties will not be modified.
+
+
+Details on Modified Properties:
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 1)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 2)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 3)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 4)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 5)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 6)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 7)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 8)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 9)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 10)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 11)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 12)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 13)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 14)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 15)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 16)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 17)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 18)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 19)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 20)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 21)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 22)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 23)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 24)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 25)  
+
+
+Summary:
+
+    Status                     :  Successful Completion!
+    Pages Processed            :  25
+    Read Only Pages            :  0
+    Properties Deleted         :  0
+    Properties Not Deleted
+       Default Body Properties :  0
+       Locked Properties       :  0
+
+    Start Time                 :  Feb 10 15:01:51 2020
+    End Time                   :  Feb 10 15:02:07 2020
+    Elapsed Time               :  00:00:16  (hrs:min:sec)
+
+
+
+
+
+Log File Report from Global Change Utility
+------------------------------------------
+
+Feb 10 15:02:07 2020
+
+Input Data:
+   Mode                :   Global Property Delete
+   Delete Property     :   VOLUME = *
+
+Options:
+   Scope               :   Design (from this level down)
+   Initial Active Page :   @p3509_a01_lib.p3509_a01:sch_1 (page 1)
+   Objects to Process  :   Components
+   Save Modified Pages :   Yes
+   Wildcard Enabled    :   Yes
+
+Special Warnings:
+   1. There is no UNDO for multi-page changes
+   2. Wildcard used in property value
+   3. Occurrence properties will not be modified.
+
+
+Details on Modified Properties:
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 1)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 2)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 3)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 4)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 5)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 6)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 7)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 8)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 9)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 10)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 11)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 12)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 13)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 14)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 15)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 16)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 17)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 18)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 19)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 20)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 21)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 22)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 23)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 24)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 25)  
+
+
+Summary:
+
+    Status                     :  Successful Completion!
+    Pages Processed            :  25
+    Read Only Pages            :  0
+    Properties Deleted         :  0
+    Properties Not Deleted
+       Default Body Properties :  0
+       Locked Properties       :  0
+
+    Start Time                 :  Feb 10 15:02:07 2020
+    End Time                   :  Feb 10 15:02:22 2020
+    Elapsed Time               :  00:00:15  (hrs:min:sec)
+
+
+
+
+
+Log File Report from Global Change Utility
+------------------------------------------
+
+Feb 10 15:02:22 2020
+
+Input Data:
+   Mode                :   Global Property Delete
+   Delete Property     :   SPARE = *
+
+Options:
+   Scope               :   Design (from this level down)
+   Initial Active Page :   @p3509_a01_lib.p3509_a01:sch_1 (page 1)
+   Objects to Process  :   Components
+   Save Modified Pages :   Yes
+   Wildcard Enabled    :   Yes
+
+Special Warnings:
+   1. There is no UNDO for multi-page changes
+   2. Wildcard used in property value
+   3. Occurrence properties will not be modified.
+
+
+Details on Modified Properties:
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 1)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 2)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 3)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 4)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 5)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 6)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 7)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 8)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 9)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 10)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 11)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 12)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 13)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 14)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 15)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 16)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 17)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 18)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 19)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 20)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 21)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 22)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 23)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 24)  
+
+
+Page:   @p3509_a01_lib.p3509_a01:sch_1 (page 25)  
+
+
+Summary:
+
+    Status                     :  Successful Completion!
+    Pages Processed            :  25
+    Read Only Pages            :  0
+    Properties Deleted         :  0
+    Properties Not Deleted
+       Default Body Properties :  0
+       Locked Properties       :  0
+
+    Start Time                 :  Feb 10 15:02:22 2020
+    End Time                   :  Feb 10 15:02:38 2020
+    Elapsed Time               :  00:00:16  (hrs:min:sec)
+
+
+
+

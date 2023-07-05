@@ -1,0 +1,34 @@
+
+Crefer 17.2-2016 S050 (3751466) 12/12/2018
+Copyright 2011 Cadence Design Systems, Inc
+
+Starting to read hdl database
+   Finished reading hdl database (00:00:03.08)
+
+Crefer run on Sep 22 14:16:06 2019
+   DESIGN NAME : 'P3509_A00'
+
+   CANONICAL_NAME ON
+   COMPILE 'logic'
+   DIRECTORIES  <none>
+   EXPANSION_STYLE HIERARCHICAL
+   INTERFACE_TYPE LOGICAL
+   LIBRARIES  'p3509_a00_lib' 'nv_standard' 'standard' 'analog' 'batteries'
+              'clocks' 'digital' 'discrete' 'electro_mechanic' 'logic'
+              'mechanic' 'memory' 'optocouplers' 'power_supply'
+              'programmable_logic' 'protection_devices'
+   MASTER_LIBRARIES  <none>
+   MAX_ERRORS 500
+   OVERSIGHTS ON
+   REPLICATE OFF
+   SINGLE_NODE_NETS ON
+   SUPPRESS  <none>
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:30:22
+elapsed time  0:00:18
+

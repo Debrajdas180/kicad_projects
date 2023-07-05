@@ -1,0 +1,171 @@
+#ISCELL
+  nv_standard nv_11x17xxl_v3 *
+  *
+#CELL
+  electro_mechanic con_m2_pci_exp *
+  page19_i1
+#ISCELL
+  nv_standard offpage *
+  page19_i10
+#ISCELL
+  nv_standard offpage *
+  page19_i11
+#ISCELL
+  nv_standard offpage *
+  page19_i12
+#ISCELL
+  nv_standard offpage *
+  page19_i13
+#ISCELL
+  nv_standard offpage *
+  page19_i14
+#ISCELL
+  nv_standard offpage *
+  page19_i15
+#ISCELL
+  nv_standard offpage *
+  page19_i16
+#ISCELL
+  nv_standard offpage *
+  page19_i17
+#ISCELL
+  nv_standard offpage *
+  page19_i18
+#ISCELL
+  nv_standard offpage *
+  page19_i19
+#ISCELL
+  nv_standard offpage *
+  page19_i2
+#ISCELL
+  nv_standard offpage *
+  page19_i20
+#CELL
+  discrete c *
+  page19_i21
+#CELL
+  discrete c *
+  page19_i22
+#CELL
+  discrete c *
+  page19_i23
+#CELL
+  discrete c *
+  page19_i24
+#CELL
+  discrete c *
+  page19_i26
+#CELL
+  discrete c *
+  page19_i27
+#ISCELL
+  nv_standard gnd *
+  page19_i28
+#ISCELL
+  nv_standard gnd *
+  page19_i29
+#ISCELL
+  nv_standard offpage *
+  page19_i3
+#CELL
+  discrete c *
+  page19_i30
+#CELL
+  discrete c *
+  page19_i31
+#CELL
+  discrete c *
+  page19_i32
+#ISCELL
+  nv_standard gnd *
+  page19_i33
+#ISCELL
+  nv_standard offpage *
+  page19_i37
+#ISCELL
+  nv_standard offpage *
+  page19_i38
+#CELL
+  discrete r *
+  page19_i39
+#ISCELL
+  nv_standard offpage *
+  page19_i4
+#ISCELL
+  nv_standard 3v3 *
+  page19_i42
+#ISCELL
+  nv_standard offpage *
+  page19_i43
+#ISCELL
+  nv_standard offpage *
+  page19_i44
+#CELL
+  discrete r *
+  page19_i45
+#ISCELL
+  nv_standard offpage *
+  page19_i5
+#ISCELL
+  nv_standard offpage *
+  page19_i6
+#ISCELL
+  nv_standard offpage *
+  page19_i62
+#ISCELL
+  nv_standard gnd *
+  page19_i64
+#CELL
+  discrete r *
+  page19_i65
+#ISCELL
+  nv_standard offpage *
+  page19_i66
+#ISCELL
+  nv_standard offpage *
+  page19_i67
+#CELL
+  discrete r *
+  page19_i68
+#ISCELL
+  nv_standard offpage *
+  page19_i69
+#ISCELL
+  nv_standard offpage *
+  page19_i7
+#ISCELL
+  nv_standard offpage *
+  page19_i70
+#ISCELL
+  nv_standard var_pow *
+  page19_i71
+#ISCELL
+  nv_standard var_pow *
+  page19_i72
+#CELL
+  clocks osc_4pin *
+  page19_i75
+#ISCELL
+  nv_standard gnd *
+  page19_i77
+#CELL
+  discrete c *
+  page19_i78
+#ISCELL
+  nv_standard gnd *
+  page19_i79
+#CELL
+  discrete c *
+  page19_i8
+#ISCELL
+  nv_standard offpage *
+  page19_i80
+#ISCELL
+  nv_standard var_pow *
+  page19_i81
+#CELL
+  mechanic mec_standoff *
+  page19_i82
+#ISCELL
+  nv_standard offpage *
+  page19_i9

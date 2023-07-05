@@ -1,0 +1,147 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri JAN 11 12:00:00 2002' ;
+primitive 'D_SCHOTTKY_DSN_2','D_SCHOTTKY_SMA','D_SCHOTTKY_SMD','D_SCHOTTKY_SOD923','D_SCHOTTKY_SOD523','D_SCHOTTKY_SOD-123','D_SCHOTTKY_SOD882','D_SCHOTTKY_403-03','D_SCHOTTKY_POWERDI_123','D_SCHOTTKY_SMB','D_SCHOTTKY_SOD323','D_SCHOTTKY_SMC';
+  pin
+    'K':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'A':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    BODY_NAME='D_SCHOTTKY';
+    PART_NAME='D_SCHOTTKY';
+    PHYS_DES_PREFIX='D';
+    PINCOUNT='2';
+  end_body;
+end_primitive;
+
+primitive 'D_SCHOTTKY_SOD523_AK';
+  pin
+    'K':
+      PIN_NUMBER='(K)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'A':
+      PIN_NUMBER='(A)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    BODY_NAME='D_SCHOTTKY';
+    PART_NAME='D_SCHOTTKY';
+    PHYS_DES_PREFIX='D';
+    PINCOUNT='2';
+  end_body;
+end_primitive;
+
+primitive 'D_SCHOTTKY_SOT363','D_SCHOTTKY_SOT26';
+  pin
+    'K':
+      PIN_NUMBER='(6,5,4)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+      PIN_GROUP='1';
+    'A':
+      PIN_NUMBER='(1,2,3)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+      PIN_GROUP='1';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    BODY_NAME='D_SCHOTTKY';
+    PART_NAME='D_SCHOTTKY';
+    PHYS_DES_PREFIX='D';
+    PINCOUNT='6';
+  end_body;
+end_primitive;
+
+
+primitive 'D_SCHOTTKY_4PIN_DPAK';
+ PIN
+    'A1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'A2':
+      PIN_NUMBER='(3)';
+      PIN_TYPE='ANALOG';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'K1':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'K2':
+      PIN_NUMBER='(4)';
+      PIN_TYPE='ANALOG';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+ end_pin;
+  body
+    CLASS='DISCRETE';
+    BODY_NAME='D_SCHOTTKY';
+    PART_NAME='D_SCHOTTKY';
+    PHYS_DES_PREFIX='D';
+    PINCOUNT='4';
+  end_body;
+end_primitive;
+
+primitive 'D_SCHOTTKY_SOT23';
+  pin
+  'A1':
+    PIN_NUMBER='(1)';
+    PINUSE='UNSPEC';
+    NO_LOAD_CHECK='BOTH';
+    NO_IO_CHECK='BOTH';
+    ALLOW_CONNECT='TRUE';
+  'A2':
+    PIN_NUMBER='(2)';
+    PINUSE='UNSPEC';
+    NO_LOAD_CHECK='BOTH';
+    NO_IO_CHECK='BOTH';
+    ALLOW_CONNECT='TRUE';
+  'K1':
+    PIN_NUMBER='(3)';
+    PINUSE='UNSPEC';
+    NO_LOAD_CHECK='BOTH';
+    NO_IO_CHECK='BOTH';
+    ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    BODY_NAME='D_SCHOTTKY';
+    PART_NAME='D_SCHOTTKY';
+    PHYS_DES_PREFIX='D';
+  end_body;
+end_primitive;
+
+END.

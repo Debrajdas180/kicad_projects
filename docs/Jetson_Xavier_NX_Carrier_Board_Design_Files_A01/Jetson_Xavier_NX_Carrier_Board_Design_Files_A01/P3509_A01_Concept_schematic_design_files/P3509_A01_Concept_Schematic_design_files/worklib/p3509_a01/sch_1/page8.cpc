@@ -1,0 +1,123 @@
+#ISCELL
+  nv_standard nv_11x17xxl_v3 *
+  *
+#CELL
+  discrete q_fet_n_enh *
+  page8_i1
+#ISCELL
+  nv_standard gnd *
+  page8_i10
+#CELL
+  discrete c *
+  page8_i11
+#CELL
+  discrete c *
+  page8_i13
+#CELL
+  discrete r *
+  page8_i14
+#CELL
+  discrete l *
+  page8_i15
+#CELL
+  discrete l *
+  page8_i16
+#CELL
+  discrete r *
+  page8_i17
+#CELL
+  discrete r *
+  page8_i18
+#ISCELL
+  nv_standard gnd *
+  page8_i19
+#CELL
+  discrete c *
+  page8_i2
+#CELL
+  discrete c *
+  page8_i21
+#CELL
+  discrete c *
+  page8_i22
+#CELL
+  discrete q_fet_n_enh *
+  page8_i23
+#CELL
+  discrete c *
+  page8_i24
+#ISCELL
+  nv_standard gnd *
+  page8_i25
+#CELL
+  discrete r *
+  page8_i26
+#CELL
+  discrete r *
+  page8_i27
+#CELL
+  discrete c *
+  page8_i28
+#ISCELL
+  nv_standard gnd *
+  page8_i29
+#ISCELL
+  nv_standard gnd *
+  page8_i30
+#CELL
+  discrete r *
+  page8_i31
+#ISCELL
+  nv_standard gnd *
+  page8_i32
+#CELL
+  power_supply u_swreg_tps53015 *
+  page8_i33
+#CELL
+  discrete r *
+  page8_i34
+#ISCELL
+  nv_standard gnd *
+  page8_i35
+#CELL
+  discrete c *
+  page8_i37
+#ISCELL
+  nv_standard gnd *
+  page8_i38
+#CELL
+  discrete r *
+  page8_i39
+#CELL
+  discrete c *
+  page8_i40
+#ISCELL
+  nv_standard gnd *
+  page8_i41
+#CELL
+  discrete c *
+  page8_i42
+#ISCELL
+  nv_standard gnd *
+  page8_i43
+#ISCELL
+  nv_standard var_pow *
+  page8_i44
+#ISCELL
+  nv_standard var_pow *
+  page8_i45
+#ISCELL
+  nv_standard var_pow *
+  page8_i46
+#CELL
+  discrete r *
+  page8_i47
+#ISCELL
+  nv_standard offpage *
+  page8_i49
+#CELL
+  discrete c *
+  page8_i50
+#CELL
+  discrete c *
+  page8_i51

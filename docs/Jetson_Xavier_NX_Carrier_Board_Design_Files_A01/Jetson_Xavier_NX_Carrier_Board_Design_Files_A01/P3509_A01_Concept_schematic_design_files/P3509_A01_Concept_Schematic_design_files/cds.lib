@@ -1,0 +1,12 @@
+DEFINE p3509_a01_lib    worklib
+DEFINE power_supply    archive_libs/power_supply
+DEFINE analog    archive_libs/analog
+DEFINE clocks    archive_libs/clocks
+DEFINE digital    archive_libs/digital
+DEFINE discrete    archive_libs/discrete
+DEFINE memory    archive_libs/memory
+DEFINE logic    archive_libs/logic
+DEFINE electro_mechanic    archive_libs/electro_mechanic
+DEFINE mechanic    archive_libs/mechanic
+DEFINE standard    archive_libs/standard
+DEFINE nv_standard    archive_libs/nv_standard

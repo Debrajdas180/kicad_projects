@@ -1,0 +1,216 @@
+#ISCELL
+  nv_standard nv_11x17xxl_v3 *
+  *
+#CELL
+  electro_mechanic con_sodimm_260 *
+  page6_i1
+#ISCELL
+  nv_standard offpage *
+  page6_i10
+#ISCELL
+  nv_standard offpage *
+  page6_i2
+#ISCELL
+  nv_standard offpage *
+  page6_i23
+#ISCELL
+  nv_standard offpage *
+  page6_i24
+#ISCELL
+  nv_standard offpage *
+  page6_i25
+#ISCELL
+  nv_standard offpage *
+  page6_i26
+#ISCELL
+  nv_standard offpage *
+  page6_i27
+#ISCELL
+  nv_standard offpage *
+  page6_i28
+#ISCELL
+  nv_standard offpage *
+  page6_i29
+#ISCELL
+  nv_standard offpage *
+  page6_i3
+#ISCELL
+  nv_standard offpage *
+  page6_i30
+#ISCELL
+  nv_standard offpage *
+  page6_i31
+#ISCELL
+  nv_standard offpage *
+  page6_i32
+#ISCELL
+  nv_standard offpage *
+  page6_i33
+#CELL
+  discrete c *
+  page6_i34
+#ISCELL
+  nv_standard offpage *
+  page6_i35
+#CELL
+  discrete c *
+  page6_i36
+#ISCELL
+  nv_standard offpage *
+  page6_i4
+#ISCELL
+  nv_standard offpage *
+  page6_i43
+#ISCELL
+  nv_standard offpage *
+  page6_i44
+#ISCELL
+  nv_standard offpage *
+  page6_i45
+#ISCELL
+  nv_standard offpage *
+  page6_i46
+#ISCELL
+  nv_standard offpage *
+  page6_i47
+#ISCELL
+  nv_standard offpage *
+  page6_i48
+#ISCELL
+  nv_standard offpage *
+  page6_i49
+#ISCELL
+  nv_standard offpage *
+  page6_i5
+#ISCELL
+  nv_standard offpage *
+  page6_i50
+#ISCELL
+  nv_standard offpage *
+  page6_i51
+#ISCELL
+  nv_standard offpage *
+  page6_i52
+#ISCELL
+  nv_standard offpage *
+  page6_i53
+#ISCELL
+  nv_standard offpage *
+  page6_i54
+#ISCELL
+  nv_standard offpage *
+  page6_i55
+#ISCELL
+  nv_standard offpage *
+  page6_i56
+#ISCELL
+  nv_standard offpage *
+  page6_i57
+#ISCELL
+  nv_standard offpage *
+  page6_i58
+#ISCELL
+  nv_standard offpage *
+  page6_i59
+#ISCELL
+  nv_standard offpage *
+  page6_i6
+#ISCELL
+  nv_standard offpage *
+  page6_i60
+#ISCELL
+  nv_standard offpage *
+  page6_i61
+#ISCELL
+  nv_standard offpage *
+  page6_i62
+#ISCELL
+  nv_standard offpage *
+  page6_i63
+#ISCELL
+  nv_standard offpage *
+  page6_i64
+#ISCELL
+  nv_standard offpage *
+  page6_i65
+#ISCELL
+  nv_standard offpage *
+  page6_i67
+#ISCELL
+  nv_standard offpage *
+  page6_i68
+#ISCELL
+  nv_standard offpage *
+  page6_i69
+#ISCELL
+  nv_standard offpage *
+  page6_i7
+#ISCELL
+  nv_standard offpage *
+  page6_i70
+#ISCELL
+  nv_standard offpage *
+  page6_i71
+#ISCELL
+  nv_standard offpage *
+  page6_i72
+#ISCELL
+  nv_standard offpage *
+  page6_i73
+#ISCELL
+  nv_standard offpage *
+  page6_i74
+#ISCELL
+  nv_standard offpage *
+  page6_i75
+#ISCELL
+  nv_standard offpage *
+  page6_i76
+#ISCELL
+  nv_standard offpage *
+  page6_i77
+#ISCELL
+  nv_standard offpage *
+  page6_i78
+#ISCELL
+  nv_standard offpage *
+  page6_i8
+#CELL
+  logic u_buf_od *
+  page6_i85
+#ISCELL
+  nv_standard 3v3 *
+  page6_i86
+#CELL
+  discrete r *
+  page6_i87
+#ISCELL
+  nv_standard 3v3 *
+  page6_i88
+#ISCELL
+  nv_standard gnd *
+  page6_i89
+#ISCELL
+  nv_standard offpage *
+  page6_i9
+#ISCELL
+  nv_standard offpage *
+  page6_i90
+#CELL
+  electro_mechanic labtestpoint *
+  page6_i91
+#CELL
+  electro_mechanic labtestpoint *
+  page6_i92
+#CELL
+  electro_mechanic labtestpoint *
+  page6_i93
+#CELL
+  electro_mechanic labtestpoint *
+  page6_i94
+#CELL
+  electro_mechanic labtestpoint *
+  page6_i95
+#CELL
+  electro_mechanic labtestpoint *
+  page6_i96

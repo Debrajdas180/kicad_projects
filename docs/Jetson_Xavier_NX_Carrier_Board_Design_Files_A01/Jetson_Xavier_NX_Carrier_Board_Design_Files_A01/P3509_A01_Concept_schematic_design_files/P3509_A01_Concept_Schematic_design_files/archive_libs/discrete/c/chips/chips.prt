@@ -1,0 +1,84 @@
+FILE_TYPE=LIBRARY_PARTS;
+
+TIME='Created/Modified on Wed Jul 04 11:55:31 2007';
+
+primitive 'C_01005','C_0201','C_0201W','C_0402W','C_0805','C_0805W','C_0805L','C_0805LP','C_1206','C_1206W','C_1206LP','C_1210','C_1210LP','C_SMD','C_1210W','C_0805AC','C_2220','C_2420';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+	  PIN_TYPE='ANALOG';
+	  NO_LOAD_CHECK='BOTH';
+	  NO_IO_CHECK='BOTH';
+	  ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+	  PIN_TYPE='ANALOG';
+	  NO_LOAD_CHECK='BOTH';
+	  NO_IO_CHECK='BOTH';
+	  ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    BODY_NAME='C';
+    PART_NAME='C';
+    PHYS_DES_PREFIX='C';
+	SIGNAL_MODEL='nv_cap';
+        PINCOUNT='2';
+  end_body;
+end_primitive;
+
+
+primitive 'C_0402','C_1808','C_0204';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+	  PIN_TYPE='ANALOG';
+	  NO_LOAD_CHECK='BOTH';
+	  NO_IO_CHECK='BOTH';
+	  ALLOW_CONNECT='TRUE';
+	  PIN_GROUP='1';
+    '1':
+      PIN_NUMBER='(1)';
+	  PIN_TYPE='ANALOG';
+	  NO_LOAD_CHECK='BOTH';
+	  NO_IO_CHECK='BOTH';
+	  ALLOW_CONNECT='TRUE';
+	  PIN_GROUP='1';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    BODY_NAME='C';
+    PART_NAME='C';
+    PHYS_DES_PREFIX='C';
+	SIGNAL_MODEL='nv_cap';
+        PINCOUNT='2';
+  end_body;
+end_primitive;
+
+
+primitive 'C_0603','C_0603W','C_0603LP';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+	  PIN_TYPE='ANALOG';
+	  NO_LOAD_CHECK='BOTH';
+	  NO_IO_CHECK='BOTH';
+	  ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+	  PIN_TYPE='ANALOG';
+	  NO_LOAD_CHECK='BOTH';
+	  NO_IO_CHECK='BOTH';
+	  ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    BODY_NAME='C';
+    PART_NAME='C';
+    PHYS_DES_PREFIX='C';
+	SIGNAL_MODEL='nv_cap';
+        PINCOUNT='2';
+  end_body;
+end_primitive;
+
+END.

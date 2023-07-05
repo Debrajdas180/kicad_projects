@@ -1,0 +1,1425 @@
+Allegro Design Entry HDL 17.2-2016 S050 (3752318) 12/19/2018
+Copyright 2011 Cadence Design Systems, Inc
+
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1780): CATPATH is not a directory.
+WARNING(SPCOCN-2065): The PLOT_DPI directive defines the Dots Per Inch setting used by the printer for printing. Ensure that you specify a positive integer value for the directive.
+INFO(SPCOCN-2012): The Page Name property has changed. To display the page names in the Hierarchy Viewer, 
+choose File - Save Hierarchy.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+INFO(SPCOCN-245): Unknown project directive : BBOX_SHOWN_ON_ANY_MOVE.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+WARNING(SPCOCN-2027): The font specified in CPM category CDS_PINPROPERTY_NAME was not found. Ensure that the font is installed on the system. 
+The default font Concept Font will be used.
+WARNING(SPCOCN-2027): The font specified in CPM category CDS_REFDES_NAME was not found. Ensure that the font is installed on the system. 
+The default font Concept Font will be used.
+INFO(SPCOCN-1737): Reading C:\work\nvidia\Tegra\Xaiver_NX\customer_version\140-13509-0000-A01\p3509_a01_archive\cds.lib file.
+WARNING(SPCOCN-1474): You must specify a window that contains a drawing.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-195): The following file will be used to identify the list of modules to be excluded: 'C:\Cadence\SPB_17.2\share\cdssetup\xmodules.dat'.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.6 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.11 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.3 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.2 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.3 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.3 into drawing #1.
+INFO(SPCOCN-1350): User 'nwang' has an existing lock on the file 'C:\work\nvidia\Tegra\Xaiver_NX\customer_version\140-13509-0000-A01\p3509_a01_archive\worklib\p3509_a01\sch_1\page3.csb'. Removing it.
+INFO(SPCOCN-1315): Image 'C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/images/power_tree_2.JPG' is being imported at 72 DPI setting.
+INFO(SPCOCN-1311): quadrant is 2
+WARNING(SPCOCN-1312): Image cannot be drawn.
+INFO(SPCOCN-1854): The drawing P3509_A01.SCH.1.3
+INFO(SPCOCN-578): will be retained as drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.2 into drawing #2.
+INFO(SPCOCN-1443): P3509_A01.SCH.1.3 has been previously edited as drawing #1.
+INFO(SPCOCN-1443): P3509_A01.SCH.1.2 has been previously edited as drawing #2.
+INFO(SPCOCN-1443): P3509_A01.SCH.1.3 has been previously edited as drawing #1.
+INFO(SPCOCN-1315): Image 'C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/images/power_tree_2.JPG' is being imported at 72 DPI setting.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.3:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page3.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 3
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.3:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page3.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 3
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.3:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page3.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 3
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.3:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page3.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 3
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.3:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page3.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 3
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.3 into drawing #1.
+INFO(SPCOCN-1972): set default_grid off;
+INFO(SPCOCN-1972): set default_body_grid off;
+INFO(SPCOCN-1972): set default_doc_grid off;
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+Publishing Schematics...
+INFO(SPCOCN-1972): set show_pnn_signame on
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1972): publishpdf -all -print -file 602-13509-0000-A01.pdf -w 11 -h 17 -lmargin 0.250 -rmargin 0.250 -tmargin 0.250 -bmargin 0.250 -landscape
+INFO(SPCOCN-1443): P3509_A01.SCH.1.2 has been previously edited as drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.3 into drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.4 into drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.5 into drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.6 into drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.7 into drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.8 into drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.9 into drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.10 into drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.11 into drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.12 into drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.13 into drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.14 into drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.15 into drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.16 into drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.17 into drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.18 into drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.19 into drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.20 into drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.21 into drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.22 into drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.23 into drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.24 into drawing #2.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.25 into drawing #2.
+INFO(SPCOCN-1443): P3509_A01.SCH.1.1 has been previously edited as drawing #1.
+Filename: 602-13509-0000-A01.pdf
+Publishing Complete
+Press OK to Close (in DE-HDL)
+NV Publish
+Plot '602-13509-0000-A01.pdf' Successfully Published!
+
+Please Ensure Page Border Date is Updated!
+INFO(SPCOCN-1972): set show_pnn_signame off
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1972): set default_grid on;
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1972): set default_body_grid on;
+INFO(SPCOCN-1972): set default_doc_grid on;
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.1:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 1
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.3 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1315): Image 'C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/images/Power_tree_3.jpg' is being imported at 72 DPI setting.
+INFO(SPCOCN-1311): quadrant is 4
+INFO(SPCOCN-1311): quadrant is 1
+WARNING(SPCOCN-503): The specified stroke shape '9497' is not recognized. Ensure that you specify a known shape.
+INFO(SPCOCN-1311): quadrant is 7
+INFO(SPCOCN-1311): quadrant is 7
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.3:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page3.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 3
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1315): Image 'C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/images/Picture1.jpg' is being imported at 72 DPI setting.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+ERROR(SPCOCN-1314): Error importing the image. The selected image is not in a valid Bmp or Jpeg format.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1315): Image 'C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/images/Power_tree_4.jpg' is being imported at 72 DPI setting.
+INFO(SPCOCN-1001): Component: ??? selected.
+INFO(SPCOCN-1311): quadrant is 7
+WARNING(SPCOCN-1310): No Image found.
+WARNING(SPCOCN-1310): No Image found.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.3:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page3.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 3
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.3:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page3.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 3
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.3:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page3.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 3
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.3:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page3.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 3
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.3:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page3.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 3
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.3:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page3.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 3
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.3 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.6 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.11 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1972): set default_grid off;
+INFO(SPCOCN-1972): set default_body_grid off;
+INFO(SPCOCN-1972): set default_doc_grid off;
+Publishing Schematics...
+INFO(SPCOCN-1972): set show_pnn_signame on
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1972): publishpdf -all -print -file 602-13509-0000-A01.pdf -w 11 -h 17 -lmargin 0.250 -rmargin 0.250 -tmargin 0.250 -bmargin 0.250 -landscape
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.2 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.3 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.4 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.5 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.6 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.7 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.8 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.9 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.10 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.11 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.12 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.13 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.14 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.15 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.16 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.17 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.18 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.19 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.20 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.21 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.22 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.23 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.24 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.25 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.25 into drawing #1.
+;
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.25:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page25.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 25
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.25 into drawing #1.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.25:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page25.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 25
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1972): set default_grid off;
+INFO(SPCOCN-1972): set default_body_grid off;
+INFO(SPCOCN-1972): set default_doc_grid off;
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+Publishing Schematics...
+INFO(SPCOCN-1972): set show_pnn_signame on
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1972): publishpdf -all -print -file 602-13509-0000-A01.pdf -w 11 -h 17 -lmargin 0.250 -rmargin 0.250 -tmargin 0.250 -bmargin 0.250 -landscape
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.2 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.3 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.4 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.5 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.6 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.7 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.8 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.9 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.10 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.11 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.12 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.13 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.14 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.15 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.16 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.17 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.18 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.19 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.20 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.21 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.22 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.23 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.24 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.25 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.25 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.25 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.2 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.2 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.7 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.7 into drawing #1.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.7:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page7.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 7
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.7:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page7.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 7
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.7:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page7.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 7
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.7:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1727): Appending master.tag page1.csa with page7.csa
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 7
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.11 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.7 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.8 into drawing #1.
+INFO(SPCOCN-1972): set default_grid off;
+INFO(SPCOCN-1972): set default_body_grid off;
+INFO(SPCOCN-1972): set default_doc_grid off;
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+Publishing Schematics...
+INFO(SPCOCN-1972): set show_pnn_signame on
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1972): publishpdf -all -print -file 602-13509-0000-A01.pdf -w 11 -h 17 -lmargin 0.250 -rmargin 0.250 -tmargin 0.250 -bmargin 0.250 -landscape
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.2 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.3 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.4 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.5 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.6 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.7 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.8 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.9 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.10 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.11 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.12 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.13 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.14 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.15 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.16 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.17 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.18 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.19 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.20 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.21 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.22 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.23 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.24 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.25 into drawing #1.
+INFO(SPCOCN-1935): The PDF file could not be published.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1972): set show_pnn_signame off
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1972): set default_grid on;
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1972): set default_body_grid on;
+INFO(SPCOCN-1972): set default_doc_grid on;
+INFO(SPCOCN-1972): set default_grid off;
+INFO(SPCOCN-1972): set default_body_grid off;
+INFO(SPCOCN-1972): set default_doc_grid off;
+Publishing Schematics...
+INFO(SPCOCN-1972): set show_pnn_signame on
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1972): publishpdf -all -print -file 602-13509-0000-A01.pdf -w 11 -h 17 -lmargin 0.250 -rmargin 0.250 -tmargin 0.250 -bmargin 0.250 -landscape
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.2 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.3 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.4 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.5 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.6 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.7 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.8 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.9 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.10 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.11 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.12 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.13 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.14 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.15 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.16 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.17 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.18 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.19 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.20 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.21 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.22 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.23 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.24 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.25 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+Filename: 602-13509-0000-A01.pdf
+Publishing Complete
+Press OK to Close (in DE-HDL)
+NV Publish
+Plot '602-13509-0000-A01.pdf' Successfully Published!
+
+Please Ensure Page Border Date is Updated!
+INFO(SPCOCN-1972): set show_pnn_signame off
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1972): set default_grid on;
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1972): set default_body_grid on;
+INFO(SPCOCN-1972): set default_doc_grid on;
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.1:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 1
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+Processing entire design...
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.2 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.3 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.4 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.5 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.6 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.7 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.8 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.9 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.10 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.11 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.12 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.13 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.14 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.15 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.16 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.17 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.18 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.19 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.20 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.21 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.22 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.23 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.24 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.25 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+GlobalDelete Processing completed..
+Processing entire design...
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.2 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.3 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.4 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.5 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.6 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.7 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.8 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.9 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.10 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.11 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.12 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.13 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.14 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.15 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.16 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.17 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.18 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.19 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.20 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.21 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.22 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.23 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.24 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.25 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+GlobalDelete Processing completed..
+Processing entire design...
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.2 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.3 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.4 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.5 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.6 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.7 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.8 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.9 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.10 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.11 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.12 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.13 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.14 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.15 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.16 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.17 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.18 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.19 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.20 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.21 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.22 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.23 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.24 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.25 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+GlobalDelete Processing completed..
+Processing entire design...
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.2 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.3 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.4 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.5 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.6 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.7 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.8 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.9 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.10 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.11 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.12 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.13 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.14 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.15 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.16 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.17 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.18 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.19 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.20 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.21 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.22 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.23 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.24 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.25 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+GlobalDelete Processing completed..
+Processing entire design...
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.2 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.3 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.4 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.5 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.6 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.7 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.8 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.9 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.10 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.11 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.12 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.13 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.14 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.15 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.16 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.17 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.18 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.19 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.20 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.21 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.22 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.23 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.24 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.25 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+GlobalDelete Processing completed..
+Processing entire design...
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.2 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.3 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.4 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.5 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.6 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.7 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.8 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.9 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.10 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.11 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.12 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.13 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.14 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.15 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.16 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.17 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.18 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.19 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.20 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.21 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.22 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.23 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.24 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.25 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+GlobalDelete Processing completed..
+Processing entire design...
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.2 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.3 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.4 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.5 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.6 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.7 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.8 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.9 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.10 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.11 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.12 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.13 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.14 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.15 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.16 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.17 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.18 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.19 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.20 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.21 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.22 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.23 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.24 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.25 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+GlobalDelete Processing completed..
+GlobalBatch Processing completed..
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.25 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.1:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 1
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1972): set default_grid off;
+INFO(SPCOCN-1972): set default_body_grid off;
+INFO(SPCOCN-1972): set default_doc_grid off;
+Publishing Schematics...
+Incorrect BOM_REV Format!
+Format must be a single or double capital letter from A to Z
+Current Format:    preliminary
+Acceptable Format: A, B, .. Z, AA, AB.. ZZ
+see wiki https://wiki.nvidia.com/gpuboardsolutions/index.php/Infrastructure/Design/Schematic_PDF
+INCORRECT BOM REV FORMAT! 
+
+Aborting PDF Publishing
+
+Format must be a single or double capital letter from A to Z
+
+Current Format:    preliminary
+Acceptable Format: A, B, .. Z, AA, AB.. ZZ
+Please fix BOM REV and run againn
+
+See wiki in command console
+INFO(SPCOCN-1972): set show_pnn_signame off
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1972): set default_grid on;
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1972): set default_body_grid on;
+INFO(SPCOCN-1972): set default_doc_grid on;
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1972): set default_grid off;
+INFO(SPCOCN-1972): set default_body_grid off;
+INFO(SPCOCN-1972): set default_doc_grid off;
+Publishing Schematics...
+INFO(SPCOCN-1972): set show_pnn_signame on
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1972): publishpdf -all -print -file 602-13509-0000-A01.pdf -w 11 -h 17 -lmargin 0.250 -rmargin 0.250 -tmargin 0.250 -bmargin 0.250 -landscape
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.2 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.3 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.4 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.5 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.6 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.7 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.8 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.9 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.10 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.11 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.12 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.13 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.14 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.15 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.16 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.17 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.18 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.19 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.20 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.21 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.22 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.23 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.24 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.25 into drawing #1.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+Filename: 602-13509-0000-A01.pdf
+Publishing Complete
+Press OK to Close (in DE-HDL)
+NV Publish
+Plot '602-13509-0000-A01.pdf' Successfully Published!
+
+Please Ensure Page Border Date is Updated!
+INFO(SPCOCN-1972): set show_pnn_signame off
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1972): set default_grid on;
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1972): set default_body_grid on;
+INFO(SPCOCN-1972): set default_doc_grid on;
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.1:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 1
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.1:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 1
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1070): Checking drawing...
+INFO(SPCOCN-1028): writing <p3509_a01_lib>P3509_A01.SCH.1.1:
+INFO(SPCOCN-1044): writing binary file...
+INFO(SPCOCN-1049): Writing ASCII file...
+INFO(SPCOCN-1053): writing connectivity file...
+INFO(SPCOCN-1054): ...written
+
+CSDirect 17.2-2016 S050 (3752318)
+
+Netlisting block p3509_a01
+
+Processing page 1
+
+No netlisting errors found. 
+
+INFO(SPCOCN-1640): writing occurrence data...
+INFO(SPCOCN-1054): ...written
+INFO(SPCOCN-1445): Reading P3509_A01.SCH.1.1 into drawing #1.
+INFO(SPCOCN-1848): Grid too small. Not displayed.
+INFO(SPCOCN-1848): Grid too small. Not displayed.

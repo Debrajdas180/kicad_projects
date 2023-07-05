@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:shoppingCart xmlns:sc="http://www.cadence.com/SPB/shopping_cart" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" checksum="0">
+	<component cell="r" library="discrete" partname="R" partno="" quantity="1" >
+		<property name="MAX_WATTAGE"  value="62.5mW"/>
+		<property name="NV_PN"  value="195-0145-000"/>
+		<property name="PACK_TYPE"  value="0402"/>
+		<property name="TOL"  value="1 %"/>
+		<property name="VALUE"  value="19.6k"/>
+	</component>
+	<component cell="r" library="discrete" partname="R" partno="" quantity="1" >
+		<property name="MAX_WATTAGE"  value="62.5mW"/>
+		<property name="NV_PN"  value="195-0344-000"/>
+		<property name="PACK_TYPE"  value="0402"/>
+		<property name="TOL"  value="1 %"/>
+		<property name="VALUE"  value="5.11k"/>
+	</component>
+	<component cell="r" library="discrete" partname="R" partno="" quantity="1" >
+		<property name="MAX_WATTAGE"  value="62.5mW"/>
+		<property name="NV_PN"  value="195-0051-000"/>
+		<property name="PACK_TYPE"  value="0402"/>
+		<property name="TOL"  value="1 %"/>
+		<property name="VALUE"  value="124k"/>
+	</component>
+</sc:shoppingCart>

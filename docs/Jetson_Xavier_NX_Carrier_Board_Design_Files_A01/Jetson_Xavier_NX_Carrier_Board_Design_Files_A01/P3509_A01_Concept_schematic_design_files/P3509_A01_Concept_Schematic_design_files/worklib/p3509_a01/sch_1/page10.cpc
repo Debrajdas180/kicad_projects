@@ -1,0 +1,78 @@
+#ISCELL
+  nv_standard nv_11x17xxl_v3 *
+  *
+#CELL
+  power_supply u_vreg_5pin *
+  page10_i1
+#CELL
+  power_supply u_ldo *
+  page10_i10
+#ISCELL
+  nv_standard 3v3 *
+  page10_i11
+#CELL
+  discrete c *
+  page10_i13
+#CELL
+  discrete c *
+  page10_i14
+#ISCELL
+  nv_standard gnd *
+  page10_i15
+#CELL
+  discrete r *
+  page10_i16
+#ISCELL
+  nv_standard gnd *
+  page10_i17
+#CELL
+  discrete r *
+  page10_i18
+#ISCELL
+  nv_standard gnd *
+  page10_i19
+#ISCELL
+  nv_standard 3v3 *
+  page10_i2
+#CELL
+  discrete c *
+  page10_i20
+#ISCELL
+  nv_standard gnd *
+  page10_i21
+#CELL
+  discrete c *
+  page10_i23
+#CELL
+  discrete c *
+  page10_i24
+#ISCELL
+  nv_standard gnd *
+  page10_i25
+#ISCELL
+  nv_standard var_pow *
+  page10_i26
+#ISCELL
+  nv_standard offpage *
+  page10_i27
+#CELL
+  discrete c *
+  page10_i3
+#ISCELL
+  nv_standard gnd *
+  page10_i4
+#ISCELL
+  nv_standard gnd *
+  page10_i5
+#ISCELL
+  nv_standard 3v3 *
+  page10_i6
+#CELL
+  discrete c *
+  page10_i7
+#ISCELL
+  nv_standard gnd *
+  page10_i8
+#ISCELL
+  nv_standard offpage *
+  page10_i9

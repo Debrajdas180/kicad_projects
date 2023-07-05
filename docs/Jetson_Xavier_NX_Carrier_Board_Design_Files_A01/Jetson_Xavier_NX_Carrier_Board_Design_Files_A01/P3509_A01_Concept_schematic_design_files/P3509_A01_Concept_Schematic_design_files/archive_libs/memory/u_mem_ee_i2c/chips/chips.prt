@@ -1,0 +1,112 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME='Created/Modified on Tue Oct 30 09:41:23 2007';
+
+primitive 'U_MEM_EE_I2C_SO8','U_MEM_EE_I2C_DIP8','U_MEM_EE_I2C_DBGA2','U_MEM_EE_I2C_TSSOP8','U_MEM_EE_I2C_SOIC8';
+  pin
+  'A0':
+    PIN_NUMBER='(1)';
+    INPUT_LOAD='(-0.01,0.01)';
+  'A1':
+    PIN_NUMBER='(2)';
+    INPUT_LOAD='(-0.01,0.01)';
+  'A2':
+    PIN_NUMBER='(3)';
+    INPUT_LOAD='(-0.01,0.01)';
+  'SCL':
+    PIN_NUMBER='(6)';
+    INPUT_LOAD='(-0.01,0.01)';
+  'SDA':
+    PIN_NUMBER='(5)';
+    OUTPUT_LOAD='(1.0,-1.0)';
+    INPUT_LOAD='(-0.01,0.01)';
+    OUTPUT_TYPE='(TS,TS)';
+    BIDIRECTIONAL='TRUE';
+  'WP':
+    PIN_NUMBER='(7)';
+    INPUT_LOAD='(-0.01,0.01)';
+  'VCC':
+    PIN_NUMBER='(8)';
+    PINUSE='POWER';
+  'GND':
+    PIN_NUMBER='(4)';
+    PINUSE='GROUND';
+  end_pin;
+  body
+    CLASS=IC;
+    PART_NAME='U_MEM_EE_I2C';
+    BODY_NAME='U_MEM_EE_I2C';
+    PHYS_DES_PREFIX='U';
+    PINCOUNT='8';
+  end_body;
+end_primitive;
+
+primitive 'U_MEM_EE_I2C_MLP08','U_MEM_EE_I2C_DFN08','U_MEM_EE_I2C_TDFN08';
+  pin
+  'A0':
+    PIN_NUMBER='(1)';
+    INPUT_LOAD='(-0.01,0.01)';
+  'A1':
+    PIN_NUMBER='(2)';
+    INPUT_LOAD='(-0.01,0.01)';
+  'A2':
+    PIN_NUMBER='(3)';
+    INPUT_LOAD='(-0.01,0.01)';
+  'SCL':
+    PIN_NUMBER='(6)';
+    INPUT_LOAD='(-0.01,0.01)';
+  'SDA':
+    PIN_NUMBER='(5)';
+    OUTPUT_LOAD='(1.0,-1.0)';
+    INPUT_LOAD='(-0.01,0.01)';
+    OUTPUT_TYPE='(TS,TS)';
+    BIDIRECTIONAL='TRUE';
+  'WP':
+    PIN_NUMBER='(7)';
+    INPUT_LOAD='(-0.01,0.01)';
+  'VCC':
+    PIN_NUMBER='(8)';
+    PINUSE='POWER';
+  'GND':
+    PIN_NUMBER='(4)';
+    PINUSE='GROUND';
+  'TP':
+    PIN_NUMBER='(9)';
+    PINUSE='GROUND';
+  end_pin;
+  body
+    CLASS=IC;
+    PART_NAME='U_MEM_EE_I2C';
+    BODY_NAME='U_MEM_EE_I2C';
+    PHYS_DES_PREFIX='U';
+    PINCOUNT='9';
+  end_body;
+end_primitive;
+
+primitive 'U_MEM_EE_I2C_WLCSP4';
+  pin
+  'SCL':
+    PIN_NUMBER='(B1)';
+    INPUT_LOAD='(-0.01,0.01)';
+  'SDA':
+    PIN_NUMBER='(B2)';
+    OUTPUT_LOAD='(1.0,-1.0)';
+    INPUT_LOAD='(-0.01,0.01)';
+    OUTPUT_TYPE='(TS,TS)';
+    BIDIRECTIONAL='TRUE';
+  'VCC':
+    PIN_NUMBER='(A1)';
+    PINUSE='POWER';
+  'GND':
+    PIN_NUMBER='(A2)';
+    PINUSE='GROUND';
+  end_pin;
+  body
+    CLASS=IC;
+    PART_NAME='U_MEM_EE_I2C';
+    BODY_NAME='U_MEM_EE_I2C';
+    PHYS_DES_PREFIX='U';
+    PINCOUNT='4';
+  end_body;
+end_primitive;
+
+END.

@@ -1,0 +1,96 @@
+#ISCELL
+  nv_standard nv_11x17xxl_v3 *
+  *
+#CELL
+  discrete c *
+  page7_i29
+#ISCELL
+  nv_standard gnd *
+  page7_i30
+#CELL
+  electro_mechanic con_pwr_jack *
+  page7_i31
+#ISCELL
+  nv_standard gnd *
+  page7_i32
+#CELL
+  discrete d_esd *
+  page7_i33
+#CELL
+  discrete d_zener *
+  page7_i34
+#ISCELL
+  nv_standard gnd *
+  page7_i35
+#ISCELL
+  nv_standard gnd *
+  page7_i36
+#CELL
+  discrete c *
+  page7_i37
+#CELL
+  discrete c *
+  page7_i38
+#ISCELL
+  nv_standard gnd *
+  page7_i39
+#ISCELL
+  nv_standard var_pow *
+  page7_i4
+#ISCELL
+  nv_standard gnd *
+  page7_i40
+#CELL
+  discrete r *
+  page7_i41
+#ISCELL
+  nv_standard gnd *
+  page7_i45
+#CELL
+  digital u_rst_mon *
+  page7_i46
+#ISCELL
+  nv_standard gnd *
+  page7_i47
+#ISCELL
+  nv_standard offpage *
+  page7_i48
+#ISCELL
+  nv_standard gnd *
+  page7_i50
+#CELL
+  discrete c *
+  page7_i51
+#CELL
+  discrete r *
+  page7_i52
+#CELL
+  discrete r *
+  page7_i53
+#CELL
+  discrete q_fet_p_enh *
+  page7_i56
+#CELL
+  discrete r *
+  page7_i57
+#CELL
+  discrete r *
+  page7_i58
+#CELL
+  discrete c *
+  page7_i59
+#ISCELL
+  nv_standard gnd *
+  page7_i60
+#CELL
+  electro_mechanic hdr_1x2 *
+  page7_i61
+#ISCELL
+  nv_standard gnd *
+  page7_i62
+#CELL
+  discrete c *
+  page7_i63
+#ISCELL
+  nv_standard gnd *
+  page7_i64

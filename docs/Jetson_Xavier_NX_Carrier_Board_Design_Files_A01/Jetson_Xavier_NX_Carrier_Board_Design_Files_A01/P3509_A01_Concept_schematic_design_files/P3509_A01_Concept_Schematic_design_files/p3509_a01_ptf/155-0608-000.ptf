@@ -1,0 +1,10 @@
+{created  2018/05/02  11:56:18 }
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MEC_STANDOFF'
+:NAME PACK_TYPE NV_PN = LIFECYCLE PART_INTENT JEDEC_TYPE HEIGHT COSTS LEAD_TIME PREFERENCE SPARE DESCRIPTION COMPLIANCE PART_TYPE SOURCE_EXPANSION COLOR LINK MPN MANUFACTURER PREFERRED MFR_LIFECYCLE SUPPLIER_INTENT ALT_SYMBOLS;
+'SMD MECH STDF_06mm' 'SMD' '155-0608-000' = 'Released' 'Production' 'MEC_STANDOFF_PTH_620C380P' '0.73mm -1.53mm' '[ ]' '[ ]' '[ ]' 'N/A' 'STANDOFF for Stardust CVB' '[ ]' 'Library Part' 'CCM' 'Silver' '[ ]' '[ ]' '[ ]' 'No' '[ ]' '[ ]' '()'
+'SMD MECH STDF_035mm' 'SMD' '155-0879-000' = 'Validation' 'Production' 'MEC_STANDOFF_PTH_620C380P' '0.40mm -1.53mm' '[ ]' '[ ]' '[ ]' 'N/A' 'STANDOFF for JAKKU CVB' '[ ]' 'Library Part' 'CCM' 'Silver' '[ ]' '[ ]' '[ ]' 'No' '[ ]' '[ ]' '()'
+END_PART
+
+END.

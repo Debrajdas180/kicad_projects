@@ -1,0 +1,2216 @@
+( 
+	(global
+		("VARIANT_NAME" "SKU0000")
+		("VARIANT_VIEW" "schsku0000_1")
+		("VARIANT_DESCRIPTION" "")
+	)
+	(modules
+		"@p3509_a01_lib.p3509_a01(sch_1)"
+	)
+	(options
+		("VARIANT_PROP" "SKU")
+		("VARIANT_DNI" "NO STUFF")
+		("VARIANT_DESIGNATOR" "CHANGED")
+		("ASSEMBLY_DESCRIPTION" "Jetson Xavier NX Carrier Board ")
+		("BOM_REV" "C")
+		("NVPN" "600-13509-0000-100")
+	)
+	(props
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i77@discrete.r(chips)"
+			("SKU" "CHANGED")
+			("VALUE" "5.11k")
+			("PACK_TYPE" "0402")
+			("TOL" "1 %")
+			("MAX_WATTAGE" "62.5mW")
+			("NV_PN" "195-0344-000")
+			("LOCATION" "R195")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i6@discrete.r(chips)"
+			("SKU" "CHANGED")
+			("VALUE" "19.6k")
+			("PACK_TYPE" "0402")
+			("TOL" "1 %")
+			("MAX_WATTAGE" "62.5mW")
+			("NV_PN" "195-0145-000")
+			("LOCATION" "R142")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i1@digital.u_cpu_efm8sb1(chips)"
+			("SKU" "CHANGED")
+			("NAME" "EFM8SB10F2G-P3509")
+			("PACK_TYPE" "QFN20")
+			("TYPE" "Other")
+			("NV_PN" "190-13509-0001-000")
+			("LOCATION" "U18")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page6_i1@electro_mechanic.con_sodimm_260(chips)"
+			("SKU" "CHANGED")
+			("NAME" "1-2309413-1")
+			("PACK_TYPE" "SMD260_MNT2_JETSON")
+			("GENDER" "FEMALE")
+			("PITCH" "0.5mm")
+			("ANGLE" "90")
+			("REFLOW" "YES")
+			("SHROUDED" "YES")
+			("LATCHING" "YES")
+			("EMI_GROUND_TAB" "NO")
+			("SHIELDED" "NO")
+			("MAX_VOLTAGE" "25 V")
+			("MAX_CURRENT" "0.5 A")
+			("NV_PN" "080-1742-000")
+			("LOCATION" "J2")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i62@electro_mechanic.con_sodimm_260(chips)"
+			("SKU" "CHANGED")
+			("NAME" "1-2309413-1")
+			("PACK_TYPE" "SMD260_MNT2_JETSON")
+			("GENDER" "FEMALE")
+			("PITCH" "0.5mm")
+			("ANGLE" "90")
+			("REFLOW" "YES")
+			("SHROUDED" "YES")
+			("LATCHING" "YES")
+			("EMI_GROUND_TAB" "NO")
+			("SHIELDED" "NO")
+			("MAX_VOLTAGE" "25 V")
+			("MAX_CURRENT" "0.5 A")
+			("NV_PN" "080-1742-000")
+			("LOCATION" "J2")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i1@electro_mechanic.con_sodimm_260(chips)"
+			("SKU" "CHANGED")
+			("NAME" "1-2309413-1")
+			("PACK_TYPE" "SMD260_MNT2_JETSON")
+			("GENDER" "FEMALE")
+			("PITCH" "0.5mm")
+			("ANGLE" "90")
+			("REFLOW" "YES")
+			("SHROUDED" "YES")
+			("LATCHING" "YES")
+			("EMI_GROUND_TAB" "NO")
+			("SHIELDED" "NO")
+			("MAX_VOLTAGE" "25 V")
+			("MAX_CURRENT" "0.5 A")
+			("NV_PN" "080-1742-000")
+			("LOCATION" "J2")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i134@discrete.l(chips)"
+			("SKU" "CHANGED")
+			("VALUE" "0ohm")
+			("PACK_TYPE" "0201")
+			("TOL" "0.05 ohm")
+			("MAX_WATTAGE" "50mW")
+			("NV_PN" "195-1763-000")
+			("LIFECYCLE" "Released")
+			("PART_INTENT" "Production")
+			("JEDEC_TYPE" "0201")
+			("HEIGHT" "0.3mm")
+			("COSTS" "[ ]")
+			("LEAD_TIME" "[ ]")
+			("PREFERENCE" "[ ]")
+			("SPARE" "[ ]")
+			("WEIGHT" "[ ]")
+			("TEMP_RANGE" "-55degC..125degC")
+			("FIT" "[ ]@[ ]")
+			("MODEL_COUNT" "[ ]")
+			("DESCRIPTION" "RES SCD 0201 0R0 JUMPER Rmax R05 1/20W")
+			("COMPLIANCE" "P8E1-7cI-A-2")
+			("PART_TYPE" "Library Part")
+			("SOURCE_EXPANSION" "SCD")
+			("EIA_SERIES" "Jumper")
+			("LINK" "[ ]")
+			("MPN" "Multi(5)")
+			("MANUFACTURER" "Multi(5)")
+			("PREFERRED" "Yes")
+			("MFR_LIFECYCLE" "Multi(5)")
+			("SUPPLIER_INTENT" "Multi(5)")
+			("ALT_SYMBOLS" "()")
+			("LOCATION" "L35")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i133@discrete.l(chips)"
+			("SKU" "CHANGED")
+			("VALUE" "0ohm")
+			("PACK_TYPE" "0201")
+			("TOL" "0.05 ohm")
+			("MAX_WATTAGE" "50mW")
+			("NV_PN" "195-1763-000")
+			("LIFECYCLE" "Released")
+			("PART_INTENT" "Production")
+			("JEDEC_TYPE" "0201")
+			("HEIGHT" "0.3mm")
+			("COSTS" "[ ]")
+			("LEAD_TIME" "[ ]")
+			("PREFERENCE" "[ ]")
+			("SPARE" "[ ]")
+			("WEIGHT" "[ ]")
+			("TEMP_RANGE" "-55degC..125degC")
+			("FIT" "[ ]@[ ]")
+			("MODEL_COUNT" "[ ]")
+			("DESCRIPTION" "RES SCD 0201 0R0 JUMPER Rmax R05 1/20W")
+			("COMPLIANCE" "P8E1-7cI-A-2")
+			("PART_TYPE" "Library Part")
+			("SOURCE_EXPANSION" "SCD")
+			("EIA_SERIES" "Jumper")
+			("LINK" "[ ]")
+			("MPN" "Multi(5)")
+			("MANUFACTURER" "Multi(5)")
+			("PREFERRED" "Yes")
+			("MFR_LIFECYCLE" "Multi(5)")
+			("SUPPLIER_INTENT" "Multi(5)")
+			("ALT_SYMBOLS" "()")
+			("LOCATION" "L34")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i132@discrete.l(chips)"
+			("SKU" "CHANGED")
+			("VALUE" "0ohm")
+			("PACK_TYPE" "0201")
+			("TOL" "0.05 ohm")
+			("MAX_WATTAGE" "50mW")
+			("NV_PN" "195-1763-000")
+			("LIFECYCLE" "Released")
+			("PART_INTENT" "Production")
+			("JEDEC_TYPE" "0201")
+			("HEIGHT" "0.3mm")
+			("COSTS" "[ ]")
+			("LEAD_TIME" "[ ]")
+			("PREFERENCE" "[ ]")
+			("SPARE" "[ ]")
+			("WEIGHT" "[ ]")
+			("TEMP_RANGE" "-55degC..125degC")
+			("FIT" "[ ]@[ ]")
+			("MODEL_COUNT" "[ ]")
+			("DESCRIPTION" "RES SCD 0201 0R0 JUMPER Rmax R05 1/20W")
+			("COMPLIANCE" "P8E1-7cI-A-2")
+			("PART_TYPE" "Library Part")
+			("SOURCE_EXPANSION" "SCD")
+			("EIA_SERIES" "Jumper")
+			("LINK" "[ ]")
+			("MPN" "Multi(5)")
+			("MANUFACTURER" "Multi(5)")
+			("PREFERRED" "Yes")
+			("MFR_LIFECYCLE" "Multi(5)")
+			("SUPPLIER_INTENT" "Multi(5)")
+			("ALT_SYMBOLS" "()")
+			("LOCATION" "L33")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i131@discrete.l(chips)"
+			("SKU" "CHANGED")
+			("VALUE" "0ohm")
+			("PACK_TYPE" "0201")
+			("TOL" "0.05 ohm")
+			("MAX_WATTAGE" "50mW")
+			("NV_PN" "195-1763-000")
+			("LIFECYCLE" "Released")
+			("PART_INTENT" "Production")
+			("JEDEC_TYPE" "0201")
+			("HEIGHT" "0.3mm")
+			("COSTS" "[ ]")
+			("LEAD_TIME" "[ ]")
+			("PREFERENCE" "[ ]")
+			("SPARE" "[ ]")
+			("WEIGHT" "[ ]")
+			("TEMP_RANGE" "-55degC..125degC")
+			("FIT" "[ ]@[ ]")
+			("MODEL_COUNT" "[ ]")
+			("DESCRIPTION" "RES SCD 0201 0R0 JUMPER Rmax R05 1/20W")
+			("COMPLIANCE" "P8E1-7cI-A-2")
+			("PART_TYPE" "Library Part")
+			("SOURCE_EXPANSION" "SCD")
+			("EIA_SERIES" "Jumper")
+			("LINK" "[ ]")
+			("MPN" "Multi(5)")
+			("MANUFACTURER" "Multi(5)")
+			("PREFERRED" "Yes")
+			("MFR_LIFECYCLE" "Multi(5)")
+			("SUPPLIER_INTENT" "Multi(5)")
+			("ALT_SYMBOLS" "()")
+			("LOCATION" "L32")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i130@discrete.l(chips)"
+			("SKU" "CHANGED")
+			("VALUE" "0ohm")
+			("PACK_TYPE" "0201")
+			("TOL" "0.05 ohm")
+			("MAX_WATTAGE" "50mW")
+			("NV_PN" "195-1763-000")
+			("LIFECYCLE" "Released")
+			("PART_INTENT" "Production")
+			("JEDEC_TYPE" "0201")
+			("HEIGHT" "0.3mm")
+			("COSTS" "[ ]")
+			("LEAD_TIME" "[ ]")
+			("PREFERENCE" "[ ]")
+			("SPARE" "[ ]")
+			("WEIGHT" "[ ]")
+			("TEMP_RANGE" "-55degC..125degC")
+			("FIT" "[ ]@[ ]")
+			("MODEL_COUNT" "[ ]")
+			("DESCRIPTION" "RES SCD 0201 0R0 JUMPER Rmax R05 1/20W")
+			("COMPLIANCE" "P8E1-7cI-A-2")
+			("PART_TYPE" "Library Part")
+			("SOURCE_EXPANSION" "SCD")
+			("EIA_SERIES" "Jumper")
+			("LINK" "[ ]")
+			("MPN" "Multi(5)")
+			("MANUFACTURER" "Multi(5)")
+			("PREFERRED" "Yes")
+			("MFR_LIFECYCLE" "Multi(5)")
+			("SUPPLIER_INTENT" "Multi(5)")
+			("ALT_SYMBOLS" "()")
+			("LOCATION" "L31")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i129@discrete.l(chips)"
+			("SKU" "CHANGED")
+			("VALUE" "0ohm")
+			("PACK_TYPE" "0201")
+			("TOL" "0.05 ohm")
+			("MAX_WATTAGE" "50mW")
+			("NV_PN" "195-1763-000")
+			("LIFECYCLE" "Released")
+			("PART_INTENT" "Production")
+			("JEDEC_TYPE" "0201")
+			("HEIGHT" "0.3mm")
+			("COSTS" "[ ]")
+			("LEAD_TIME" "[ ]")
+			("PREFERENCE" "[ ]")
+			("SPARE" "[ ]")
+			("WEIGHT" "[ ]")
+			("TEMP_RANGE" "-55degC..125degC")
+			("FIT" "[ ]@[ ]")
+			("MODEL_COUNT" "[ ]")
+			("DESCRIPTION" "RES SCD 0201 0R0 JUMPER Rmax R05 1/20W")
+			("COMPLIANCE" "P8E1-7cI-A-2")
+			("PART_TYPE" "Library Part")
+			("SOURCE_EXPANSION" "SCD")
+			("EIA_SERIES" "Jumper")
+			("LINK" "[ ]")
+			("MPN" "Multi(5)")
+			("MANUFACTURER" "Multi(5)")
+			("PREFERRED" "Yes")
+			("MFR_LIFECYCLE" "Multi(5)")
+			("SUPPLIER_INTENT" "Multi(5)")
+			("ALT_SYMBOLS" "()")
+			("LOCATION" "L30")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i128@discrete.l(chips)"
+			("SKU" "CHANGED")
+			("VALUE" "0ohm")
+			("PACK_TYPE" "0201")
+			("TOL" "0.05 ohm")
+			("MAX_WATTAGE" "50mW")
+			("NV_PN" "195-1763-000")
+			("LIFECYCLE" "Released")
+			("PART_INTENT" "Production")
+			("JEDEC_TYPE" "0201")
+			("HEIGHT" "0.3mm")
+			("COSTS" "[ ]")
+			("LEAD_TIME" "[ ]")
+			("PREFERENCE" "[ ]")
+			("SPARE" "[ ]")
+			("WEIGHT" "[ ]")
+			("TEMP_RANGE" "-55degC..125degC")
+			("FIT" "[ ]@[ ]")
+			("MODEL_COUNT" "[ ]")
+			("DESCRIPTION" "RES SCD 0201 0R0 JUMPER Rmax R05 1/20W")
+			("COMPLIANCE" "P8E1-7cI-A-2")
+			("PART_TYPE" "Library Part")
+			("SOURCE_EXPANSION" "SCD")
+			("EIA_SERIES" "Jumper")
+			("LINK" "[ ]")
+			("MPN" "Multi(5)")
+			("MANUFACTURER" "Multi(5)")
+			("PREFERRED" "Yes")
+			("MFR_LIFECYCLE" "Multi(5)")
+			("SUPPLIER_INTENT" "Multi(5)")
+			("ALT_SYMBOLS" "()")
+			("LOCATION" "L29")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i127@discrete.l(chips)"
+			("SKU" "CHANGED")
+			("VALUE" "0ohm")
+			("PACK_TYPE" "0201")
+			("TOL" "0.05 ohm")
+			("MAX_WATTAGE" "50mW")
+			("NV_PN" "195-1763-000")
+			("LIFECYCLE" "Released")
+			("PART_INTENT" "Production")
+			("JEDEC_TYPE" "0201")
+			("HEIGHT" "0.3mm")
+			("COSTS" "[ ]")
+			("LEAD_TIME" "[ ]")
+			("PREFERENCE" "[ ]")
+			("SPARE" "[ ]")
+			("WEIGHT" "[ ]")
+			("TEMP_RANGE" "-55degC..125degC")
+			("FIT" "[ ]@[ ]")
+			("MODEL_COUNT" "[ ]")
+			("DESCRIPTION" "RES SCD 0201 0R0 JUMPER Rmax R05 1/20W")
+			("COMPLIANCE" "P8E1-7cI-A-2")
+			("PART_TYPE" "Library Part")
+			("SOURCE_EXPANSION" "SCD")
+			("EIA_SERIES" "Jumper")
+			("LINK" "[ ]")
+			("MPN" "Multi(5)")
+			("MANUFACTURER" "Multi(5)")
+			("PREFERRED" "Yes")
+			("MFR_LIFECYCLE" "Multi(5)")
+			("SUPPLIER_INTENT" "Multi(5)")
+			("ALT_SYMBOLS" "()")
+			("LOCATION" "L28")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i18@discrete.r(chips)"
+			("SKU" "CHANGED")
+			("VALUE" "124k")
+			("PACK_TYPE" "0402")
+			("TOL" "1 %")
+			("MAX_WATTAGE" "62.5mW")
+			("NV_PN" "195-0051-000")
+			("LOCATION" "R19")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i21@discrete.led(chips)"
+			("SKU" "CHANGED")
+			("NAME" "LED_SMD_0603")
+			("PACK_TYPE" "0603")
+			("MAX_VOLTAGE" "5V")
+			("MAX_CURRENT" "60mA")
+			("FORWARD_VOLTAGE" "2.35V")
+			("CONTINUOUS_CURRENT" "25mA")
+			("COLOR" "Green")
+			("NV_PN" "092-0073-000")
+			("LOCATION" "DS1")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i198@memory.u_mem_fl_ser_512kx8(chips)"
+			("SKU" "CHANGED")
+			("PACK_TYPE" "SO_8")
+			("SPEED_GRADE" "104MHz")
+			("POW" "2.3V..3.6V")
+			("NAME" "W25Q20CLSNIG-P3509")
+			("NV_PN" "190-13509-0000-000")
+			("LIFECYCLE" "Released")
+			("PART_INTENT" "Production")
+			("JEDEC_TYPE" "SO08_048X038")
+			("HEIGHT" "1.75mm")
+			("COSTS" "[ ]")
+			("LEAD_TIME" "[ ]")
+			("PREFERENCE" "[ ]")
+			("SPARE" "Winbond")
+			("WEIGHT" "0g")
+			("TEMP_RANGE" "-40degC..85degC")
+			("FIT" "[ ]@[ ]")
+			("MODEL_COUNT" "0")
+			("DESCRIPTION" "IC SERIAL FLASH 104MHz SO8 W25Q20CLSNIG DUAL BANK 2M-bit 3.3V")
+			("COMPLIANCE" "P8E0-A-2")
+			("PART_TYPE" "Library Part")
+			("SOURCE_EXPANSION" "CCM")
+			("LINK" "[ ]")
+			("MPN" "W25Q20CLSNIG")
+			("MANUFACTURER" "Winbond")
+			("PREFERRED" "Yes")
+			("MFR_LIFECYCLE" "Approved")
+			("SUPPLIER_INTENT" "Production")
+			("ALT_SYMBOLS" "()")
+			("LOCATION" "U28")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i25@electro_mechanic.con_battery(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "J3")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i141@discrete.c(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "C184")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i139@discrete.c(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "C183")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i137@discrete.c(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "C182")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i126@discrete.c(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "C181")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i140@discrete.c(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "C180")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i138@discrete.c(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "C179")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i136@discrete.c(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "C178")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i135@discrete.c(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "C177")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page7_i51@discrete.c(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "C154")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i189@discrete.c(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "C165")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i193@discrete.c(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "C163")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page11_i14@discrete.c(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "C38")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page7_i29@discrete.c(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "C143")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page7_i33@discrete.d_esd(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "D64")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page7_i61@electro_mechanic.hdr_1x2(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "J18")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i93@electro_mechanic.hdr_1x4(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "J17")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page26_i29@electro_mechanic.hdr_1x4(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "J19")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i7@discrete.l(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "L5")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i15@discrete.l(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "L3")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i50@discrete.l_cmf_4p(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "L18")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i47@discrete.l_cmf_4p(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "L17")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i44@discrete.l_cmf_4p(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "L16")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i36@discrete.l_cmf_4p(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "L15")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i59@discrete.l_cmf_4p(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "L27")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i56@discrete.l_cmf_4p(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "L26")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i62@discrete.l_cmf_4p(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "L25")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i65@discrete.l_cmf_4p(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "L24")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i20@discrete.l_cmf_4p(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "L8")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i13@discrete.l_cmf_4p(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "L2")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i74@discrete.l_cmf_4p(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "L23")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i71@discrete.l_cmf_4p(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "L22")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i77@discrete.l_cmf_4p(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "L21")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i68@discrete.l_cmf_4p(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "L20")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i19@discrete.l_cmf_4p(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "L10")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i35@discrete.l_cmf_4p(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "L1")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i189@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R186")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i94@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R222")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i27@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R2")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i102@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R225")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i27@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R134")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i82@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R191")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i81@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R190")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i80@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R189")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i78@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R188")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i77@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R187")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page20_i14@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R118")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page20_i13@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R117")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i105@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R228")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i104@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R227")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i90@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R198")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i36@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R137")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i15@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R132")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i18@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R130")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i40@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R128")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page7_i53@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R172")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page7_i41@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R171")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i184@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R175")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i2@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R10")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i4@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R8")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i10@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R6")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i12@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R5")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i14@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R4")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i16@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R3")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page19_i39@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R114")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page7_i52@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R173")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page19_i68@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R111")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page19_i65@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R110")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i21@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R107")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i20@discrete.r(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "R106")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page7_i46@digital.u_rst_mon(chips)"
+			("SKU" "NO STUFF")
+			("LOCATION" "U24")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page6_i36@discrete.c(chips)"
+			("LOCATION" "C4")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page6_i34@discrete.c(chips)"
+			("LOCATION" "C5")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page6_i87@discrete.r(chips)"
+			("LOCATION" "R13")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page6_i91@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP25")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page6_i92@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP26")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page6_i93@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP27")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page6_i94@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP28")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page6_i95@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP29")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page6_i96@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP30")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page6_i85@logic.u_buf_od(chips)"
+			("LOCATION" "U1")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i42@discrete.c(chips)"
+			("LOCATION" "C6")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i40@discrete.c(chips)"
+			("LOCATION" "C7")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i37@discrete.c(chips)"
+			("LOCATION" "C8")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i22@discrete.c(chips)"
+			("LOCATION" "C9")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i28@discrete.c(chips)"
+			("LOCATION" "C10")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i21@discrete.c(chips)"
+			("LOCATION" "C11")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i24@discrete.c(chips)"
+			("LOCATION" "C12")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i2@discrete.c(chips)"
+			("LOCATION" "C14")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i13@discrete.c(chips)"
+			("LOCATION" "C15")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i11@discrete.c(chips)"
+			("LOCATION" "C16")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i50@discrete.c(chips)"
+			("LOCATION" "C148")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i51@discrete.c(chips)"
+			("LOCATION" "C149")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i16@discrete.l(chips)"
+			("LOCATION" "L4")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i23@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q4")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i1@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q5")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i39@discrete.r(chips)"
+			("LOCATION" "R14")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i31@discrete.r(chips)"
+			("LOCATION" "R15")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i27@discrete.r(chips)"
+			("LOCATION" "R16")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i26@discrete.r(chips)"
+			("LOCATION" "R17")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i17@discrete.r(chips)"
+			("LOCATION" "R18")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i34@discrete.r(chips)"
+			("LOCATION" "R20")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i14@discrete.r(chips)"
+			("LOCATION" "R21")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i47@discrete.r(chips)"
+			("LOCATION" "R163")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page8_i33@power_supply.u_swreg_tps53015(chips)"
+			("LOCATION" "U3")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i34@discrete.c(chips)"
+			("LOCATION" "C19")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i30@discrete.c(chips)"
+			("LOCATION" "C20")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i13@discrete.c(chips)"
+			("LOCATION" "C21")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i26@discrete.c(chips)"
+			("LOCATION" "C22")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i11@discrete.c(chips)"
+			("LOCATION" "C23")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i12@discrete.c(chips)"
+			("LOCATION" "C24")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i19@discrete.c(chips)"
+			("LOCATION" "C26")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i6@discrete.c(chips)"
+			("LOCATION" "C27")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i5@discrete.c(chips)"
+			("LOCATION" "C28")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i41@discrete.c(chips)"
+			("LOCATION" "C150")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i42@discrete.c(chips)"
+			("LOCATION" "C151")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i45@discrete.c(chips)"
+			("LOCATION" "C175")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i8@discrete.l(chips)"
+			("LOCATION" "L6")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i9@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q6")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i1@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q7")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i46@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q36")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i47@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q37")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i15@discrete.r(chips)"
+			("LOCATION" "R23")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i25@discrete.r(chips)"
+			("LOCATION" "R24")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i23@discrete.r(chips)"
+			("LOCATION" "R25")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i17@discrete.r(chips)"
+			("LOCATION" "R26")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i18@discrete.r(chips)"
+			("LOCATION" "R27")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i21@discrete.r(chips)"
+			("LOCATION" "R28")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i16@discrete.r(chips)"
+			("LOCATION" "R29")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i38@discrete.r(chips)"
+			("LOCATION" "R164")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i48@discrete.r(chips)"
+			("LOCATION" "R204")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i51@discrete.r(chips)"
+			("LOCATION" "R205")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page9_i33@power_supply.u_swreg_tps53015(chips)"
+			("LOCATION" "U4")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page10_i24@discrete.c(chips)"
+			("LOCATION" "C30")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page10_i23@discrete.c(chips)"
+			("LOCATION" "C31")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page10_i20@discrete.c(chips)"
+			("LOCATION" "C32")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page10_i7@discrete.c(chips)"
+			("LOCATION" "C33")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page10_i14@discrete.c(chips)"
+			("LOCATION" "C34")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page10_i3@discrete.c(chips)"
+			("LOCATION" "C35")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page10_i13@discrete.c(chips)"
+			("LOCATION" "C36")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page10_i16@discrete.r(chips)"
+			("LOCATION" "R30")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page10_i18@discrete.r(chips)"
+			("LOCATION" "R31")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page10_i1@power_supply.u_vreg_5pin(chips)"
+			("LOCATION" "U5")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page10_i10@power_supply.u_ldo(chips)"
+			("LOCATION" "U6")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page11_i20@discrete.c(chips)"
+			("LOCATION" "C39")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page11_i25@discrete.d_esd(chips)"
+			("LOCATION" "D5")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page11_i18@discrete.d_esd(chips)"
+			("LOCATION" "D6")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page11_i17@discrete.d_esd(chips)"
+			("LOCATION" "D7")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page11_i4@electro_mechanic.con_usb(chips)"
+			("LOCATION" "J5")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page11_i10@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q8")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page11_i13@discrete.r(chips)"
+			("LOCATION" "R32")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page11_i11@discrete.r(chips)"
+			("LOCATION" "R33")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i63@discrete.c(chips)"
+			("LOCATION" "C40")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i64@discrete.c(chips)"
+			("LOCATION" "C41")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i65@discrete.c(chips)"
+			("LOCATION" "C42")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i67@discrete.c(chips)"
+			("LOCATION" "C43")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i66@discrete.c(chips)"
+			("LOCATION" "C44")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i70@discrete.c(chips)"
+			("LOCATION" "C45")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i71@discrete.c(chips)"
+			("LOCATION" "C46")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i72@discrete.c(chips)"
+			("LOCATION" "C47")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i73@discrete.c(chips)"
+			("LOCATION" "C48")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i74@discrete.c(chips)"
+			("LOCATION" "C49")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i77@discrete.c(chips)"
+			("LOCATION" "C51")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i76@discrete.c(chips)"
+			("LOCATION" "C52")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i100@discrete.c(chips)"
+			("LOCATION" "C55")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i105@discrete.c(chips)"
+			("LOCATION" "C56")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i102@discrete.c(chips)"
+			("LOCATION" "C58")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i138@discrete.c(chips)"
+			("LOCATION" "C60")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i15@discrete.c(chips)"
+			("LOCATION" "C61")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i137@discrete.c(chips)"
+			("LOCATION" "C62")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i11@discrete.c(chips)"
+			("LOCATION" "C63")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i149@discrete.c(chips)"
+			("LOCATION" "C155")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i150@discrete.c(chips)"
+			("LOCATION" "C156")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i182@discrete.c(chips)"
+			("LOCATION" "C164")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i179@discrete.c(chips)"
+			("LOCATION" "C166")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i178@discrete.c(chips)"
+			("LOCATION" "C167")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i199@discrete.c(chips)"
+			("LOCATION" "C170")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i181@discrete.l(chips)"
+			("LOCATION" "L19")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i139@discrete.r(chips)"
+			("LOCATION" "R35")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i49@discrete.r(chips)"
+			("LOCATION" "R36")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i46@discrete.r(chips)"
+			("LOCATION" "R37")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i166@discrete.r(chips)"
+			("LOCATION" "R38")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i180@discrete.r(chips)"
+			("LOCATION" "R176")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i186@discrete.r(chips)"
+			("LOCATION" "R177")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i187@discrete.r(chips)"
+			("LOCATION" "R178")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i205@discrete.r(chips)"
+			("LOCATION" "R199")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i204@discrete.r(chips)"
+			("LOCATION" "R200")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i202@discrete.r(chips)"
+			("LOCATION" "R201")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i145@digital.u_usb_hub_rts5489(chips)"
+			("LOCATION" "U7")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i112@digital.u_usb_hub_rts5489(chips)"
+			("LOCATION" "U7")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i176@power_supply.u_dcdc_buck_mp2152(chips)"
+			("LOCATION" "U26")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i80@mechanic.virtual_short(chips)"
+			("LOCATION" "VS1")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i81@mechanic.virtual_short(chips)"
+			("LOCATION" "VS2")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i82@mechanic.virtual_short(chips)"
+			("LOCATION" "VS3")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i83@mechanic.virtual_short(chips)"
+			("LOCATION" "VS4")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i84@mechanic.virtual_short(chips)"
+			("LOCATION" "VS5")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i86@mechanic.virtual_short(chips)"
+			("LOCATION" "VS6")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i88@mechanic.virtual_short(chips)"
+			("LOCATION" "VS7")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i87@mechanic.virtual_short(chips)"
+			("LOCATION" "VS8")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i89@mechanic.virtual_short(chips)"
+			("LOCATION" "VS9")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i90@mechanic.virtual_short(chips)"
+			("LOCATION" "VS10")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i93@mechanic.virtual_short(chips)"
+			("LOCATION" "VS12")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i94@mechanic.virtual_short(chips)"
+			("LOCATION" "VS13")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i147@mechanic.virtual_short(chips)"
+			("LOCATION" "VS17")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i148@mechanic.virtual_short(chips)"
+			("LOCATION" "VS18")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page12_i10@clocks.xtal_4pin(chips)"
+			("LOCATION" "Y1")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i45@discrete.c(chips)"
+			("LOCATION" "C64")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i54@discrete.c(chips)"
+			("LOCATION" "C65")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i44@discrete.c(chips)"
+			("LOCATION" "C66")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i53@discrete.c(chips)"
+			("LOCATION" "C67")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i40@discrete.c(chips)"
+			("LOCATION" "C127")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i63@discrete.c_pol(chips)"
+			("LOCATION" "C157")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i65@discrete.c(chips)"
+			("LOCATION" "C172")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i24@discrete.d_esd_diffpair(chips)"
+			("LOCATION" "D8")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i29@discrete.d_esd_diffpair(chips)"
+			("LOCATION" "D8")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i33@discrete.d_esd_diffpair(chips)"
+			("LOCATION" "D9")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i37@discrete.d_esd_diffpair(chips)"
+			("LOCATION" "D9")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i27@discrete.d_esd_diffpair(chips)"
+			("LOCATION" "D10")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i31@discrete.d_esd_diffpair(chips)"
+			("LOCATION" "D10")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i80@electro_mechanic.con_usb3(chips)"
+			("LOCATION" "J6")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i42@discrete.r(chips)"
+			("LOCATION" "R40")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i34@discrete.r(chips)"
+			("LOCATION" "R41")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i36@discrete.r(chips)"
+			("LOCATION" "R42")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i18@discrete.r(chips)"
+			("LOCATION" "R167")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i20@discrete.r(chips)"
+			("LOCATION" "R169")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i70@discrete.r(chips)"
+			("LOCATION" "R206")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i69@discrete.r(chips)"
+			("LOCATION" "R207")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i78@discrete.r(chips)"
+			("LOCATION" "R208")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i79@discrete.r(chips)"
+			("LOCATION" "R209")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i72@discrete.r(chips)"
+			("LOCATION" "R210")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i73@discrete.r(chips)"
+			("LOCATION" "R211")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i75@discrete.r(chips)"
+			("LOCATION" "R212")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i76@discrete.r(chips)"
+			("LOCATION" "R213")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page13_i67@analog.u_sw_load(chips)"
+			("LOCATION" "U21")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i25@discrete.c(chips)"
+			("LOCATION" "C72")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i33@discrete.c(chips)"
+			("LOCATION" "C73")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i24@discrete.c(chips)"
+			("LOCATION" "C74")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i32@discrete.c(chips)"
+			("LOCATION" "C75")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i45@discrete.c(chips)"
+			("LOCATION" "C158")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i51@discrete.c_pol(chips)"
+			("LOCATION" "C160")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i53@discrete.c(chips)"
+			("LOCATION" "C173")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i22@discrete.d_esd_diffpair(chips)"
+			("LOCATION" "D11")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i9@discrete.d_esd_diffpair(chips)"
+			("LOCATION" "D11")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i11@discrete.d_esd_diffpair(chips)"
+			("LOCATION" "D12")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i17@discrete.d_esd_diffpair(chips)"
+			("LOCATION" "D12")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i6@discrete.d_esd_diffpair(chips)"
+			("LOCATION" "D13")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i15@discrete.d_esd_diffpair(chips)"
+			("LOCATION" "D13")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i68@electro_mechanic.con_usb3(chips)"
+			("LOCATION" "J7")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i19@discrete.r(chips)"
+			("LOCATION" "R44")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i21@discrete.r(chips)"
+			("LOCATION" "R45")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i12@discrete.r(chips)"
+			("LOCATION" "R46")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i14@discrete.r(chips)"
+			("LOCATION" "R47")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i48@discrete.r(chips)"
+			("LOCATION" "R174")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i67@discrete.r(chips)"
+			("LOCATION" "R214")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i66@discrete.r(chips)"
+			("LOCATION" "R215")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i64@discrete.r(chips)"
+			("LOCATION" "R216")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i63@discrete.r(chips)"
+			("LOCATION" "R217")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i57@discrete.r(chips)"
+			("LOCATION" "R218")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i58@discrete.r(chips)"
+			("LOCATION" "R219")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i60@discrete.r(chips)"
+			("LOCATION" "R220")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i61@discrete.r(chips)"
+			("LOCATION" "R221")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page14_i55@analog.u_sw_load(chips)"
+			("LOCATION" "U25")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i95@discrete.c(chips)"
+			("LOCATION" "C76")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i93@discrete.c(chips)"
+			("LOCATION" "C77")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i103@discrete.c(chips)"
+			("LOCATION" "C78")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i108@discrete.c(chips)"
+			("LOCATION" "C79")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i109@discrete.c(chips)"
+			("LOCATION" "C80")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i110@discrete.c(chips)"
+			("LOCATION" "C81")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i104@discrete.c(chips)"
+			("LOCATION" "C82")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i105@discrete.c(chips)"
+			("LOCATION" "C83")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i106@discrete.c(chips)"
+			("LOCATION" "C84")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i107@discrete.c(chips)"
+			("LOCATION" "C85")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i85@discrete.c(chips)"
+			("LOCATION" "C86")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i56@discrete.c(chips)"
+			("LOCATION" "C87")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i37@discrete.c(chips)"
+			("LOCATION" "C88")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i19@discrete.c(chips)"
+			("LOCATION" "C89")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i23@discrete.c(chips)"
+			("LOCATION" "C90")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i18@discrete.c(chips)"
+			("LOCATION" "C91")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i16@discrete.c(chips)"
+			("LOCATION" "C93")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i74@discrete.d_esd_diffpair(chips)"
+			("LOCATION" "D14")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i72@discrete.d_esd_diffpair(chips)"
+			("LOCATION" "D14")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i52@discrete.d_3pin_cc(chips)"
+			("LOCATION" "D15")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i41@discrete.d_esd(chips)"
+			("LOCATION" "D16")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i38@discrete.d_esd(chips)"
+			("LOCATION" "D17")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i22@discrete.d_esd(chips)"
+			("LOCATION" "D18")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i29@discrete.d_esd_diffpair(chips)"
+			("LOCATION" "D19")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i3@discrete.d_esd_diffpair(chips)"
+			("LOCATION" "D19")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i14@discrete.d_esd(chips)"
+			("LOCATION" "D20")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i25@electro_mechanic.con_hdmi_displayport(chips)"
+			("LOCATION" "J8")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i43@discrete.l(chips)"
+			("LOCATION" "L14")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i111@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q11")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i58@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q12")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i49@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q12")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i50@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q13")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i33@discrete.q_npn(chips)"
+			("LOCATION" "Q14")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i101@discrete.r(chips)"
+			("LOCATION" "R48")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i114@discrete.r(chips)"
+			("LOCATION" "R49")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i86@discrete.r(chips)"
+			("LOCATION" "R50")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i76@discrete.r(chips)"
+			("LOCATION" "R51")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i77@discrete.r(chips)"
+			("LOCATION" "R52")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i78@discrete.r(chips)"
+			("LOCATION" "R53")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i79@discrete.r(chips)"
+			("LOCATION" "R54")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i80@discrete.r(chips)"
+			("LOCATION" "R55")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i81@discrete.r(chips)"
+			("LOCATION" "R56")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i82@discrete.r(chips)"
+			("LOCATION" "R57")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i83@discrete.r(chips)"
+			("LOCATION" "R58")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i55@discrete.r(chips)"
+			("LOCATION" "R59")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i54@discrete.r(chips)"
+			("LOCATION" "R60")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i53@discrete.r(chips)"
+			("LOCATION" "R61")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i51@discrete.r(chips)"
+			("LOCATION" "R62")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i47@discrete.r(chips)"
+			("LOCATION" "R63")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i40@discrete.r(chips)"
+			("LOCATION" "R64")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i32@discrete.r(chips)"
+			("LOCATION" "R65")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i44@discrete.r(chips)"
+			("LOCATION" "R66")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i2@discrete.r(chips)"
+			("LOCATION" "R67")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i63@discrete.r(chips)"
+			("LOCATION" "R68")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i65@discrete.r(chips)"
+			("LOCATION" "R69")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i66@discrete.r(chips)"
+			("LOCATION" "R70")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i68@discrete.r(chips)"
+			("LOCATION" "R71")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i69@discrete.r(chips)"
+			("LOCATION" "R72")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i71@discrete.r(chips)"
+			("LOCATION" "R73")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i11@discrete.r(chips)"
+			("LOCATION" "R74")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i10@discrete.r(chips)"
+			("LOCATION" "R75")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i125@discrete.r(chips)"
+			("LOCATION" "R202")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i92@analog.u_sw_load(chips)"
+			("LOCATION" "U8")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page15_i89@power_supply.u_pwr_sw_ul(chips)"
+			("LOCATION" "U9")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i55@discrete.c(chips)"
+			("LOCATION" "C94")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i58@discrete.c(chips)"
+			("LOCATION" "C95")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i62@discrete.c(chips)"
+			("LOCATION" "C96")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i63@discrete.c(chips)"
+			("LOCATION" "C97")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i54@discrete.c(chips)"
+			("LOCATION" "C98")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i59@discrete.c(chips)"
+			("LOCATION" "C99")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i60@discrete.c(chips)"
+			("LOCATION" "C100")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i61@discrete.c(chips)"
+			("LOCATION" "C101")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i74@discrete.c(chips)"
+			("LOCATION" "C102")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i75@discrete.c(chips)"
+			("LOCATION" "C103")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i21@discrete.c(chips)"
+			("LOCATION" "C104")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i9@discrete.c_pol(chips)"
+			("LOCATION" "C105")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i106@discrete.c(chips)"
+			("LOCATION" "C174")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i67@discrete.d_esd_diffpair(chips)"
+			("LOCATION" "D21")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i64@discrete.d_esd_diffpair(chips)"
+			("LOCATION" "D21")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i52@discrete.d_esd_diffpair(chips)"
+			("LOCATION" "D22")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i42@discrete.d_esd_diffpair(chips)"
+			("LOCATION" "D22")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i14@discrete.d_esd_diffpair(chips)"
+			("LOCATION" "D23")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i12@discrete.d_esd_diffpair(chips)"
+			("LOCATION" "D23")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i11@electro_mechanic.con_hdmi_displayport(chips)"
+			("LOCATION" "J8")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i30@discrete.q_npn(chips)"
+			("LOCATION" "Q15")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i32@discrete.q_npn(chips)"
+			("LOCATION" "Q16")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i103@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q30")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i104@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q31")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i99@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q32")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i101@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q33")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i100@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q34")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i102@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q35")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i29@discrete.r(chips)"
+			("LOCATION" "R76")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i35@discrete.r(chips)"
+			("LOCATION" "R77")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i37@discrete.r(chips)"
+			("LOCATION" "R78")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i38@discrete.r(chips)"
+			("LOCATION" "R79")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i45@discrete.r(chips)"
+			("LOCATION" "R80")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i46@discrete.r(chips)"
+			("LOCATION" "R81")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i48@discrete.r(chips)"
+			("LOCATION" "R82")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i49@discrete.r(chips)"
+			("LOCATION" "R83")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i51@discrete.r(chips)"
+			("LOCATION" "R84")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i28@discrete.r(chips)"
+			("LOCATION" "R85")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i26@discrete.r(chips)"
+			("LOCATION" "R86")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i23@discrete.r(chips)"
+			("LOCATION" "R87")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i16@discrete.r(chips)"
+			("LOCATION" "R88")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i19@discrete.r(chips)"
+			("LOCATION" "R89")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i18@discrete.r(chips)"
+			("LOCATION" "R90")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i6@discrete.r(chips)"
+			("LOCATION" "R91")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i1@discrete.r(chips)"
+			("LOCATION" "R92")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i88@discrete.r(chips)"
+			("LOCATION" "R192")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i87@discrete.r(chips)"
+			("LOCATION" "R193")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i84@discrete.r(chips)"
+			("LOCATION" "R194")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i4@power_supply.u_pwr_sw_ul(chips)"
+			("LOCATION" "U10")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page16_i108@logic.u_levshft_3state(chips)"
+			("LOCATION" "U27")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i89@discrete.c(chips)"
+			("LOCATION" "C106")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i94@discrete.c(chips)"
+			("LOCATION" "C107")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i112@discrete.d_esd(chips)"
+			("LOCATION" "D24")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i146@discrete.d_esd(chips)"
+			("LOCATION" "D25")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i111@discrete.d_esd(chips)"
+			("LOCATION" "D26")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i144@discrete.d_esd(chips)"
+			("LOCATION" "D27")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i142@discrete.d_esd(chips)"
+			("LOCATION" "D28")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i108@discrete.d_esd(chips)"
+			("LOCATION" "D29")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i134@discrete.d_esd(chips)"
+			("LOCATION" "D30")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i107@discrete.d_esd(chips)"
+			("LOCATION" "D31")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i132@discrete.d_esd(chips)"
+			("LOCATION" "D32")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i140@discrete.d_esd(chips)"
+			("LOCATION" "D33")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i103@discrete.d_esd(chips)"
+			("LOCATION" "D34")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i131@discrete.d_esd(chips)"
+			("LOCATION" "D35")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i138@discrete.d_esd(chips)"
+			("LOCATION" "D36")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i102@discrete.d_esd(chips)"
+			("LOCATION" "D37")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i129@discrete.d_esd(chips)"
+			("LOCATION" "D38")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i136@discrete.d_esd(chips)"
+			("LOCATION" "D39")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i86@electro_mechanic.con_fpc_15(chips)"
+			("LOCATION" "J1")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i91@electro_mechanic.con_fpc_15(chips)"
+			("LOCATION" "J9")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i82@discrete.r(chips)"
+			("LOCATION" "R93")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i75@discrete.r(chips)"
+			("LOCATION" "R94")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i77@discrete.r(chips)"
+			("LOCATION" "R95")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i74@discrete.r(chips)"
+			("LOCATION" "R96")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i72@discrete.r(chips)"
+			("LOCATION" "R97")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i71@discrete.r(chips)"
+			("LOCATION" "R98")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page17_i79@analog.u_sw_ana_usb(chips)"
+			("LOCATION" "U11")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i26@discrete.c(chips)"
+			("LOCATION" "C108")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i36@discrete.c(chips)"
+			("LOCATION" "C109")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i25@discrete.c(chips)"
+			("LOCATION" "C110")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i34@discrete.c(chips)"
+			("LOCATION" "C111")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i16@discrete.c(chips)"
+			("LOCATION" "C112")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i17@discrete.c(chips)"
+			("LOCATION" "C113")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i40@discrete.d_esd(chips)"
+			("LOCATION" "D40")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i38@discrete.d_esd(chips)"
+			("LOCATION" "D41")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i1@electro_mechanic.con_m2_pci_exp(chips)"
+			("LOCATION" "J10")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i89@mechanic.mec_standoff(chips)"
+			("LOCATION" "MEC1")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i73@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q17")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i44@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q18")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i72@discrete.r(chips)"
+			("LOCATION" "R99")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i52@discrete.r(chips)"
+			("LOCATION" "R100")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i47@discrete.r(chips)"
+			("LOCATION" "R101")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i30@discrete.r(chips)"
+			("LOCATION" "R102")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i43@discrete.r(chips)"
+			("LOCATION" "R103")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i15@discrete.r(chips)"
+			("LOCATION" "R104")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page18_i14@discrete.r(chips)"
+			("LOCATION" "R105")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page19_i27@discrete.c(chips)"
+			("LOCATION" "C114")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page19_i26@discrete.c(chips)"
+			("LOCATION" "C115")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page19_i24@discrete.c(chips)"
+			("LOCATION" "C116")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page19_i32@discrete.c(chips)"
+			("LOCATION" "C117")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page19_i30@discrete.c(chips)"
+			("LOCATION" "C118")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page19_i31@discrete.c(chips)"
+			("LOCATION" "C119")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page19_i8@discrete.c(chips)"
+			("LOCATION" "C120")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page19_i21@discrete.c(chips)"
+			("LOCATION" "C121")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page19_i22@discrete.c(chips)"
+			("LOCATION" "C122")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page19_i23@discrete.c(chips)"
+			("LOCATION" "C123")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page19_i78@discrete.c(chips)"
+			("LOCATION" "C144")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page19_i1@electro_mechanic.con_m2_pci_exp(chips)"
+			("LOCATION" "J11")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page19_i82@mechanic.mec_standoff(chips)"
+			("LOCATION" "MEC2")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page19_i45@discrete.r(chips)"
+			("LOCATION" "R113")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page19_i75@clocks.osc_4pin(chips)"
+			("LOCATION" "Y2")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page20_i68@discrete.c(chips)"
+			("LOCATION" "C124")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page20_i57@discrete.c(chips)"
+			("LOCATION" "C125")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page20_i40@discrete.c(chips)"
+			("LOCATION" "C126")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page20_i31@discrete.c(chips)"
+			("LOCATION" "C128")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page20_i84@discrete.d_esd(chips)"
+			("LOCATION" "D42")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page20_i82@discrete.d_esd(chips)"
+			("LOCATION" "D43")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page20_i79@discrete.d_esd(chips)"
+			("LOCATION" "D44")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page20_i78@discrete.d_esd(chips)"
+			("LOCATION" "D45")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page20_i1@electro_mechanic.hdr_2x20(chips)"
+			("LOCATION" "J12")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page20_i203@discrete.q_fet_p_enh(chips)"
+			("LOCATION" "Q23")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page20_i210@discrete.q_pnp(chips)"
+			("LOCATION" "Q24")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page20_i209@discrete.q_pnp(chips)"
+			("LOCATION" "Q24")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page20_i98@discrete.r(chips)"
+			("LOCATION" "R115")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page20_i100@discrete.r(chips)"
+			("LOCATION" "R116")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page20_i211@discrete.r(chips)"
+			("LOCATION" "R179")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page20_i212@discrete.r(chips)"
+			("LOCATION" "R180")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page20_i97@digital.u_levshft_txb0108(chips)"
+			("LOCATION" "U12")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page20_i115@digital.u_levshft_txb0108(chips)"
+			("LOCATION" "U13")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page20_i19@digital.u_levshft_txb0108(chips)"
+			("LOCATION" "U14")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i77@discrete.c(chips)"
+			("LOCATION" "C129")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i57@discrete.c(chips)"
+			("LOCATION" "C130")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i2@discrete.c(chips)"
+			("LOCATION" "C132")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i31@discrete.c(chips)"
+			("LOCATION" "C133")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i11@discrete.c(chips)"
+			("LOCATION" "C134")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i54@discrete.d_esd(chips)"
+			("LOCATION" "D46")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i35@discrete.d_esd(chips)"
+			("LOCATION" "D48")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i33@discrete.d_esd(chips)"
+			("LOCATION" "D49")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i91@electro_mechanic.con_b2w_1x4(chips)"
+			("LOCATION" "J13")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i25@electro_mechanic.hdr_1x12(chips)"
+			("LOCATION" "J14")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i3@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q20")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i21@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q21")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i71@discrete.r(chips)"
+			("LOCATION" "R119")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i82@discrete.r(chips)"
+			("LOCATION" "R120")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i84@discrete.r(chips)"
+			("LOCATION" "R121")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i64@discrete.r(chips)"
+			("LOCATION" "R122")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i62@discrete.r(chips)"
+			("LOCATION" "R123")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i60@discrete.r(chips)"
+			("LOCATION" "R124")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i58@discrete.r(chips)"
+			("LOCATION" "R125")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i42@discrete.r(chips)"
+			("LOCATION" "R126")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i39@discrete.r(chips)"
+			("LOCATION" "R127")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i17@discrete.r(chips)"
+			("LOCATION" "R129")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i13@discrete.r(chips)"
+			("LOCATION" "R131")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i26@discrete.r(chips)"
+			("LOCATION" "R133")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i23@discrete.r(chips)"
+			("LOCATION" "R135")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i20@discrete.r(chips)"
+			("LOCATION" "R136")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i97@discrete.r(chips)"
+			("LOCATION" "R223")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i96@logic.u_levshft_3state(chips)"
+			("LOCATION" "U15")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i75@logic.u_levshft_txb0302(chips)"
+			("LOCATION" "U16")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i14@memory.u_mem_ee_i2c(chips)"
+			("LOCATION" "U17")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i51@mechanic.virtual_short(chips)"
+			("LOCATION" "VS16")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page21_i92@mechanic.virtual_short(chips)"
+			("LOCATION" "VS19")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i27@discrete.c(chips)"
+			("LOCATION" "C135")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i49@discrete.c(chips)"
+			("LOCATION" "C142")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i82@discrete.c(chips)"
+			("LOCATION" "C169")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i57@discrete.d_3pin_cc(chips)"
+			("LOCATION" "D62")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i58@discrete.d_3pin_cc(chips)"
+			("LOCATION" "D63")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i91@discrete.d_zener(chips)"
+			("LOCATION" "D66")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i78@discrete.q_fet_p_enh(chips)"
+			("LOCATION" "Q28")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i89@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q29")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i31@discrete.r(chips)"
+			("LOCATION" "R138")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i24@discrete.r(chips)"
+			("LOCATION" "R139")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i21@discrete.r(chips)"
+			("LOCATION" "R140")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i18@discrete.r(chips)"
+			("LOCATION" "R141")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i5@discrete.r(chips)"
+			("LOCATION" "R144")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i56@discrete.r(chips)"
+			("LOCATION" "R165")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i66@discrete.r(chips)"
+			("LOCATION" "R166")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i61@discrete.r(chips)"
+			("LOCATION" "R170")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i75@discrete.r(chips)"
+			("LOCATION" "R183")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i76@discrete.r(chips)"
+			("LOCATION" "R184")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i80@discrete.r(chips)"
+			("LOCATION" "R196")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i87@discrete.r(chips)"
+			("LOCATION" "R197")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i94@discrete.r(chips)"
+			("LOCATION" "R203")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i101@discrete.r(chips)"
+			("LOCATION" "R224")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i103@discrete.r(chips)"
+			("LOCATION" "R226")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i41@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP9")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i42@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP10")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i43@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP11")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i22@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP12")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i54@logic.u_buf_od(chips)"
+			("LOCATION" "U19")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i96@logic.u_levshft_3state(chips)"
+			("LOCATION" "U22")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page25_i97@logic.u_levshft_3state(chips)"
+			("LOCATION" "U23")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page26_i15@discrete.c(chips)"
+			("LOCATION" "C136")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page26_i13@discrete.c(chips)"
+			("LOCATION" "C137")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page26_i5@discrete.c(chips)"
+			("LOCATION" "C138")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page26_i1@electro_mechanic.con_rj45(chips)"
+			("LOCATION" "J15")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page26_i17@discrete.r(chips)"
+			("LOCATION" "R146")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page26_i18@discrete.r(chips)"
+			("LOCATION" "R147")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page26_i2@discrete.r(chips)"
+			("LOCATION" "R148")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page26_i4@discrete.r(chips)"
+			("LOCATION" "R149")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page26_i6@discrete.r(chips)"
+			("LOCATION" "R150")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page26_i7@discrete.r(chips)"
+			("LOCATION" "R151")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page26_i8@discrete.r(chips)"
+			("LOCATION" "R152")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page26_i9@discrete.r(chips)"
+			("LOCATION" "R153")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page7_i38@discrete.c(chips)"
+			("LOCATION" "C152")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page7_i37@discrete.c(chips)"
+			("LOCATION" "C153")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page7_i59@discrete.c(chips)"
+			("LOCATION" "C168")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page7_i63@discrete.c(chips)"
+			("LOCATION" "C171")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page7_i34@discrete.d_zener(chips)"
+			("LOCATION" "D65")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page7_i31@electro_mechanic.con_pwr_jack(chips)"
+			("LOCATION" "J16")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page7_i56@discrete.q_fet_p_enh(chips)"
+			("LOCATION" "Q25")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page7_i57@discrete.r(chips)"
+			("LOCATION" "R181")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page7_i58@discrete.r(chips)"
+			("LOCATION" "R182")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i82@discrete.c_pol(chips)"
+			("LOCATION" "C145")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i83@discrete.c_pol(chips)"
+			("LOCATION" "C146")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i84@discrete.c_pol(chips)"
+			("LOCATION" "C147")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i54@discrete.d_esd(chips)"
+			("LOCATION" "D1")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i53@discrete.d_esd(chips)"
+			("LOCATION" "D2")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i51@discrete.d_esd(chips)"
+			("LOCATION" "D3")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i42@discrete.d_schottky(chips)"
+			("LOCATION" "D4")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i23@discrete.q_fet_n_enh(chips)"
+			("LOCATION" "Q1")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i28@discrete.r(chips)"
+			("LOCATION" "R1")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i22@discrete.r(chips)"
+			("LOCATION" "R7")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page4_i19@discrete.r(chips)"
+			("LOCATION" "R9")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i130@discrete.r(chips)"
+			("LOCATION" "R11")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i129@discrete.r(chips)"
+			("LOCATION" "R12")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i190@discrete.r(chips)"
+			("LOCATION" "R185")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i160@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP15")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i161@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP16")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i162@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP17")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i163@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP18")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i164@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP19")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i165@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP20")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i166@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP21")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i167@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP22")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i168@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP23")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i169@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP24")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i182@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP31")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i177@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP32")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i178@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP33")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i179@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP34")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i180@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP35")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i181@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP36")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i175@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP37")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i176@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP38")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i171@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP39")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i172@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP40")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i173@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP41")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page5_i174@electro_mechanic.labtestpoint(chips)"
+			("LOCATION" "TP42")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page22_i1@mechanic.mounting_hole(chips)"
+			("LOCATION" "MEC3")
+		)
+		("@p3509_a01_lib.p3509_a01(sch_1):page22_i2@mechanic.mounting_hole(chips)"
+			("LOCATION" "MEC3")
+		)
+	)
+)

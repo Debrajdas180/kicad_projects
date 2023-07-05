@@ -1,0 +1,23 @@
+FILE_TYPE=MULTI_PHYS_TABLE;
+
+PART 'LABTESTPOINT'
+:NAME                    PACK_TYPE       = JEDEC_TYPE                            HEIGHT      SOURCE_EXPANSION    DESCRIPTION                             ALT_SYMBOLS;
+'LABTESTPOINT'           'PIN' = 'LTPT089C125D' '0.0mm' 'NON_PHYSICAL' 'Lab TP Generic Many ALTs' '(ltpt089c125d061c030p,LTPt35c49p18c10p,LTPt32c49p,LTPt32c49p18c10p,ltpt071c125d045c025p,LTPt28c49p18c10p,LTPt24c,LTPt24c12p,ltpt045c,LTPt18c10p,LTPT025C,LTP_008X015,LTPT28C49P)'
+'LABTESTPOINT'           'B28' = 'LTPT071C125D' '0.0mm' 'NON_PHYSICAL' 'Lab TP B2 Generic Many ALTs' '(ltpt071c125p045c020p,LTPt24c,LTPt24c12p,ltpt045c,LTPt18c10p,LTPT025C)'
+'LABTESTPOINT'           'PSM_040X050' = 'ltp_050x040' '0.0mm' 'NON_PHYSICAL' 'Lab TP square 0.5x0.4mm' '()'
+'LABTESTPOINT_GOLD'      'PIN' = 'LTPt127c150d' '0.0mm' 'NON_PHYSICAL' '1.27mm Lab TP very large' '()'
+'LABTESTPOINT_JTAG'      'JTAG' = 'ltp_032x016r' '0.0mm' 'NON_PHYSICAL' 'TP for JTAG 3.4x1.8mm' '()'
+'LABTESTPOINT_RECT'      'PIN' = 'MECH_RECT_00356X00178_SOLDER_PAD' '0.0mm' 'NON_PHYSICAL' 'Lab TP 2.64x1.88mm specific use' '()'
+'REMOTE_SENSE_TP'        'TP_ON_VIA' = 'ltpb_076x082r' '0.0mm' 'NON_PHYSICAL' 'TP on via for remote sense' '()'
+'TESTPOINT'              'SCHMOO' = 'MEC_HOLE_48C28P' '0.0mm' 'NON_PHYSICAL' 'Power Supply Schmoo TP' '()'
+'TESTPOINT4'             'SCHMOO' = 'MEC_HOLE_52C32P' '0.0mm' 'NON_PHYSICAL' 'Power Supply Schmoo TP' '()'
+'STANDOFF_125D'          'P_HOLE' = 'MEC_HOLE_345C125P' '0.0mm' 'NON_PHYSICAL' 'Standoff Drill 125mil Pad 345mil' '()'
+'TESTPOINT_150C'         'PIN' = 'ltp_150c' '0.0mm' 'NON_PHYSICAL' '1.50MM Lab TP large' '()'
+'TESTPOINT_0.25mm'       'PIN' = 'LTPT025C' '0.0mm' 'NON_PHYSICAL' '0.25MM Lab TP very small' '()'
+'LTPT081C125D'           'PIN' = 'LTPT081C125D' '0.0mm' 'NON_PHYSICAL' '0.81MM Lab TP med-large' '()'
+'LTPT071C125D'           'PIN' = 'LTPT071C125D' '0.0mm' 'NON_PHYSICAL' '0.71MM Lab TP standard size' '()'
+'LTPT35C49P'             'PIN' = 'LTPT089C125D' '0.0mm' 'NON_PHYSICAL' '0.89mm Lab TP single layer med-large' '()'
+'LTPB071C125'            'PIN' = 'LTPB071C125D045C025P' '0.0mm' 'NON_PHYSICAL' '0.71MM Lab TP standard size bottom' '()'
+END_PART
+
+END.

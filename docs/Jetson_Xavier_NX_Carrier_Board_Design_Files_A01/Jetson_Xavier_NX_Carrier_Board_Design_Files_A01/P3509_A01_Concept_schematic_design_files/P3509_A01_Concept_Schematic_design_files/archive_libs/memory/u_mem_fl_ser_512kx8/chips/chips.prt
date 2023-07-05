@@ -1,0 +1,83 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME='Created/Modified on Sat Oct 12 23:36:33 2007';
+
+PRIMITIVE 'U_MEM_FL_SER_512KX8_SO_8';
+ PIN
+  '-HOLD':
+    PIN_NUMBER='(7)';
+    INPUT_LOAD='(-0.01,0.01)';
+  '-WP':
+    PIN_NUMBER='(3)';
+    INPUT_LOAD='(-0.01,0.01)';
+  '-CS':
+    PIN_NUMBER='(1)';
+    INPUT_LOAD='(-0.01,0.01)';
+  'DIO':
+    PIN_NUMBER='(5)';
+    OUTPUT_LOAD='(1.0,-1.0)';
+    INPUT_LOAD='(-0.01,0.01)';
+    OUTPUT_TYPE='(TS,TS)';
+    BIDIRECTIONAL='TRUE';
+  'DO':
+    PIN_NUMBER='(2)';
+    OUTPUT_LOAD='(-1.0,1.0)';
+  'CLK':
+    PIN_NUMBER='(6)';
+    INPUT_LOAD='(-0.01,0.01)';
+  'VCC':
+    PIN_NUMBER='(8)';
+		PIN_TYPE='POWER';
+  'GND':
+    PIN_NUMBER='(4)';
+		PIN_TYPE='POWER';
+ END_PIN;
+  BODY
+    CLASS='IC';
+    BODY_NAME='U_MEM_FL_SER_512KX8';
+    PART_NAME='U_MEM_FL_SER_512KX8';
+    PHYS_DES_PREFIX='U';
+  END_BODY;
+END_PRIMITIVE;
+
+PRIMITIVE 'U_MEM_FL_SER_512KX8_SON8','U_MEM_FL_SER_512KX8_USON_2X3';
+ PIN
+  '-HOLD':
+    PIN_NUMBER='(7)';
+    INPUT_LOAD='(-0.01,0.01)';
+  '-WP':
+    PIN_NUMBER='(3)';
+    INPUT_LOAD='(-0.01,0.01)';
+  '-CS':
+    PIN_NUMBER='(1)';
+    INPUT_LOAD='(-0.01,0.01)';
+  'SI':
+    PIN_NUMBER='(5)';
+    OUTPUT_LOAD='(1.0,-1.0)';
+    INPUT_LOAD='(-0.01,0.01)';
+    OUTPUT_TYPE='(TS,TS)';
+    BIDIRECTIONAL='TRUE';
+  'SO':
+    PIN_NUMBER='(2)';
+    OUTPUT_LOAD='(-1.0,1.0)';
+  'SCK':
+    PIN_NUMBER='(6)';
+    INPUT_LOAD='(-0.01,0.01)';
+  'VCC':
+    PIN_NUMBER='(8)';
+		PIN_TYPE='POWER';
+  'GND':
+    PIN_NUMBER='(4)';
+		PIN_TYPE='POWER';
+  'GNDP':
+    PIN_NUMBER='(9)';
+		PIN_TYPE='POWER';
+ END_PIN;
+  BODY
+    CLASS='IC';
+    BODY_NAME='U_MEM_FL_SER_512KX8';
+    PART_NAME='U_MEM_FL_SER_512KX8';
+    PHYS_DES_PREFIX='U';
+  END_BODY;
+END_PRIMITIVE;
+
+END.

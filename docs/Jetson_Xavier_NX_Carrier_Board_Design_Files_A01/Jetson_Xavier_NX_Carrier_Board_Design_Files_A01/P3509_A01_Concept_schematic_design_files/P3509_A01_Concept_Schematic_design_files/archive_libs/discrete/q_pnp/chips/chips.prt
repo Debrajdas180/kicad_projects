@@ -1,0 +1,108 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Mon Jan 24 15:02:29 2000';
+
+primitive 'Q_PNP_SOT23_1B1C1E','Q_PNP_SOT323_1B1C1E';
+  pin
+    'B':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      UNKNOWN_LOADING='TRUE';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'C':
+      PIN_NUMBER='(3)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      UNKNOWN_LOADING='TRUE';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'E':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      UNKNOWN_LOADING='TRUE';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='Q_PNP';
+    BODY_NAME='Q_PNP';
+    PHYS_DES_PREFIX='Q';
+    PINCOUNT='3';
+  end_body;
+end_primitive;
+
+primitive 'Q_PNP_SOT363';
+  pin
+    'B':
+      PIN_NUMBER='(2,5)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      UNKNOWN_LOADING='TRUE';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'C':
+      PIN_NUMBER='(6,3)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      UNKNOWN_LOADING='TRUE';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'E':
+      PIN_NUMBER='(1,4)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      UNKNOWN_LOADING='TRUE';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='Q_PNP';
+    BODY_NAME='Q_PNP';
+    PHYS_DES_PREFIX='Q';
+  end_body;
+end_primitive;
+
+primitive 'Q_PNP_SOT223_1B2C1E';
+  pin
+    'B':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      UNKNOWN_LOADING='TRUE';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'C1':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      UNKNOWN_LOADING='TRUE';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'C2':
+      PIN_NUMBER='(4)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      UNKNOWN_LOADING='TRUE';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'E':
+      PIN_NUMBER='(3)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      UNKNOWN_LOADING='TRUE';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='Q_PNP';
+    BODY_NAME='Q_PNP';
+    PHYS_DES_PREFIX='Q';
+  end_body;
+end_primitive;
+
+END.

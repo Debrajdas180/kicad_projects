@@ -1,0 +1,2155 @@
+BODY ORDERED NET LIST - 1  
+C4               C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        USBSS_RX_P              
+                                  2        USBSS_TX_HUB_P          
+C5               C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        USBSS_RX_N              
+                                  2        USBSS_TX_HUB_N          
+C6               C_0603-1UF,X5R,20%,25V,032-0882-000-032-0882-000,1UF 1        BUCK_5V_EN              
+                                  2        GND                     
+C7               C_0603-4.7UF,X5R,20%,6.3V,032-0886-000-032-0886-000,4.7UF 1        BUCK_5V_VREG5           
+                                  2        GND                     
+C8               C_0603-1UF,X5R,20%,25V,032-0882-000-032-0882-000,1UF 1        VDD_DCIN                
+                                  2        GND                     
+C9               C_0805-22UF,X5R,20%,25V,032-1308-000-032-1308-000,22UF 1        VDD_DCIN                
+                                  2        GND                     
+C10              C_0402-680PF,C0G,5%,50V,035-0296-000-035-0296-000,680PF 1        BUCK_5V_SNUB            
+                                  2        GND                     
+C11              C_0805-22UF,X5R,20%,25V,032-1308-000-032-1308-000,22UF 1        VDD_DCIN                
+                                  2        GND                     
+C12              C_0402-0.1UF,X5R,20%,16V,032-0877-000-0.1UF,032-0877-000 1        BUCK_5V_BST_R           
+                                  2        BUCK_5V_SW              
+C14              C_0402-100PF,C0G,5%,50V,035-0012-000-035-0012-000,100PF 1        BUCK_5V_FB_MID_R        
+                                  2        BUCK_5V_FB              
+C15              C_0805-22UF,X5R,20%,6.3V,039-0127-000-039-0127-000,22UF 1        VDD_5V_SYS              
+                                  2        GND                     
+C16              C_0805-22UF,X5R,20%,6.3V,039-0127-000-039-0127-000,22UF 1        VDD_5V_SYS              
+                                  2        GND                     
+C19              C_0603-4.7UF,X5R,20%,6.3V,032-0886-000-032-0886-000,4.7UF 1        BUCK_3V3_VREG5          
+                                  2        GND                     
+C20              C_0603-1UF,X5R,20%,25V,032-0882-000-032-0882-000,1UF 1        VDD_DCIN                
+                                  2        GND                     
+C21              C_0805-22UF,X5R,20%,25V,032-1308-000-032-1308-000,22UF 1        VDD_DCIN                
+                                  2        GND                     
+C22              C_0402-680PF,C0G,5%,50V,035-0296-000-035-0296-000,680PF 1        BUCK_3V3_SNUB           
+                                  2        GND                     
+C23              C_0805-22UF,X5R,20%,25V,032-1308-000-032-1308-000,22UF 1        VDD_DCIN                
+                                  2        GND                     
+C24              C_0402-0.1UF,X5R,20%,16V,032-0877-000-0.1UF,032-0877-000 1        BUCK_3V3_BST_R          
+                                  2        BUCK_3V3_SW             
+C26              C_0402-100PF,C0G,5%,50V,035-0012-000-035-0012-000,100PF 1        BUCK_3V3_FB_MID_R       
+                                  2        BUCK_3V3_FB             
+C27              C_0805-22UF,X5R,20%,6.3V,039-0127-000-039-0127-000,22UF 1        VDD_3V3_SYS             
+                                  2        GND                     
+C28              C_0805-22UF,X5R,20%,6.3V,039-0127-000-039-0127-000,22UF 1        VDD_3V3_SYS             
+                                  2        GND                     
+C30              C_0402-1UF,X5R,10%,6.3V,039-0008-000-039-0008-000,1UF 1        VDD_5V_SYS              
+                                  2        GND                     
+C31              C_0402-1UF,X5R,10%,6.3V,039-0008-000-039-0008-000,1UF 1        VDD_5V_SYS              
+                                  2        GND                     
+C32              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        VDD_5V_SYS              
+                                  2        GND                     
+C33              C_0402-1UF,X5R,10%,6.3V,039-0008-000-039-0008-000,1UF 1        VDD_3V3_SYS             
+                                  2        GND                     
+C34              C_0402-1NF,X5R,10%,25V,039-0028-000-039-0028-000,1NF 1        3V3_AO                  
+                                  2        3V3_AO_ADJ              
+C35              C_0402-1UF,X5R,10%,6.3V,039-0008-000-039-0008-000,1UF 1        VDD_1V8                 
+                                  2        GND                     
+C36              C_0603-4.7UF,X5R,20%,6.3V,032-0886-000-032-0886-000,4.7UF 1        3V3_AO                  
+                                  2        GND                     
+C38              C_0805-4.7UF,X5R,10%,10V,039-0152-000-039-0152-000,4.7UF 1        MICRO_USB_VBUS_DET      
+                                  2        GND                     
+C39              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        MICRO_USB_VBUS_DET      
+                                  2        GND                     
+C40              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        AV10_1                  
+                                  2        GND                     
+C41              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        AV10_2                  
+                                  2        GND                     
+C42              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        AV10_3                  
+                                  2        GND                     
+C43              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        AV10_4                  
+                                  2        GND                     
+C44              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        AV10_5                  
+                                  2        GND                     
+C45              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        AV10_6                  
+                                  2        GND                     
+C46              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        AV10_7                  
+                                  2        GND                     
+C47              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        AV10_8                  
+                                  2        GND                     
+C48              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        AV33_2                  
+                                  2        GND                     
+C49              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        AV33_3                  
+                                  2        GND                     
+C51              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        5V_LDO                  
+                                  2        GND                     
+C52              C_0603-10UF,X5R,20%,6.3V,039-0135-000-039-0135-000,10UF 1        5V_LDO                  
+                                  2        GND                     
+C55              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        HUB_ADC_CAP             
+                                  2        GND                     
+C56              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        VDD_3V3_SYS             
+                                  2        GND                     
+C58              C_0603-10UF,X5R,20%,6.3V,039-0135-000-039-0135-000,10UF 1        VDD_3V3_SYS             
+                                  2        GND                     
+C60              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        USBSS_TX_P              
+                                  2        USBSS_RX_HUB_P          
+C61              C_0402-22PF,C0G,5%,50V,035-0023-000-035-0023-000,22PF 1        HUB_XTAL_IN             
+                                  2        GND                     
+C62              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        USBSS_TX_N              
+                                  2        USBSS_RX_HUB_N          
+C63              C_0402-22PF,C0G,5%,50V,035-0023-000-035-0023-000,22PF 1        GND                     
+                                  2        HUB_XTAL_OUT            
+C64              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        DSP1_SSTX_P             
+                                  2        USBSS_TX_A_1_P          
+C65              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        DSP2_SSTX_P             
+                                  2        USBSS_TX_A_2_P          
+C66              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        DSP1_SSTX_N             
+                                  2        USBSS_TX_A_1_N          
+C67              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        DSP2_SSTX_N             
+                                  2        USBSS_TX_A_2_N          
+C72              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        DSP3_SSTX_P             
+                                  2        USBSS_TX_B_1_P          
+C73              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        DSP4_SSTX_P             
+                                  2        USBSS_TX_B_2_P          
+C74              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        DSP3_SSTX_N             
+                                  2        USBSS_TX_B_1_N          
+C75              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        DSP4_SSTX_N             
+                                  2        USBSS_TX_B_2_N          
+C76              C_0603-4.7UF,X5R,20%,6.3V,032-0886-000-032-0886-000,4.7UF 1        VDD_5V_SYS              
+                                  2        GND                     
+C77              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        VDD_5V_SYS              
+                                  2        GND                     
+C78              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        HDMI_TXC_N              
+                                  2        HDMI_TXC_CON_LC_N       
+C79              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        HDMI_TX0_N              
+                                  2        HDMI_TXD0_CON_LC_N      
+C80              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        HDMI_TX1_N              
+                                  2        HDMI_TXD1_CON_LC_N      
+C81              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        HDMI_TX2_N              
+                                  2        HDMI_TXD2_CON_LC_N      
+C82              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        HDMI_TXC_P              
+                                  2        HDMI_TXC_CON_LC_P       
+C83              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        HDMI_TX0_P              
+                                  2        HDMI_TXD0_CON_LC_P      
+C84              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        HDMI_TX1_P              
+                                  2        HDMI_TXD1_CON_LC_P      
+C85              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        HDMI_TX2_P              
+                                  2        HDMI_TXD2_CON_LC_P      
+C86              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        VDD_5V0_HDMI_CON        
+                                  2        GND                     
+C87              C_0603-10UF,X5R,20%,6.3V,039-0135-000-039-0135-000,10UF 1        VDD_5V0_HDMI_CON        
+                                  2        GND                     
+C88              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        VDD_3V3_HDMI            
+                                  2        GND                     
+C89              C_0402-4.7PF,C0G,0.25PF,50V,035-0031-000-035-0031-000,4.7PF 1        HDMI_DDC_SDA_5V0        
+                                  2        GND                     
+C90              C_0402-12PF,C0G,5%,50V,035-0014-000-035-0014-000,12PF 1        HDMI_CEC_CON            
+                                  2        GND                     
+C91              C_0402-4.7PF,C0G,0.25PF,50V,035-0031-000-035-0031-000,4.7PF 1        HDMI_DDC_SCL_5V0        
+                                  2        GND                     
+C93              C_0402-100PF,C0G,5%,50V,035-0012-000-035-0012-000,100PF 1        HDMI_HPD_CON            
+                                  2        GND                     
+C94              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        DP0_TXD3_N              
+                                  2        DP_CON_LANE3_R_N        
+C95              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        DP0_TXD2_N              
+                                  2        DP_CON_LANE2_R_N        
+C96              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        DP0_TXD1_N              
+                                  2        DP_CON_LANE1_R_N        
+C97              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        DP0_TXD0_N              
+                                  2        DP_CON_LANE0_R_N        
+C98              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        DP0_TXD3_P              
+                                  2        DP_CON_LANE3_R_P        
+C99              C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        DP0_TXD2_P              
+                                  2        DP_CON_LANE2_R_P        
+C100             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        DP0_TXD1_P              
+                                  2        DP_CON_LANE1_R_P        
+C101             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        DP0_TXD0_P              
+                                  2        DP_CON_LANE0_R_P        
+C102             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        DP0_AUX_R_N             
+                                  2        DP_CON_AUXN             
+C103             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        DP0_AUX_R_P             
+                                  2        DP_CON_AUXP             
+C104             C_0402-12PF,C0G,5%,50V,035-0014-000-035-0014-000,12PF 1        DP_HPD_CON              
+                                  2        GND                     
+C105             C_POL_SMD_3528-330UF,TA-POLYMER,20%,6.3V@85DEGC,0.04OHM,9.999UH,0.855A@85DEGC,100KHZ,032-0696-000-032-0696-000,330UF 1        VDD_3V3_DP              
+                                  2        GND                     
+C106             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        VDD_3V3_SYS             
+                                  2        GND                     
+C107             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        VDD_3V3_SYS             
+                                  2        GND                     
+C108             C_0603-10UF,X5R,20%,6.3V,039-0135-000-039-0135-000,10UF 1        VDD_3V3_SYS             
+                                  2        GND                     
+C109             C_0603-10UF,X5R,20%,6.3V,039-0135-000-039-0135-000,10UF 1        VDD_3V3_SYS             
+                                  2        GND                     
+C110             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        VDD_3V3_SYS             
+                                  2        GND                     
+C111             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        VDD_3V3_SYS             
+                                  2        GND                     
+C112             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        PCIE1_M2_TX0_N          
+                                  2        PCIE1_TX0_N             
+C113             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        PCIE1_M2_TX0_P          
+                                  2        PCIE1_TX0_P             
+C114             C_0603-10UF,X5R,20%,6.3V,039-0135-000-039-0135-000,10UF 1        VDD_3V3_SYS             
+                                  2        GND                     
+C115             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        VDD_3V3_SYS             
+                                  2        GND                     
+C116             C_0402-0.22UF,X5R,10%,6.3V,039-0011-000-0.22UF,039-0011-000 1        PCIE0_TX0_M2_P          
+                                  2        PCIE0_TX0_P             
+C117             C_0402-0.22UF,X5R,10%,6.3V,039-0011-000-0.22UF,039-0011-000 1        PCIE0_TX1_M2_P          
+                                  2        PCIE0_TX1_P             
+C118             C_0402-0.22UF,X5R,10%,6.3V,039-0011-000-0.22UF,039-0011-000 1        PCIE0_TX2_M2_P          
+                                  2        PCIE0_TX2_P             
+C119             C_0402-0.22UF,X5R,10%,6.3V,039-0011-000-0.22UF,039-0011-000 1        PCIE0_TX3_M2_P          
+                                  2        PCIE0_TX3_P             
+C120             C_0402-0.22UF,X5R,10%,6.3V,039-0011-000-0.22UF,039-0011-000 1        PCIE0_TX0_M2_N          
+                                  2        PCIE0_TX0_N             
+C121             C_0402-0.22UF,X5R,10%,6.3V,039-0011-000-0.22UF,039-0011-000 1        PCIE0_TX1_M2_N          
+                                  2        PCIE0_TX1_N             
+C122             C_0402-0.22UF,X5R,10%,6.3V,039-0011-000-0.22UF,039-0011-000 1        PCIE0_TX2_M2_N          
+                                  2        PCIE0_TX2_N             
+C123             C_0402-0.22UF,X5R,10%,6.3V,039-0011-000-0.22UF,039-0011-000 1        PCIE0_TX3_M2_N          
+                                  2        PCIE0_TX3_N             
+C124             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        VDD_1V8                 
+                                  2        GND                     
+C125             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        VDD_3V3_SYS             
+                                  2        GND                     
+C126             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        VDD_3V3_SYS             
+                                  2        GND                     
+C127             C_0603-4.7UF,X5R,20%,6.3V,032-0886-000-032-0886-000,4.7UF 1        VDD_5V_SYS              
+                                  2        GND                     
+C128             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        VDD_5V_GPIO             
+                                  2        GND                     
+C129             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        GND                     
+                                  2        VDD_1V8                 
+C130             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        VDD_3V3_SYS             
+                                  2        GND                     
+C132             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        FAN_VDD                 
+                                  2        GND                     
+C133             C_0402-10NF,X5R,10%,16V,039-0024-000-039-0024-000,10NF 1        SYS_RST*                
+                                  2        GND                     
+C134             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        VDD_1V8                 
+                                  2        GND                     
+C135             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        3V3_AO                  
+                                  2        GND                     
+C136             C_0402-10NF,X5R,10%,16V,039-0024-000-039-0024-000,10NF 1        MCT                     
+                                  2        GND                     
+C137             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        VDD_3V3_SYS             
+                                  2        GND                     
+C138             C_0402-100PF,C0G,5%,50V,035-0012-000-035-0012-000,100PF 1        GND                     
+                                  2        CGND                    
+C142             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        BMCU_ACOK               
+                                  2        GND                     
+C143             C_0805-4.7UF,X5R,10%,25V,032-1141-000-032-1141-000,4.7UF 1        DCIN_SNUB               
+                                  2        GND                     
+C144             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        VDD_3V3_SYS             
+                                  2        GND                     
+C145             C_POL_SMD_3528-330UF,TA-POLYMER,20%,6.3V@85DEGC,0.04OHM,9.999UH,0.855A@85DEGC,100KHZ,032-0696-000-032-0696-000,330UF 1        VDD_5V_SYS              
+                                  2        GND                     
+C146             C_POL_SMD_3528-330UF,TA-POLYMER,20%,6.3V@85DEGC,0.04OHM,9.999UH,0.855A@85DEGC,100KHZ,032-0696-000-032-0696-000,330UF 1        VDD_5V_SYS              
+                                  2        GND                     
+C147             C_POL_SMD_3528-330UF,TA-POLYMER,20%,6.3V@85DEGC,0.04OHM,9.999UH,0.855A@85DEGC,100KHZ,032-0696-000-032-0696-000,330UF 1        VDD_5V_SYS              
+                                  2        GND                     
+C148             C_0805-22UF,X5R,20%,6.3V,039-0127-000-039-0127-000,22UF 1        VDD_5V_SYS              
+                                  2        GND                     
+C149             C_0805-22UF,X5R,20%,6.3V,039-0127-000-039-0127-000,22UF 1        VDD_5V_SYS              
+                                  2        GND                     
+C150             C_0805-22UF,X5R,20%,6.3V,039-0127-000-039-0127-000,22UF 1        VDD_3V3_SYS             
+                                  2        GND                     
+C151             C_0805-22UF,X5R,20%,6.3V,039-0127-000-039-0127-000,22UF 1        VDD_3V3_SYS             
+                                  2        GND                     
+C152             C_0805-22UF,X5R,20%,25V,032-1308-000-032-1308-000,22UF 1        VDD_DCIN                
+                                  2        GND                     
+C153             C_0805-22UF,X5R,20%,25V,032-1308-000-032-1308-000,22UF 1        VDD_DCIN                
+                                  2        GND                     
+C154             C_0402-10NF,X5R,10%,16V,039-0024-000-039-0024-000,10NF 1        DCIN_SENSE              
+                                  2        GND                     
+C155             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        AV10_9                  
+                                  2        GND                     
+C156             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        AV10_10                 
+                                  2        GND                     
+C157             C_POL_SMD_3528-330UF,TA-POLYMER,20%,6.3V@85DEGC,0.04OHM,9.999UH,0.855A@85DEGC,100KHZ,032-0696-000-032-0696-000,330UF 1        VDD_VBUS_A              
+                                  2        GND                     
+C158             C_0603-4.7UF,X5R,20%,6.3V,032-0886-000-032-0886-000,4.7UF 1        VDD_5V_SYS              
+                                  2        GND                     
+C160             C_POL_SMD_3528-330UF,TA-POLYMER,20%,6.3V@85DEGC,0.04OHM,9.999UH,0.855A@85DEGC,100KHZ,032-0696-000-032-0696-000,330UF 1        VDD_VBUS_B              
+                                  2        GND                     
+C163             C_0603-10UF,X5R,20%,6.3V,039-0135-000-039-0135-000,10UF 1        VDD_5V_SYS              
+                                  2        GND                     
+C164             C_0603-10UF,X5R,20%,6.3V,039-0135-000-039-0135-000,10UF 1        VDD_5V_SYS              
+                                  2        GND                     
+C165             C_0402-22PF,C0G,5%,50V,035-0023-000-035-0023-000,22PF 1        BUCK_1V1_FB_MID         
+                                  2        BUCK_1V1_FB             
+C166             C_0603-10UF,X5R,20%,6.3V,039-0135-000-039-0135-000,10UF 1        VDD_AV10_HUB            
+                                  2        GND                     
+C167             C_0603-10UF,X5R,20%,6.3V,039-0135-000-039-0135-000,10UF 1        VDD_AV10_HUB            
+                                  2        GND                     
+C168             C_0603-1UF,X5R,20%,25V,032-0882-000-032-0882-000,1UF 1        DCJ_IN                  
+                                  2        DCJ_SS                  
+C169             C_0402-10NF,X5R,10%,16V,039-0024-000-039-0024-000,10NF 1        FORCE_OFF*              
+                                  2        GND                     
+C170             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        VDD_3V3_SYS             
+                                  2        GND                     
+C171             C_0603-0.1UF,X5R,10%,25V,039-0044-000-0.1UF,039-0044-000 1        DCJ_IN                  
+                                  2        GND                     
+C172             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        VDD_VBUS_A              
+                                  2        GND                     
+C173             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        VDD_VBUS_B              
+                                  2        GND                     
+C174             C_0402-0.1UF,X5R,10%,6.3V,039-0007-000-0.1UF,039-0007-000 1        VDD_3V3_DP              
+                                  2        GND                     
+C175             C_0402-10PF,C0G,5%,50V,035-0011-000-035-0011-000,10PF 1        VDD_3V3_SYS             
+                                  2        GND                     
+C177             C_0402-0.7PF,C0G,0.1PF,50V,035-0203-000-0.7PF,035-0203-000 1        HDMI_TXC_CON_LC_N       
+                                  2        HDMI_TXC_CON_LC_P       
+C178             C_0402-0.7PF,C0G,0.1PF,50V,035-0203-000-0.7PF,035-0203-000 1        HDMI_TXD0_CON_LC_N      
+                                  2        HDMI_TXD0_CON_LC_P      
+C179             C_0402-0.7PF,C0G,0.1PF,50V,035-0203-000-0.7PF,035-0203-000 1        HDMI_TXD1_CON_LC_N      
+                                  2        HDMI_TXD1_CON_LC_P      
+C180             C_0402-0.7PF,C0G,0.1PF,50V,035-0203-000-0.7PF,035-0203-000 1        HDMI_TXD2_CON_LC_N      
+                                  2        HDMI_TXD2_CON_LC_P      
+C181             C_0402-0.7PF,C0G,0.1PF,50V,035-0203-000-0.7PF,035-0203-000 1        HDMI_TXC_CON_R_N        
+                                  2        HDMI_TXC_CON_R_P        
+C182             C_0402-0.7PF,C0G,0.1PF,50V,035-0203-000-0.7PF,035-0203-000 1        HDMI_TXD0_CON_R_N       
+                                  2        HDMI_TXD0_CON_R_P       
+C183             C_0402-0.7PF,C0G,0.1PF,50V,035-0203-000-0.7PF,035-0203-000 1        HDMI_TXD1_CON_R_N       
+                                  2        HDMI_TXD1_CON_R_P       
+C184             C_0402-0.7PF,C0G,0.1PF,50V,035-0203-000-0.7PF,035-0203-000 1        HDMI_TXD2_CON_R_N       
+                                  2        HDMI_TXD2_CON_R_P       
+D1               D_ESD_NORM-TPD1E10B06,1 LINE,BI-DIRECTIONAL,5.5V,0.1UA,6V,10V@1A,12PF,090-0243-000-090-0243-000 1        SYS_RST*                
+                                  2        GND                     
+D2               D_ESD_NORM-TPD1E10B06,1 LINE,BI-DIRECTIONAL,5.5V,0.1UA,6V,10V@1A,12PF,090-0243-000-090-0243-000 1        FORCE_RECOVERY*         
+                                  2        GND                     
+D3               D_ESD_NORM-TPD1E10B06,1 LINE,BI-DIRECTIONAL,5.5V,0.1UA,6V,10V@1A,12PF,090-0243-000-090-0243-000 1        PWR_BTN*                
+                                  2        GND                     
+D4               D_SCHOTTKY_SOD-123-LS34SG,SINGLE,40V,25A,0.38V@1A,3A,090-0155-000-090-0155-000 1        BBAT                    
+                                  2        BBAT_CONN               
+D5               D_ESD_MICROSMP-MSP5.0A-M3/89A,1 LINE,UNI-DIRECTIONAL,5V,100UA,6.4V,9.2V@16.3A,9.999NF,090-0233-000-090-0233-000 1        MICRO_USB_VBUS_DET      
+                                  2        GND                     
+D6               D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        USB0_AP_P               
+                                  2        GND                     
+D7               D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        USB0_AP_N               
+                                  2        GND                     
+D8               D_ESD_DIFFPAIR_DUAL-TPD4E02B04DQAR,2 DIFFPAIR,BI-DIRECTIONAL,6V,0.01UA,6.7V,8V@40A,0.37PF,090-0296-000-090-0296-000 1        USB1_A_N                
+                                  2        USB1_A_P                
+                                  3        GND                     
+                                  4        USB2_A_N                
+                                  5        USB2_A_P                
+                                  6        USB2_A_P                
+                                  7        USB2_A_N                
+                                  9        USB1_A_P                
+                                  10       USB1_A_N                
+D9               D_ESD_DIFFPAIR_DUAL-TPD4E02B04DQAR,2 DIFFPAIR,BI-DIRECTIONAL,6V,0.01UA,6.7V,8V@40A,0.37PF,090-0296-000-090-0296-000 1        USBSS_RX_A_CON1_P       
+                                  2        USBSS_RX_A_CON1_N       
+                                  3        GND                     
+                                  4        USBSS_RX_A_CON2_N       
+                                  5        USBSS_RX_A_CON2_P       
+                                  6        USBSS_RX_A_CON2_P       
+                                  7        USBSS_RX_A_CON2_N       
+                                  9        USBSS_RX_A_CON1_N       
+                                  10       USBSS_RX_A_CON1_P       
+D10              D_ESD_DIFFPAIR_DUAL-TPD4E02B04DQAR,2 DIFFPAIR,BI-DIRECTIONAL,6V,0.01UA,6.7V,8V@40A,0.37PF,090-0296-000-090-0296-000 1        USBSS_TX_A_CON1_N       
+                                  2        USBSS_TX_A_CON1_P       
+                                  3        GND                     
+                                  4        USBSS_TX_A_CON2_P       
+                                  5        USBSS_TX_A_CON2_N       
+                                  6        USBSS_TX_A_CON2_N       
+                                  7        USBSS_TX_A_CON2_P       
+                                  9        USBSS_TX_A_CON1_P       
+                                  10       USBSS_TX_A_CON1_N       
+D11              D_ESD_DIFFPAIR_DUAL-TPD4E02B04DQAR,2 DIFFPAIR,BI-DIRECTIONAL,6V,0.01UA,6.7V,8V@40A,0.37PF,090-0296-000-090-0296-000 1        USBSS_TX_B_CON2_N       
+                                  2        USBSS_TX_B_CON2_P       
+                                  3        GND                     
+                                  4        USBSS_TX_B_CON1_N       
+                                  5        USBSS_TX_B_CON1_P       
+                                  6        USBSS_TX_B_CON1_P       
+                                  7        USBSS_TX_B_CON1_N       
+                                  9        USBSS_TX_B_CON2_P       
+                                  10       USBSS_TX_B_CON2_N       
+D12              D_ESD_DIFFPAIR_DUAL-TPD4E02B04DQAR,2 DIFFPAIR,BI-DIRECTIONAL,6V,0.01UA,6.7V,8V@40A,0.37PF,090-0296-000-090-0296-000 1        USB1_B_N                
+                                  2        USB1_B_P                
+                                  3        GND                     
+                                  4        USBSS_RX_B_CON2_P       
+                                  5        USBSS_RX_B_CON2_N       
+                                  6        USBSS_RX_B_CON2_N       
+                                  7        USBSS_RX_B_CON2_P       
+                                  9        USB1_B_P                
+                                  10       USB1_B_N                
+D13              D_ESD_DIFFPAIR_DUAL-TPD4E02B04DQAR,2 DIFFPAIR,BI-DIRECTIONAL,6V,0.01UA,6.7V,8V@40A,0.37PF,090-0296-000-090-0296-000 1        USBSS_RX_B_CON1_P       
+                                  2        USBSS_RX_B_CON1_N       
+                                  3        GND                     
+                                  4        USB2_B_P                
+                                  5        USB2_B_N                
+                                  6        USB2_B_N                
+                                  7        USB2_B_P                
+                                  9        USBSS_RX_B_CON1_N       
+                                  10       USBSS_RX_B_CON1_P       
+D14              D_ESD_DIFFPAIR_DUAL-TPD4E02B04DQAR,2 DIFFPAIR,BI-DIRECTIONAL,6V,0.01UA,6.7V,8V@40A,0.37PF,090-0296-000-090-0296-000 1        HDMI_TXC_CON_P          
+                                  2        HDMI_TXC_CON_N          
+                                  3        GND                     
+                                  4        HDMI_TXD0_CON_N         
+                                  5        HDMI_TXD0_CON_P         
+                                  6        HDMI_TXD0_CON_P         
+                                  7        HDMI_TXD0_CON_N         
+                                  9        HDMI_TXC_CON_N          
+                                  10       HDMI_TXC_CON_P          
+D15              D_3PIN_CC_SOT323-BAS70W-05,1 PAIR - COMMON CATHODE,70V,0.1A,1V@15MA,70MA,091-0023-000-091-0023-000 1        HDMI_CEC                
+                                  2        HDMI_CEC_PU             
+                                  3        HDMI_CEC_Q              
+D16              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        HDMI_DDC_SDA_5V0        
+                                  2        GND                     
+D17              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        HDMI_DDC_SCL_5V0        
+                                  2        GND                     
+D18              D_ESD_NORM-TPD1E10B06,1 LINE,BI-DIRECTIONAL,5.5V,0.1UA,6V,10V@1A,12PF,090-0243-000-090-0243-000 1        HDMI_CEC_CON            
+                                  2        GND                     
+D19              D_ESD_DIFFPAIR_DUAL-TPD4E02B04DQAR,2 DIFFPAIR,BI-DIRECTIONAL,6V,0.01UA,6.7V,8V@40A,0.37PF,090-0296-000-090-0296-000 1        HDMI_TXD2_CON_N         
+                                  2        HDMI_TXD2_CON_P         
+                                  3        GND                     
+                                  4        HDMI_TXD1_CON_P         
+                                  5        HDMI_TXD1_CON_N         
+                                  6        HDMI_TXD1_CON_N         
+                                  7        HDMI_TXD1_CON_P         
+                                  9        HDMI_TXD2_CON_P         
+                                  10       HDMI_TXD2_CON_N         
+D20              D_ESD_SLP_2PIN-RCLAMP2431T.TCT,1 LINE,BI-DIRECTIONAL,24V,0.1UA,26.7V,45V@1A,0.5PF,090-0337-000-090-0337-000 1        HDMI_HPD_CON            
+                                  2        GND                     
+D21              D_ESD_DIFFPAIR_DUAL-TPD4E02B04DQAR,2 DIFFPAIR,BI-DIRECTIONAL,6V,0.01UA,6.7V,8V@40A,0.37PF,090-0296-000-090-0296-000 1        DP_HPD_CON              
+                                  2        SNN_ESD_D27             
+                                  3        GND                     
+                                  4        DP_CON_AUXN             
+                                  5        DP_CON_AUXP             
+                                  6        DP_CON_AUXP             
+                                  7        DP_CON_AUXN             
+                                  9        SNN_ESD_D27             
+                                  10       DP_HPD_CON              
+D22              D_ESD_DIFFPAIR_DUAL-TPD4E02B04DQAR,2 DIFFPAIR,BI-DIRECTIONAL,6V,0.01UA,6.7V,8V@40A,0.37PF,090-0296-000-090-0296-000 1        DP_CON_LANE2_N          
+                                  2        DP_CON_LANE2_P          
+                                  3        GND                     
+                                  4        DP_CON_LANE0_N          
+                                  5        DP_CON_LANE0_P          
+                                  6        DP_CON_LANE0_P          
+                                  7        DP_CON_LANE0_N          
+                                  9        DP_CON_LANE2_P          
+                                  10       DP_CON_LANE2_N          
+D23              D_ESD_DIFFPAIR_DUAL-TPD4E02B04DQAR,2 DIFFPAIR,BI-DIRECTIONAL,6V,0.01UA,6.7V,8V@40A,0.37PF,090-0296-000-090-0296-000 1        DP_CON_LANE1_P          
+                                  2        DP_CON_LANE1_N          
+                                  3        GND                     
+                                  4        DP_CON_LANE3_P          
+                                  5        DP_CON_LANE3_N          
+                                  6        DP_CON_LANE3_N          
+                                  7        DP_CON_LANE3_P          
+                                  9        DP_CON_LANE1_N          
+                                  10       DP_CON_LANE1_P          
+D24              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        CSI0_D0_N               
+                                  2        GND                     
+D25              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        CSI2_D0_N               
+                                  2        GND                     
+D26              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        CSI0_D0_P               
+                                  2        GND                     
+D27              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        CSI2_D0_P               
+                                  2        GND                     
+D28              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        CAM1_MCLK               
+                                  2        GND                     
+D29              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        CSI0_D1_N               
+                                  2        GND                     
+D30              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        CSI2_D1_N               
+                                  2        GND                     
+D31              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        CSI0_D1_P               
+                                  2        GND                     
+D32              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        CSI2_D1_P               
+                                  2        GND                     
+D33              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        CAM1_PWDN               
+                                  2        GND                     
+D34              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        CSI0_CLK_N              
+                                  2        GND                     
+D35              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        CSI2_CLK_N              
+                                  2        GND                     
+D36              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        CAM0_MCLK               
+                                  2        GND                     
+D37              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        CSI0_CLK_P              
+                                  2        GND                     
+D38              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        CSI2_CLK_P              
+                                  2        GND                     
+D39              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        CAM0_PWDN               
+                                  2        GND                     
+D40              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        I2C2_SDA                
+                                  2        GND                     
+D41              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        I2C2_SCL                
+                                  2        GND                     
+D42              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        ID_I2C_SCL              
+                                  2        GND                     
+D43              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        ID_I2C_SDA              
+                                  2        GND                     
+D44              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        I2C1_SCL                
+                                  2        GND                     
+D45              D_ESD_NORM-LESD5VD8LCG-R,1 LINE,BI-DIRECTIONAL,5V,0.05UA,5.5V,10V@2A,1.2PF,090-0172-000-090-0172-000 1        I2C1_SDA                
+                                  2        GND                     
+D46              D_ESD_NORM-TPD1E10B06,1 LINE,BI-DIRECTIONAL,5.5V,0.1UA,6V,10V@1A,12PF,090-0243-000-090-0243-000 1        BMCU_ACOK               
+                                  2        GND                     
+D48              D_ESD_NORM-TPD1E10B06,1 LINE,BI-DIRECTIONAL,5.5V,0.1UA,6V,10V@1A,12PF,090-0243-000-090-0243-000 1        UART2_RXD_LS            
+                                  2        GND                     
+D49              D_ESD_NORM-TPD1E10B06,1 LINE,BI-DIRECTIONAL,5.5V,0.1UA,6V,10V@1A,12PF,090-0243-000-090-0243-000 1        UART2_TXD_LS            
+                                  2        GND                     
+D62              D_3PIN_CC_SOT323-BAT54CW,1 PAIR - COMMON CATHODE,30V,0.6A,1V@0.1A,0.2A,091-0022-000-091-0022-000 1        FORCE_OFF*              
+                                  2        FORCE_OFF*              
+                                  3        SHUTDOWN_REQ*           
+D63              D_3PIN_CC_SOT323-BAT54CW,1 PAIR - COMMON CATHODE,30V,0.6A,1V@0.1A,0.2A,091-0022-000-091-0022-000 1        BMCU_PWR_BTN*           
+                                  2        BMCU_PWR_BTN*           
+                                  3        PWR_BTN*                
+D64              D_ESD_MICROSMP-MSMP20A-M3/89A,1 LINE,UNI-DIRECTIONAL,24.5V,1UA,22.2V,42.8V@23.4A,102PF,090-0378-000-090-0378-000 1        DCJ_IN                  
+                                  2        GND                     
+D65              D_ZENER_SOD323-DDZ22BSF-7,21.71V,5MA,0.9V@10MA,0.5W,090-0377-000-090-0377-000 1        DCJ_IN                  
+                                  2        GND                     
+D66              D_ZENER_SOD523-BZT52C3V3T,3.5V,5MA,0.9V@10MA,0.3W,090-0343-000-090-0343-000 1        FORCE_OFF*              
+                                  2        GND                     
+DS1              LED_0603_B-APT1608-NVD17,5V,0.15A,4V,30MA,WHITE,092-0160-000-092-0160-000 1        VDD_5V_SYS              
+                                  2        PWR_LED                 
+J1               CON_FPC_15_SMD15_TE-1-1734248-5,FEMALE,1MM,0,YES,YES,[ ],NO,NO,N/A,N/A,080-1669-000-080-1669-000 1        GND                     
+                                  2        SNN_CAM0_NC1            
+                                  3        CSI0_D0_N               
+                                  4        SNN_CAM0_NC2            
+                                  5        CSI0_D0_P               
+                                  6        SNN_CAM0_NC3            
+                                  7        GND                     
+                                  8        SNN_CAM0_NC4            
+                                  9        CSI0_D1_N               
+                                  10       SNN_CAM0_NC5            
+                                  11       CSI0_D1_P               
+                                  12       SNN_CAM0_NC6            
+                                  13       GND                     
+                                  14       SNN_CAM0_NC7            
+                                  15       CSI0_CLK_N              
+                                  16       SNN_CAM0_NC8            
+                                  17       CSI0_CLK_P              
+                                  18       SNN_CAM0_NC9            
+                                  19       GND                     
+                                  20       SNN_CAM0_NC10           
+                                  21       CAM0_PWDN               
+                                  22       SNN_CAM0_NC11           
+                                  23       CAM0_MCLK               
+                                  24       SNN_CAM0_NC12           
+                                  25       CAM0_I2C_SCL            
+                                  26       SNN_CAM0_NC13           
+                                  27       CAM0_I2C_SDA            
+                                  28       SNN_CAM0_NC14           
+                                  29       VDD_3V3_SYS             
+                                  30       SNN_CAM0_NC15           
+J2               CON_SODIMM_260_CON_SODIMM260_JETSON_NANO-2309413-1,FEMALE,0.5MM,90,N/A,N/A,YES,NO,NO,25 V,0.5 A,080-1656-000-080-1656-000 1        GND                     
+                                  2        GND                     
+                                  3        CSI1_D0_N               
+                                  4        CSI0_D0_N               
+                                  5        CSI1_D0_P               
+                                  6        CSI0_D0_P               
+                                  7        GND                     
+                                  8        GND                     
+                                  9        CSI1_CLK_N              
+                                  10       CSI0_CLK_N              
+                                  11       CSI1_CLK_P              
+                                  12       CSI0_CLK_P              
+                                  13       GND                     
+                                  14       GND                     
+                                  15       CSI1_D1_N               
+                                  16       CSI0_D1_N               
+                                  17       CSI1_D1_P               
+                                  18       CSI0_D1_P               
+                                  19       GND                     
+                                  20       GND                     
+                                  21       CSI3_D0_N               
+                                  22       CSI2_D0_N               
+                                  23       CSI3_D0_P               
+                                  24       CSI2_D0_P               
+                                  25       GND                     
+                                  26       GND                     
+                                  27       CSI3_CLK_N              
+                                  28       CSI2_CLK_N              
+                                  29       CSI3_CLK_P              
+                                  30       CSI2_CLK_P              
+                                  31       GND                     
+                                  32       GND                     
+                                  33       CSI3_D1_N               
+                                  34       CSI2_D1_N               
+                                  35       CSI3_D1_P               
+                                  36       CSI2_D1_P               
+                                  37       GND                     
+                                  38       GND                     
+                                  39       DP0_TXD0_N              
+                                  40       CSI4_D2_N               
+                                  41       DP0_TXD0_P              
+                                  42       CSI4_D2_P               
+                                  43       GND                     
+                                  44       GND                     
+                                  45       DP0_TXD1_N              
+                                  46       CSI4_D0_N               
+                                  47       DP0_TXD1_P              
+                                  48       CSI4_D0_P               
+                                  49       GND                     
+                                  50       GND                     
+                                  51       DP0_TXD2_N              
+                                  52       CSI4_CLK_N              
+                                  53       DP0_TXD2_P              
+                                  54       CSI4_CLK_P              
+                                  55       GND                     
+                                  56       GND                     
+                                  57       DP0_TXD3_N              
+                                  58       CSI4_D1_N               
+                                  59       DP0_TXD3_P              
+                                  60       CSI4_D1_P               
+                                  61       GND                     
+                                  62       GND                     
+                                  63       HDMI_TX2_N              
+                                  64       CSI4_D3_N               
+                                  65       HDMI_TX2_P              
+                                  66       CSI4_D3_P               
+                                  67       GND                     
+                                  68       GND                     
+                                  69       HDMI_TX1_N              
+                                  70       CSI5_D0_N               
+                                  71       HDMI_TX1_P              
+                                  72       CSI5_D0_P               
+                                  73       GND                     
+                                  74       GND                     
+                                  75       HDMI_TX0_N              
+                                  76       CSI5_CLK_N              
+                                  77       HDMI_TX0_P              
+                                  78       CSI5_CLK_P              
+                                  79       GND                     
+                                  80       GND                     
+                                  81       HDMI_TXC_N              
+                                  82       CSI5_D1_N               
+                                  83       HDMI_TXC_P              
+                                  84       CSI5_D1_P               
+                                  85       GND                     
+                                  86       GND                     
+                                  87       USB0_VBUS_DET*          
+                                  88       DP0_HPD                 
+                                  89       SPI0_MOSI               
+                                  90       DP0_AUX_N               
+                                  91       SPI0_SCK                
+                                  92       DP0_AUX_P               
+                                  93       SPI0_MISO               
+                                  94       HDMI_CEC                
+                                  95       SPI0_CS0                
+                                  96       HDMI_HPD                
+                                  97       SPI0_CS1                
+                                  98       HDMI_DDC_SDA            
+                                  99       UART0_TXD               
+                                  100      HDMI_DDC_SCL            
+                                  101      UART0_RXD               
+                                  102      GND                     
+                                  103      UART0_RTS               
+                                  104      SPI1_MOSI               
+                                  105      UART0_CTS               
+                                  106      SPI1_SCK                
+                                  107      GND                     
+                                  108      SPI1_MISO               
+                                  109      USB0_AP_N               
+                                  110      SPI1_CS0                
+                                  111      USB0_AP_P               
+                                  112      SPI1_CS1                
+                                  113      GND                     
+                                  114      CAM0_PWDN               
+                                  115      USB1_AP_N               
+                                  116      CAM0_MCLK               
+                                  117      USB1_AP_P               
+                                  118      GPIO01                  
+                                  119      GND                     
+                                  120      CAM1_PWDN               
+                                  121      USB2_AP_N               
+                                  122      CAM1_MCLK               
+                                  123      USB2_AP_P               
+                                  124      BT_M2_WAKE_AP           
+                                  125      GND                     
+                                  126      BT_M2_EN                
+                                  127      PWR_LED_CTRL            
+                                  128      W_DISABLE1_CTRL         
+                                  129      GND                     
+                                  130      CAM_MUX_SEL             
+                                  131      PCIE0_RX0_N             
+                                  132      GND                     
+                                  133      PCIE0_RX0_P             
+                                  134      PCIE0_TX0_N             
+                                  135      GND                     
+                                  136      PCIE0_TX0_P             
+                                  137      PCIE0_RX1_N             
+                                  138      GND                     
+                                  139      PCIE0_RX1_P             
+                                  140      PCIE0_TX1_N             
+                                  141      GND                     
+                                  142      PCIE0_TX1_P             
+                                  143      CAN_RX                  
+                                  144      GND                     
+                                  145      CAN_TX                  
+                                  146      GND                     
+                                  147      GND                     
+                                  148      PCIE0_TX2_N             
+                                  149      PCIE0_RX2_N             
+                                  150      PCIE0_TX2_P             
+                                  151      PCIE0_RX2_P             
+                                  152      GND                     
+                                  153      GND                     
+                                  154      PCIE0_TX3_N             
+                                  155      PCIE0_RX3_N             
+                                  156      PCIE0_TX3_P             
+                                  157      PCIE0_RX3_P             
+                                  158      GND                     
+                                  159      GND                     
+                                  160      PCIE0_CLK_N             
+                                  161      USBSS_RX_N              
+                                  162      PCIE0_CLK_P             
+                                  163      USBSS_RX_P              
+                                  164      GND                     
+                                  165      GND                     
+                                  166      USBSS_TX_N              
+                                  167      PCIE1_RX0_N             
+                                  168      USBSS_TX_P              
+                                  169      PCIE1_RX0_P             
+                                  170      GND                     
+                                  171      GND                     
+                                  172      PCIE1_TX0_N             
+                                  173      PCIE1_CLK_N             
+                                  174      PCIE1_TX0_P             
+                                  175      PCIE1_CLK_P             
+                                  176      GND                     
+                                  177      GND                     
+                                  178      MOD_SLEEP*              
+                                  179      PCIE_WAKE               
+                                  180      PCIE0_CLKREQ            
+                                  181      PCIE0_RST               
+                                  182      PCIE1_CLKREQ            
+                                  183      PCIE1_RST               
+                                  184      GBE_MDI0_N              
+                                  185      ID_I2C_SCL              
+                                  186      GBE_MDI0_P              
+                                  187      ID_I2C_SDA              
+                                  188      GBE_LED_LINK            
+                                  189      I2C1_SCL                
+                                  190      GBE_MDI1_N              
+                                  191      I2C1_SDA                
+                                  192      GBE_MDI1_P              
+                                  193      I2S0_SDOUT              
+                                  194      GBE_LED_ACT             
+                                  195      I2S0_SDIN               
+                                  196      GBE_MDI2_N              
+                                  197      I2S0_LRCK               
+                                  198      GBE_MDI2_P              
+                                  199      I2S0_SCLK               
+                                  200      GND                     
+                                  201      GND                     
+                                  202      GBE_MDI3_N              
+                                  203      UART1_TXD               
+                                  204      GBE_MDI3_P              
+                                  205      UART1_RXD               
+                                  206      GPIO07                  
+                                  207      UART1_RTS               
+                                  208      FAN_TACH                
+                                  209      UART1_CTS               
+                                  210      SUSCLK_32KHZ            
+                                  211      GPIO09                  
+                                  212      M2E_ALERT*              
+                                  213      CAM_I2C_SCL             
+                                  214      FORCE_RECOVERY*         
+                                  215      CAM_I2C_SDA             
+                                  216      GPIO11                  
+                                  217      GND                     
+                                  218      GPIO12                  
+                                  219      SDIO_D0                 
+                                  220      I2S1_SDOUT              
+                                  221      SDIO_D1                 
+                                  222      I2S1_SDIN               
+                                  223      SDIO_D2                 
+                                  224      I2S1_LRCK               
+                                  225      SDIO_D3                 
+                                  226      I2S1_SCLK               
+                                  227      SDIO_CMD                
+                                  228      GPIO13                  
+                                  229      SDIO_CLK                
+                                  230      FAN_PWM                 
+                                  231      GND                     
+                                  232      I2C2_SCL                
+                                  233      SHUTDOWN_REQ*           
+                                  234      I2C2_SDA                
+                                  235      BBAT                    
+                                  236      UART2_TXD               
+                                  237      POWER_EN                
+                                  238      UART2_RXD               
+                                  239      SYS_RST*                
+                                  240      PWR_BTN*                
+                                  241      GND                     
+                                  242      GND                     
+                                  243      GND                     
+                                  244      GND                     
+                                  245      GND                     
+                                  246      GND                     
+                                  247      GND                     
+                                  248      GND                     
+                                  249      GND                     
+                                  250      GND                     
+                                  251      VDD_5V_SYS              
+                                  252      VDD_5V_SYS              
+                                  253      VDD_5V_SYS              
+                                  254      VDD_5V_SYS              
+                                  255      VDD_5V_SYS              
+                                  256      VDD_5V_SYS              
+                                  257      VDD_5V_SYS              
+                                  258      VDD_5V_SYS              
+                                  259      VDD_5V_SYS              
+                                  260      VDD_5V_SYS              
+                                  261      GND                     
+                                  262      GND                     
+J3               CON_BATTERY_SMD_3PIN-3000TR,FEMALE,N/A,N/A,YES,NO,NO,NO,YES,N/A,N/A,220-0146-000-220-0146-000 1        BBAT_CONN               
+                                  2        GND                     
+                                  3        BBAT_CONN               
+J5               CON_USB_MICRO_B-2UB2141-000111F,FEMALE,0.65,90,YES,YES,YES,NO,YES,500.0 V,500.0 MA,080-1368-000-080-1368-000 1        MICRO_USB_VBUS_DET      
+                                  2        USB0_AP_N               
+                                  3        USB0_AP_P               
+                                  4        SNN_USB0_ID_CONN        
+                                  5        GND                     
+                                  6        GND                     
+                                  7        GND                     
+                                  8        GND                     
+                                  9        GND                     
+J6               CON_USB3_TYPEA_27PIN-G3509CE04C-008-H,RECEPTACLE,2MM,90,YES,YES,YES,NO,YES,30V,1.8 A,065-0738-000-065-0738-000 1        VDD_VBUS_A              
+                                  2        USB2_A_N                
+                                  3        USB2_A_P                
+                                  4        GND                     
+                                  5        USBSS_RX_A_CON2_N       
+                                  6        USBSS_RX_A_CON2_P       
+                                  7        GND                     
+                                  8        USBSS_TX_A_CON2_N       
+                                  9        USBSS_TX_A_CON2_P       
+                                  10       VDD_VBUS_A              
+                                  11       USB1_A_N                
+                                  12       USB1_A_P                
+                                  13       GND                     
+                                  14       USBSS_RX_A_CON1_N       
+                                  15       USBSS_RX_A_CON1_P       
+                                  16       GND                     
+                                  17       USBSS_TX_A_CON1_N       
+                                  18       USBSS_TX_A_CON1_P       
+                                  19       GND                     
+                                  20       GND                     
+                                  21       GND                     
+                                  22       GND                     
+                                  23       GND                     
+                                  24       GND                     
+                                  25       GND                     
+                                  26       GND                     
+                                  27       GND                     
+J7               CON_USB3_TYPEA_27PIN-G3509CE04C-008-H,RECEPTACLE,2MM,90,YES,YES,YES,NO,YES,30V,1.8 A,065-0738-000-065-0738-000 1        VDD_VBUS_B              
+                                  2        USB2_B_N                
+                                  3        USB2_B_P                
+                                  4        GND                     
+                                  5        USBSS_RX_B_CON2_N       
+                                  6        USBSS_RX_B_CON2_P       
+                                  7        GND                     
+                                  8        USBSS_TX_B_CON2_N       
+                                  9        USBSS_TX_B_CON2_P       
+                                  10       VDD_VBUS_B              
+                                  11       USB1_B_N                
+                                  12       USB1_B_P                
+                                  13       GND                     
+                                  14       USBSS_RX_B_CON1_N       
+                                  15       USBSS_RX_B_CON1_P       
+                                  16       GND                     
+                                  17       USBSS_TX_B_CON1_N       
+                                  18       USBSS_TX_B_CON1_P       
+                                  19       GND                     
+                                  20       GND                     
+                                  21       GND                     
+                                  22       GND                     
+                                  23       GND                     
+                                  24       GND                     
+                                  25       GND                     
+                                  26       GND                     
+                                  27       GND                     
+J8               CON_HDMI_DISPLAYPORT_DP_HDMI_TH-2HE1700-000111F,FEMALE,1.4MM,90,YES,YES,YES,YES,YES,40 MV,500 MA,064-0374-000-064-0374-000 1        HDMI_TXD2_CON_P         
+                                  2        GND                     
+                                  3        HDMI_TXD2_CON_N         
+                                  4        HDMI_TXD1_CON_P         
+                                  5        GND                     
+                                  6        HDMI_TXD1_CON_N         
+                                  7        HDMI_TXD0_CON_P         
+                                  8        GND                     
+                                  9        HDMI_TXD0_CON_N         
+                                  10       HDMI_TXC_CON_P          
+                                  11       GND                     
+                                  12       HDMI_TXC_CON_N          
+                                  13       HDMI_CEC_CON            
+                                  14       SNN_HDMI_RES1           
+                                  15       HDMI_DDC_SCL_5V0        
+                                  16       HDMI_DDC_SDA_5V0        
+                                  17       GND                     
+                                  18       VDD_5V0_HDMI_CON        
+                                  19       HDMI_HPD_CON            
+                                  20       DP_CON_LANE0_P          
+                                  21       GND                     
+                                  22       DP_CON_LANE0_N          
+                                  23       DP_CON_LANE1_P          
+                                  24       GND                     
+                                  25       DP_CON_LANE1_N          
+                                  26       DP_CON_LANE2_P          
+                                  27       GND                     
+                                  28       DP_CON_LANE2_N          
+                                  29       DP_CON_LANE3_P          
+                                  30       GND                     
+                                  31       DP_CON_LANE3_N          
+                                  32       DP_MODE                 
+                                  33       SNN_DP_CEC              
+                                  34       DP_CON_AUXP             
+                                  35       GND                     
+                                  36       DP_CON_AUXN             
+                                  37       DP_HPD_CON              
+                                  38       GND                     
+                                  39       VDD_3V3_DP              
+                                  40       GND                     
+                                  41       GND                     
+                                  42       GND                     
+                                  43       GND                     
+J9               CON_FPC_15_SMD15_TE-1-1734248-5,FEMALE,1MM,0,YES,YES,[ ],NO,NO,N/A,N/A,080-1669-000-080-1669-000 1        GND                     
+                                  2        SNN_CAM1_NC1            
+                                  3        CSI2_D0_N               
+                                  4        SNN_CAM1_NC2            
+                                  5        CSI2_D0_P               
+                                  6        SNN_CAM1_NC3            
+                                  7        GND                     
+                                  8        SNN_CAM1_NC4            
+                                  9        CSI2_D1_N               
+                                  10       SNN_CAM1_NC5            
+                                  11       CSI2_D1_P               
+                                  12       SNN_CAM1_NC6            
+                                  13       GND                     
+                                  14       SNN_CAM1_NC7            
+                                  15       CSI2_CLK_N              
+                                  16       SNN_CAM1_NC8            
+                                  17       CSI2_CLK_P              
+                                  18       SNN_CAM1_NC9            
+                                  19       GND                     
+                                  20       SNN_CAM1_NC10           
+                                  21       CAM1_PWDN               
+                                  22       SNN_CAM1_NC11           
+                                  23       CAM1_MCLK               
+                                  24       SNN_CAM1_NC12           
+                                  25       CAM1_I2C_SCL            
+                                  26       SNN_CAM1_NC13           
+                                  27       CAM1_I2C_SDA            
+                                  28       SNN_CAM1_NC14           
+                                  29       VDD_3V3_SYS             
+                                  30       SNN_CAM1_NC15           
+J10              CON_M2_PCI_EXP_SMD67_KEYE-APCI0534-P017H06,FEMALE,0.5MM,90,YES,NO,NO,NO,NO,50 V,0.5 A,080-1761-000-080-1761-000 1        GND                     
+                                  2        VDD_3V3_SYS             
+                                  3        USB2_AP_P               
+                                  4        VDD_3V3_SYS             
+                                  5        USB2_AP_N               
+                                  6        SNN_LED1_L              
+                                  7        GND                     
+                                  8        I2S1_SCLK               
+                                  9        M2_SDIO_CLK             
+                                  10       I2S1_LRCK               
+                                  11       M2_SDIO_CMD             
+                                  12       I2S1_SDIN               
+                                  13       M2_SDIO_D0              
+                                  14       I2S1_SDOUT              
+                                  15       M2_SDIO_D1              
+                                  16       SNN_LED2_L              
+                                  17       M2_SDIO_D2              
+                                  18       GND                     
+                                  19       M2_SDIO_D3              
+                                  20       BT_M2_WAKE_AP           
+                                  21       SNN_M2_WIFI_M2_WAKE_AP  
+                                  22       UART0_RXD               
+                                  23       SNN_M2_WIFI_M2_EN       
+                                  32       UART0_TXD               
+                                  33       GND                     
+                                  34       UART0_CTS               
+                                  35       PCIE1_M2_TX0_P          
+                                  36       UART0_RTS               
+                                  37       PCIE1_M2_TX0_N          
+                                  38       SNN_VENDOR_DEFINED3     
+                                  39       GND                     
+                                  40       SNN_VENDOR_DEFINED2     
+                                  41       PCIE1_RX0_P             
+                                  42       SNN_VENDOR_DEFINED1     
+                                  43       PCIE1_RX0_N             
+                                  44       SNN_COEX3               
+                                  45       GND                     
+                                  46       SNN_COEX2               
+                                  47       PCIE1_CLK_P             
+                                  48       SNN_COEX1               
+                                  49       PCIE1_CLK_N             
+                                  50       M2E_SUSCLK_32KHZ        
+                                  51       GND                     
+                                  52       PCIE1_RST               
+                                  53       PCIE1_CLKREQ            
+                                  54       W_DISABLE2              
+                                  55       PCIE_WAKE               
+                                  56       W_DISABLE1              
+                                  57       GND                     
+                                  58       I2C2_M2E_SDA            
+                                  59       SNN_M2_E_59             
+                                  60       I2C2_M2E_SCL            
+                                  61       SNN_M2_E_61             
+                                  62       M2E_ALERT*              
+                                  63       GND                     
+                                  64       SNN_M2_E_64             
+                                  65       SNN_M2_B_65             
+                                  66       SNN_M2_E_66             
+                                  67       SNN_M2_B_67             
+                                  68       SNN_M2_E_68             
+                                  69       GND                     
+                                  70       SNN_M2_E_70             
+                                  71       SNN_M2_B_71             
+                                  72       VDD_3V3_SYS             
+                                  73       SNN_M2_B_73             
+                                  74       VDD_3V3_SYS             
+                                  75       GND                     
+                                  76       GND                     
+                                  77       GND                     
+J11              CON_M2_PCI_EXP_SMD77_KEYM-SM3ZS067U215AM,N/A,0.5MM,90,YES,NO,N/A,N/A,NO,50V,0.5A,080-1743-000-080-1743-000 1        GND                     
+                                  2        VDD_3V3_SYS             
+                                  3        GND                     
+                                  4        VDD_3V3_SYS             
+                                  5        PCIE0_RX3_N             
+                                  6        SNN_MDM_KEYM_NC15       
+                                  7        PCIE0_RX3_P             
+                                  8        SNN_MDM_KEYM_NC14       
+                                  9        GND                     
+                                  10       SNN_MDM_KEYM_NC13       
+                                  11       PCIE0_TX3_M2_N          
+                                  12       VDD_3V3_SYS             
+                                  13       PCIE0_TX3_M2_P          
+                                  14       VDD_3V3_SYS             
+                                  15       GND                     
+                                  16       VDD_3V3_SYS             
+                                  17       PCIE0_RX2_N             
+                                  18       VDD_3V3_SYS             
+                                  19       PCIE0_RX2_P             
+                                  20       SNN_MDM_KEYM_NC12       
+                                  21       GND                     
+                                  22       SNN_MDM_KEYM_NC11       
+                                  23       PCIE0_TX2_M2_N          
+                                  24       SNN_MDM_KEYM_NC10       
+                                  25       PCIE0_TX2_M2_P          
+                                  26       SNN_MDM_KEYM_NC9        
+                                  27       GND                     
+                                  28       SNN_MDM_KEYM_NC8        
+                                  29       PCIE0_RX1_N             
+                                  30       SNN_MDM_KEYM_NC7        
+                                  31       PCIE0_RX1_P             
+                                  32       SNN_MDM_KEYM_NC6        
+                                  33       GND                     
+                                  34       SNN_MDM_KEYM_NC5        
+                                  35       PCIE0_TX1_M2_N          
+                                  36       SNN_MDM_KEYM_NC4        
+                                  37       PCIE0_TX1_M2_P          
+                                  38       SNN_MDM_KEYM_NC3        
+                                  39       GND                     
+                                  40       I2C2_M2M_SCL            
+                                  41       PCIE0_RX0_N             
+                                  42       I2C2_M2M_SDA            
+                                  43       PCIE0_RX0_P             
+                                  44       M2M_ALERT*              
+                                  45       GND                     
+                                  46       SNN_MDM_KEYM_NC2        
+                                  47       PCIE0_TX0_M2_N          
+                                  48       SNN_MDM_KEYM_NC1        
+                                  49       PCIE0_TX0_M2_P          
+                                  50       PCIE0_RST               
+                                  51       GND                     
+                                  52       PCIE0_CLKREQ            
+                                  53       PCIE0_CLK_N             
+                                  54       PCIE_WAKE               
+                                  55       PCIE0_CLK_P             
+                                  56       SNN_MDM_KEYM_RSEV2      
+                                  57       GND                     
+                                  58       SNN_MDM_KEYM_RSEV1      
+                                  67       SNN_MDM_KEYM_NC0        
+                                  68       M2M_SUSCLK_32KHZ        
+                                  69       SNN_MDM_KEYM_PEDET      
+                                  70       VDD_3V3_SYS             
+                                  71       GND                     
+                                  72       VDD_3V3_SYS             
+                                  73       GND                     
+                                  74       VDD_3V3_SYS             
+                                  75       GND                     
+                                  76       GND                     
+                                  77       GND                     
+J12              HDR_2X20_NORM-27-0169H-220-1G-H,MALE,2.54MM,0,YES,NO,NO,1000 V,3 A,074-0221-000-074-0221-000 1        VDD_3V3_SYS             
+                                  2        VDD_5V_GPIO             
+                                  3        I2C1_SDA                
+                                  4        VDD_5V_GPIO             
+                                  5        I2C1_SCL                
+                                  6        GND                     
+                                  7        GPIO09_LS               
+                                  8        UART1_TXD_LS            
+                                  9        GND                     
+                                  10       UART1_RXD_LS            
+                                  11       UART1_RTS_LS            
+                                  12       I2S0_SCLK_LS            
+                                  13       SPI1_SCK_LS             
+                                  14       GND                     
+                                  15       GPIO12_LS               
+                                  16       SPI1_CS1_LS             
+                                  17       VDD_3V3_SYS             
+                                  18       SPI1_CS0_LS             
+                                  19       SPI0_MOSI_LS            
+                                  20       GND                     
+                                  21       SPI0_MISO_LS            
+                                  22       SPI1_MISO_LS            
+                                  23       SPI0_SCK_LS             
+                                  24       SPI0_CS0_LS             
+                                  25       GND                     
+                                  26       SPI0_CS1_LS             
+                                  27       ID_I2C_SDA              
+                                  28       ID_I2C_SCL              
+                                  29       GPIO01_LS               
+                                  30       GND                     
+                                  31       GPIO11_LS               
+                                  32       GPIO07_LS               
+                                  33       GPIO13_LS               
+                                  34       GND                     
+                                  35       I2S0_LRCK_LS            
+                                  36       UART1_CTS_LS            
+                                  37       SPI1_MOSI_LS            
+                                  38       I2S0_SDIN_LS            
+                                  39       GND                     
+                                  40       I2S0_SDOUT_LS           
+J13              CON_B2W_1X4_TH-50275-00471-003,MALE,1.25MM,0,YES,YES,NO,NO,N/A,NA,NA,064-0267-000-064-0267-000 1        GND                     
+                                  2        FAN_VDD                 
+                                  3        FAN_TACH_CON            
+                                  4        FAN_PWM_Q*              
+J14              HDR_1X12_NORM-G2100CE04C-016-H,MALE,2.54MM,90,YES,NO,NO,125 V,3 A,074-0239-000-074-0239-000 1        PC_LED-                 
+                                  2        PC_LED+                 
+                                  3        UART2_RXD_LS            
+                                  4        UART2_TXD_LS            
+                                  5        BMCU_ACOK               
+                                  6        AUTO_ON_DIS             
+                                  7        GND                     
+                                  8        SYS_RST*                
+                                  9        GND                     
+                                  10       FORCE_RECOVERY*         
+                                  11       GND                     
+                                  12       PWR_BTN*                
+J15              CON_RJ45_RJ45_POE-A70-112-331N126,FEMALE,1.27MM,90,NO,YES,YES,YES,YES,54 V,600 MA,064-0373-000-064-0373-000 1        GBE_MDI0_P              
+                                  2        GBE_MDI0_N              
+                                  3        GBE_MDI1_P              
+                                  4        MCT                     
+                                  5        MCT                     
+                                  6        GBE_MDI1_N              
+                                  7        GBE_MDI2_P              
+                                  8        GBE_MDI2_N              
+                                  9        GBE_MDI3_P              
+                                  10       GBE_MDI3_N              
+                                  11       POE_VC1                 
+                                  12       POE_VC2                 
+                                  13       POE_VC3                 
+                                  14       POE_VC4                 
+                                  15       VDD_3V3_SYS             
+                                  16       GREEN_LED               
+                                  17       VDD_3V3_SYS             
+                                  18       YELLOW_LED              
+                                  19       CGND                    
+                                  20       CGND                    
+J16              CON_PWR_JACK_CON_3PIN-2DC-0005B206F,FEMALE,N/A,90,NO,YES,N/A,N/A,NO,24 V,5 A,064-0437-000-064-0437-000 1        DCJ_IN                  
+                                  2        GND                     
+                                  3        GND                     
+J17              HDR_1X4_NORM-AC2100-0011-001-HH,MALE,2.54MM,0,NO,N/A,NO,500VAC,3A,074-0245-000-074-0245-000 1        CAN_TX                  
+                                  2        CAN_RX                  
+                                  3        GND                     
+                                  4        VDD_3V3_SYS             
+J18              HDR_1X2_NORM-HDR_1M2,MALE,2.54MM,0,NO,NO,NO,250V,3A,074-0117-000-074-0117-000 1        DCJ_IN                  
+                                  2        GND                     
+J19              HDR_1X4_NORM-HDR_1M4,MALE,2.54MM,0,NO,N/A,NO,500VAC,3A,074-0062-000-074-0062-000 1        POE_VC1                 
+                                  2        POE_VC2                 
+                                  3        POE_VC4                 
+                                  4        POE_VC3                 
+L1               L_CMF_4P_SMDA_012X010-90OHM,[ ],25%,0.2A,0.4OHM,[ ],102-0037-000-102-0037-000,90OHM 1        DSP2_DP                 
+                                  2        DSP2_DN                 
+                                  3        USB2_A_N                
+                                  4        USB2_A_P                
+L2               L_CMF_4P_SMDA_012X010-90OHM,[ ],25%,0.2A,0.4OHM,[ ],102-0037-000-102-0037-000,90OHM 1        DSP3_DP                 
+                                  2        DSP3_DN                 
+                                  3        USB1_B_N                
+                                  4        USB1_B_P                
+L3               L_SMD_7X7-1UH,IRON POWDER CORE,20%,14A,14.4A,0.0065OHM,0@0HZ,3MHZ,130-0996-000-130-0996-000,1UH 1        BUCK_5V_SW              
+                                  2        VDD_5V_SYS              
+L4               L_SMD_073X066-1UH,CARBONYL POWDER,20%,11A,22A,0.01OHM,[ ]@[ ],[ ],130-0776-000-130-0776-000,1UH 1        BUCK_5V_SW              
+                                  2        VDD_5V_SYS              
+L5               L_SMD_7X7-1UH,IRON POWDER CORE,20%,14A,14.4A,0.0065OHM,0@0HZ,3MHZ,130-0996-000-130-0996-000,1UH 1        BUCK_3V3_SW             
+                                  2        VDD_3V3_SYS             
+L6               L_SMD_073X066-1UH,CARBONYL POWDER,20%,11A,22A,0.01OHM,[ ]@[ ],[ ],130-0776-000-130-0776-000,1UH 1        BUCK_3V3_SW             
+                                  2        VDD_3V3_SYS             
+L8               L_CMF_4P_SMDA_012X010-90OHM,[ ],25%,0.2A,0.4OHM,[ ],102-0037-000-102-0037-000,90OHM 1        DSP4_DN                 
+                                  2        DSP4_DP                 
+                                  3        USB2_B_P                
+                                  4        USB2_B_N                
+L10              L_CMF_4P_SMDA_012X010-90OHM,[ ],25%,0.2A,0.4OHM,[ ],102-0037-000-102-0037-000,90OHM 1        DSP1_DP                 
+                                  2        DSP1_DN                 
+                                  3        USB1_A_N                
+                                  4        USB1_A_P                
+L14              L_0402-1NH,MULTI-LAYER,30%,0.4A,0.4A,0.07OHM,8@100MHZ,10GHZ,130-1041-000-130-1041-000,1NH 1        HDMI_CEC_Q              
+                                  2        HDMI_CEC_CON            
+L15              L_CMF_4P_SMDA_012X010-12OHM,[ ],25%,0.1A,1.5OHM,MCZ1210DH120L2TA0G,102-0066-000-102-0066-000,12OHM 1        DP_CON_LANE3_P          
+                                  2        DP_CON_LANE3_N          
+                                  3        DP_CON_LANE3_R_N        
+                                  4        DP_CON_LANE3_R_P        
+L16              L_CMF_4P_SMDA_012X010-12OHM,[ ],25%,0.1A,1.5OHM,MCZ1210DH120L2TA0G,102-0066-000-102-0066-000,12OHM 1        DP_CON_LANE2_N          
+                                  2        DP_CON_LANE2_P          
+                                  3        DP_CON_LANE2_R_P        
+                                  4        DP_CON_LANE2_R_N        
+L17              L_CMF_4P_SMDA_012X010-12OHM,[ ],25%,0.1A,1.5OHM,MCZ1210DH120L2TA0G,102-0066-000-102-0066-000,12OHM 1        DP_CON_LANE1_P          
+                                  2        DP_CON_LANE1_N          
+                                  3        DP_CON_LANE1_R_N        
+                                  4        DP_CON_LANE1_R_P        
+L18              L_CMF_4P_SMDA_012X010-12OHM,[ ],25%,0.1A,1.5OHM,MCZ1210DH120L2TA0G,102-0066-000-102-0066-000,12OHM 1        DP_CON_LANE0_N          
+                                  2        DP_CON_LANE0_P          
+                                  3        DP_CON_LANE0_R_P        
+                                  4        DP_CON_LANE0_R_N        
+L19              L_2520-1UH,METAL ALLOY,20%,3.2A,3.8A,0.042OHM,[ ]@[ ],[ ],130-0562-000-130-0562-000,1UH 1        BUCK_1V1_SW             
+                                  2        VDD_AV10_HUB            
+L20              L_CMF_4P_SMDA_012X010-90OHM,[ ],25%,0.2A,0.4OHM,[ ],102-0037-000-102-0037-000,90OHM 1        USBSS_RX_A_CON1_P       
+                                  2        USBSS_RX_A_CON1_N       
+                                  3        DSP1_SSRX_N             
+                                  4        DSP1_SSRX_P             
+L21              L_CMF_4P_SMDA_012X010-90OHM,[ ],25%,0.2A,0.4OHM,[ ],102-0037-000-102-0037-000,90OHM 1        USBSS_RX_A_CON2_N       
+                                  2        USBSS_RX_A_CON2_P       
+                                  3        DSP2_SSRX_P             
+                                  4        DSP2_SSRX_N             
+L22              L_CMF_4P_SMDA_012X010-90OHM,[ ],25%,0.2A,0.4OHM,[ ],102-0037-000-102-0037-000,90OHM 1        USBSS_TX_A_CON1_P       
+                                  2        USBSS_TX_A_CON1_N       
+                                  3        USBSS_TX_A_1_N          
+                                  4        USBSS_TX_A_1_P          
+L23              L_CMF_4P_SMDA_012X010-90OHM,[ ],25%,0.2A,0.4OHM,[ ],102-0037-000-102-0037-000,90OHM 1        USBSS_TX_A_CON2_N       
+                                  2        USBSS_TX_A_CON2_P       
+                                  3        USBSS_TX_A_2_P          
+                                  4        USBSS_TX_A_2_N          
+L24              L_CMF_4P_SMDA_012X010-90OHM,[ ],25%,0.2A,0.4OHM,[ ],102-0037-000-102-0037-000,90OHM 1        USBSS_RX_B_CON2_P       
+                                  2        USBSS_RX_B_CON2_N       
+                                  3        DSP4_SSRX_N             
+                                  4        DSP4_SSRX_P             
+L25              L_CMF_4P_SMDA_012X010-90OHM,[ ],25%,0.2A,0.4OHM,[ ],102-0037-000-102-0037-000,90OHM 1        USBSS_RX_B_CON1_P       
+                                  2        USBSS_RX_B_CON1_N       
+                                  3        DSP3_SSRX_N             
+                                  4        DSP3_SSRX_P             
+L26              L_CMF_4P_SMDA_012X010-90OHM,[ ],25%,0.2A,0.4OHM,[ ],102-0037-000-102-0037-000,90OHM 1        USBSS_TX_B_CON1_P       
+                                  2        USBSS_TX_B_CON1_N       
+                                  3        USBSS_TX_B_1_N          
+                                  4        USBSS_TX_B_1_P          
+L27              L_CMF_4P_SMDA_012X010-90OHM,[ ],25%,0.2A,0.4OHM,[ ],102-0037-000-102-0037-000,90OHM 1        USBSS_TX_B_CON2_P       
+                                  2        USBSS_TX_B_CON2_N       
+                                  3        USBSS_TX_B_2_N          
+                                  4        USBSS_TX_B_2_P          
+L28              L_0201-4NH,CERAMIC,2.5%,0.35A,0.35A,0.4OHM,14@500MHZ,5.3GHZ,130-1369-000-130-1369-000,4NH 1        HDMI_TXC_CON_LC_N       
+                                  2        HDMI_TXC_CON_R_N        
+L29              L_0201-4NH,CERAMIC,2.5%,0.35A,0.35A,0.4OHM,14@500MHZ,5.3GHZ,130-1369-000-130-1369-000,4NH 1        HDMI_TXC_CON_LC_P       
+                                  2        HDMI_TXC_CON_R_P        
+L30              L_0201-4NH,CERAMIC,2.5%,0.35A,0.35A,0.4OHM,14@500MHZ,5.3GHZ,130-1369-000-130-1369-000,4NH 1        HDMI_TXD0_CON_LC_N      
+                                  2        HDMI_TXD0_CON_R_N       
+L31              L_0201-4NH,CERAMIC,2.5%,0.35A,0.35A,0.4OHM,14@500MHZ,5.3GHZ,130-1369-000-130-1369-000,4NH 1        HDMI_TXD0_CON_LC_P      
+                                  2        HDMI_TXD0_CON_R_P       
+L32              L_0201-4NH,CERAMIC,2.5%,0.35A,0.35A,0.4OHM,14@500MHZ,5.3GHZ,130-1369-000-130-1369-000,4NH 1        HDMI_TXD1_CON_LC_N      
+                                  2        HDMI_TXD1_CON_R_N       
+L33              L_0201-4NH,CERAMIC,2.5%,0.35A,0.35A,0.4OHM,14@500MHZ,5.3GHZ,130-1369-000-130-1369-000,4NH 1        HDMI_TXD1_CON_LC_P      
+                                  2        HDMI_TXD1_CON_R_P       
+L34              L_0201-4NH,CERAMIC,2.5%,0.35A,0.35A,0.4OHM,14@500MHZ,5.3GHZ,130-1369-000-130-1369-000,4NH 1        HDMI_TXD2_CON_LC_N      
+                                  2        HDMI_TXD2_CON_R_N       
+L35              L_0201-4NH,CERAMIC,2.5%,0.35A,0.35A,0.4OHM,14@500MHZ,5.3GHZ,130-1369-000-130-1369-000,4NH 1        HDMI_TXD2_CON_LC_P      
+                                  2        HDMI_TXD2_CON_R_P       
+MEC1             MEC_STANDOFF_SMD-SMD MECH STDF_035MM,155-0879-000-155-0879-000 1        GND                     
+MEC2             MEC_STANDOFF_SMD-SMD MECH STDF_035MM,155-0879-000-155-0879-000 1        GND                     
+MEC3             MOUNTING_HOLE_X2-P3509_MOUNTING_HOLE 1        GND                     
+                                  2        GND                     
+Q1               Q_FET_N_ENH_DFN1006-DMN26D0UFB4,20V,999MOHM@10V / 3000MOHM@4.5V / 4000MOHM@2.5V,0.14A,0.805A,10V,0.35W,999NC@10V / 0NC@4.5V / B 1        LED0_CTRL               
+                                  2        GND                     
+                                  3        PWR_LED_R               
+Q4               Q_FET_N_ENH_DFN3X3-NTTFS4C25N,30V,17MOHM@10V / 26.5MOHM@4.5V / [ ]@2.5V,12.2A,81A,20V,1.63W,10.3NC@10V / 5.1NC@4.5V / [ ]@2.5VB 1        BUCK_5V_SW              
+                                  2        BUCK_5V_SW              
+                                  3        BUCK_5V_SW              
+                                  4        BUCK_5V_DRVH            
+                                  5        VDD_DCIN                
+Q5               Q_FET_N_ENH_DFN3X3-NTTFS4C06NTAG,30V,4.2MOHM@10V / 6.1MOHM@4.5V / [ ]@2.5V,18A,166A,20V,2.16W,26NC@10V / 11.6NC@4.5V / [ ]@2.5B 1        GND                     
+                                  2        GND                     
+                                  3        GND                     
+                                  4        BUCK_5V_DRVL            
+                                  5        BUCK_5V_SW              
+Q6               Q_FET_N_ENH_DFN3X3-NTTFS4C25N,30V,17MOHM@10V / 26.5MOHM@4.5V / [ ]@2.5V,12.2A,81A,20V,1.63W,10.3NC@10V / 5.1NC@4.5V / [ ]@2.5VB 1        BUCK_3V3_SW             
+                                  2        BUCK_3V3_SW             
+                                  3        BUCK_3V3_SW             
+                                  4        BUCK_3V3_DRVH           
+                                  5        VDD_DCIN                
+Q7               Q_FET_N_ENH_DFN3X3-NTTFS4C06NTAG,30V,4.2MOHM@10V / 6.1MOHM@4.5V / [ ]@2.5V,18A,166A,20V,2.16W,26NC@10V / 11.6NC@4.5V / [ ]@2.5B 1        GND                     
+                                  2        GND                     
+                                  3        GND                     
+                                  4        BUCK_3V3_DRVL           
+                                  5        BUCK_3V3_SW             
+Q8               Q_FET_N_ENH_DFN1006-DMN26D0UFB4,20V,999MOHM@10V / 3000MOHM@4.5V / 4000MOHM@2.5V,0.14A,0.805A,10V,0.35W,999NC@10V / 0NC@4.5V / B 1        USB0_VBUS_DET           
+                                  2        GND                     
+                                  3        USB0_VBUS_DET*          
+Q11              Q_FET_N_ENH_DFN1006-DMN26D0UFB4,20V,999MOHM@10V / 3000MOHM@4.5V / 4000MOHM@2.5V,0.14A,0.805A,10V,0.35W,999NC@10V / 0NC@4.5V / B 1        VDD_3V3_HDMI            
+                                  2        GND                     
+                                  3        IFP_TERM                
+Q12              Q_FET_N_ENH_SOT363-NTJD4001N,30V,1500MOHM@10V / 1500MOHM@4.5V / 1500MOHM@2.5V,0.25A,0.25A,20V,0.272W,[ ]@10V / [ ]@4.5V / [ ]@B 1        HDMI_DDC_SCL            
+                                  2        VDD_3V3_HDMI            
+                                  3        HDMI_DDC_SDA_5V0        
+                                  4        HDMI_DDC_SDA            
+                                  5        VDD_3V3_HDMI            
+                                  6        HDMI_DDC_SCL_5V0        
+Q13              Q_FET_N_ENH_DFN1006-DMN26D0UFB4,20V,999MOHM@10V / 3000MOHM@4.5V / 4000MOHM@2.5V,0.14A,0.805A,10V,0.35W,999NC@10V / 0NC@4.5V / B 1        VDD_3V3_HDMI            
+                                  2        HDMI_CEC                
+                                  3        HDMI_CEC_Q              
+Q14              Q_NPN_DFN1006-MMBT3904LP-7,40V,0.3V,0.2A,9999A,6V,0.25W,300-0869-000-300-0869-000 1        HDMI_HPD_CON_Q          
+                                  2        GND                     
+                                  3        HDMI_HPD                
+Q15              Q_NPN_SOT323_1B1C1E-3904_SERIES,40V,0.3V,0.2A,0.2A,6V,0.15W,300-1128-000-300-1128-000 1        DP0_HPD_B               
+                                  2        GND                     
+                                  3        DP0_HPD                 
+Q16              Q_NPN_SOT323_1B1C1E-3904_SERIES,40V,0.3V,0.2A,0.2A,6V,0.15W,300-1128-000-300-1128-000 1        DP_HPD_CON_R            
+                                  2        GND                     
+                                  3        DP0_HPD_C               
+Q17              Q_FET_N_ENH_DFN1006-DMN26D0UFB4,20V,999MOHM@10V / 3000MOHM@4.5V / 4000MOHM@2.5V,0.14A,0.805A,10V,0.35W,999NC@10V / 0NC@4.5V / B 1        BT_M2_EN                
+                                  2        GND                     
+                                  3        W_DISABLE2              
+Q18              Q_FET_N_ENH_DFN1006-DMN26D0UFB4,20V,999MOHM@10V / 3000MOHM@4.5V / 4000MOHM@2.5V,0.14A,0.805A,10V,0.35W,999NC@10V / 0NC@4.5V / B 1        W_DISABLE1_CTRL         
+                                  2        GND                     
+                                  3        W_DISABLE1              
+Q20              Q_FET_N_ENH_DFN1006-DMN26D0UFB4,20V,999MOHM@10V / 3000MOHM@4.5V / 4000MOHM@2.5V,0.14A,0.805A,10V,0.35W,999NC@10V / 0NC@4.5V / B 1        VDD_1V8                 
+                                  2        FAN_TACH                
+                                  3        FAN_TACH_CON            
+Q21              Q_FET_N_ENH_DFN1006-DMN26D0UFB4,20V,999MOHM@10V / 3000MOHM@4.5V / 4000MOHM@2.5V,0.14A,0.805A,10V,0.35W,999NC@10V / 0NC@4.5V / B 1        LED1_CTRL               
+                                  2        GND                     
+                                  3        PC_LED_R                
+Q23              Q_FET_P_ENH_SOT323_1G1D1S-NTS4101PT1G,-20V,0MOHM@10V / 120MOHM@4.5V / 160MOHM@2.5V,-1.37A,-4A,8V,0.329W,[ ]@10V / 9NC@4.5V / [B 1        EN_PWR_PATH             
+                                  2        VDD_5V_GPIO             
+                                  3        VDD_5V_SYS              
+Q24              Q_PNP_SOT363-NST45010MW6T1G,-45V,-50V,-0.1A,-0.1A,-5V,0.1MW,300-0906-000-300-0906-000 1        VDD_5V_SYS              
+                                  2        BD_DISABLE              
+                                  3        EN_PWR_PATH             
+                                  4        VDD_5V_GPIO             
+                                  5        BD_DISABLE              
+                                  6        BD_DISABLE              
+Q25              Q_FET_P_ENH_DFN3X3-AONR21357,-30V,10.7MOHM@10V / 12.3MOHM@4.5V / [ ]@2.5V,-17A,-136A,25V,3.2W,70NC@10V / 35NC@4.5V / [ ]@2.5V,B 1        DCJ_IN                  
+                                  2        DCJ_IN                  
+                                  3        DCJ_IN                  
+                                  4        DCJ_SS                  
+                                  5        VDD_DCIN                
+Q28              Q_FET_P_ENH_SOT323_1G1D1S-BSS84W-7-F,-50V,-1000MOHM@10V / -1000MOHM@4.5V / -1000MOHM@2.5V,-0.13A,[ ],20V,0.2W,[ ]@10V / [ ]@4.B 1        DCJ_UNPLUG              
+                                  2        VDD_DCIN                
+                                  3        DCJ_UNPLUG_Q            
+Q29              Q_FET_N_ENH_SOT323_1G1D1S-2N7002_SERIES,60V,13500MOHM@10V / 7500MOHM@4.5V / [ ]@2.5V,0.115A,0.8A,20V,0.15W,[ ]@10V / 0.5NC@4.5B 1        BUCK_5V_PG              
+                                  2        GND                     
+                                  3        DCJ_UNPLUG_R            
+Q30              Q_FET_N_ENH_DFN1006-DMN26D0UFB4,20V,999MOHM@10V / 3000MOHM@4.5V / 4000MOHM@2.5V,0.14A,0.805A,10V,0.35W,999NC@10V / 0NC@4.5V / B 1        POWER_EN                
+                                  2        DP0_AUX_N               
+                                  3        DP0_AUX_R_N             
+Q31              Q_FET_N_ENH_DFN1006-DMN26D0UFB4,20V,999MOHM@10V / 3000MOHM@4.5V / 4000MOHM@2.5V,0.14A,0.805A,10V,0.35W,999NC@10V / 0NC@4.5V / B 1        POWER_EN                
+                                  2        DP0_AUX_P               
+                                  3        DP0_AUX_R_P             
+Q32              Q_FET_N_ENH_DFN1006-DMN26D0UFB4,20V,999MOHM@10V / 3000MOHM@4.5V / 4000MOHM@2.5V,0.14A,0.805A,10V,0.35W,999NC@10V / 0NC@4.5V / B 1        DP_MODE_LS              
+                                  2        DP0_AUX_R_N             
+                                  3        DP0_AUX_Q_N             
+Q33              Q_FET_N_ENH_DFN1006-DMN26D0UFB4,20V,999MOHM@10V / 3000MOHM@4.5V / 4000MOHM@2.5V,0.14A,0.805A,10V,0.35W,999NC@10V / 0NC@4.5V / B 1        DP_MODE_LS              
+                                  2        DP0_AUX_R_P             
+                                  3        DP0_AUX_Q_P             
+Q34              Q_FET_N_ENH_DFN1006-DMN26D0UFB4,20V,999MOHM@10V / 3000MOHM@4.5V / 4000MOHM@2.5V,0.14A,0.805A,10V,0.35W,999NC@10V / 0NC@4.5V / B 1        DP_MODE_LS              
+                                  2        DP_CON_AUXN             
+                                  3        DP0_AUX_Q_N             
+Q35              Q_FET_N_ENH_DFN1006-DMN26D0UFB4,20V,999MOHM@10V / 3000MOHM@4.5V / 4000MOHM@2.5V,0.14A,0.805A,10V,0.35W,999NC@10V / 0NC@4.5V / B 1        DP_MODE_LS              
+                                  2        DP_CON_AUXP             
+                                  3        DP0_AUX_Q_P             
+Q36              Q_FET_N_ENH_DFN1006-DMN26D0UFB4,20V,999MOHM@10V / 3000MOHM@4.5V / 4000MOHM@2.5V,0.14A,0.805A,10V,0.35W,999NC@10V / 0NC@4.5V / B 1        BUCK_3V3_EN             
+                                  2        GND                     
+                                  3        DISCHG_3V3_SYS          
+Q37              Q_FET_N_ENH_DFN1006-DMN26D0UFB4,20V,999MOHM@10V / 3000MOHM@4.5V / 4000MOHM@2.5V,0.14A,0.805A,10V,0.35W,999NC@10V / 0NC@4.5V / B 1        DISCHG_3V3_SYS          
+                                  2        GND                     
+                                  3        VDD_3V3_DISCHG          
+R1               R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        PWR_LED_CTRL            
+                                  2        LED0_CTRL               
+R2               R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        MOD_SLEEP*              
+                                  2        LED0_CTRL               
+R3               R_0402-47K,5 %,62.5MW,195-0599-000-195-0599-000,47K 1        VDD_3V3_SYS             
+                                  2        ID_I2C_SCL              
+R4               R_0402-47K,5 %,62.5MW,195-0599-000-195-0599-000,47K 1        VDD_3V3_SYS             
+                                  2        ID_I2C_SDA              
+R5               R_0402-47K,5 %,62.5MW,195-0599-000-195-0599-000,47K 1        VDD_1V8                 
+                                  2        I2C2_SDA                
+R6               R_0402-47K,5 %,62.5MW,195-0599-000-195-0599-000,47K 1        VDD_1V8                 
+                                  2        I2C2_SCL                
+R7               R_0402-1.8K,5 %,62.5MW,195-0528-000-1.8K,195-0528-000 1        PWR_LED                 
+                                  2        PWR_LED_R               
+R8               R_0402-47K,5 %,62.5MW,195-0599-000-195-0599-000,47K 1        VDD_3V3_SYS             
+                                  2        I2C1_SCL                
+R9               R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        VDD_5V_SYS              
+                                  2        PWR_BTN*                
+R10              R_0402-47K,5 %,62.5MW,195-0599-000-195-0599-000,47K 1        VDD_3V3_SYS             
+                                  2        I2C1_SDA                
+R11              R_0402-1.6K,5 %,62.5MW,195-0521-000-1.6K,195-0521-000 1        VDD_3V3_SYS             
+                                  2        CAM_I2C_SCL             
+R12              R_0402-1.6K,5 %,62.5MW,195-0521-000-1.6K,195-0521-000 1        VDD_3V3_SYS             
+                                  2        CAM_I2C_SDA             
+R13              R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        VDD_3V3_SYS             
+                                  2        M2E_SUSCLK_32KHZ        
+R14              R_0402-10K,1 %,62.5MW,195-0004-000-10K,195-0004-000 1        BUCK_5V_EN              
+                                  2        VDD_DCIN                
+R15              R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        BUCK_5V_BST             
+                                  2        BUCK_5V_BST_R           
+R16              R_0805-3.3OHM,5 %,0.125W,195-1602-000-195-1602-000,3.3OHM 1        BUCK_5V_SW              
+                                  2        BUCK_5V_SNUB            
+R17              R_0402-18.2K,1 %,62.5MW,195-0130-000-18.2K,195-0130-000 1        BUCK_5V_DRVL            
+                                  2        GND                     
+R18              R_0402-100OHM,1 %,62.5MW,195-0002-000-100OHM,195-0002-000 1        VDD_5V_SYS              
+                                  2        BUCK_5V_FB_MID          
+R19              R_0402-127K,1 %,62.5MW,195-0056-000-127K,195-0056-000 1        BUCK_5V_FB_MID          
+                                  2        BUCK_5V_FB              
+R20              R_0402-22.1K,1 %,62.5MW,195-0170-000-195-0170-000,22.1K 1        BUCK_5V_FB              
+                                  2        GND                     
+R21              R_0402-47.5K,1 %,62.5MW,195-0330-000-195-0330-000,47.5K 1        BUCK_5V_FB_MID          
+                                  2        BUCK_5V_FB_MID_R        
+R23              R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        BUCK_3V3_BST            
+                                  2        BUCK_3V3_BST_R          
+R24              R_0805-3.3OHM,5 %,0.125W,195-1602-000-195-1602-000,3.3OHM 1        BUCK_3V3_SW             
+                                  2        BUCK_3V3_SNUB           
+R25              R_0402-18.2K,1 %,62.5MW,195-0130-000-18.2K,195-0130-000 1        BUCK_3V3_DRVL           
+                                  2        GND                     
+R26              R_0402-100OHM,1 %,62.5MW,195-0002-000-100OHM,195-0002-000 1        VDD_3V3_SYS             
+                                  2        BUCK_3V3_FB_MID         
+R27              R_0402-90.9K,1 %,62.5MW,195-0465-000-195-0465-000,90.9K 1        BUCK_3V3_FB_MID         
+                                  2        BUCK_3V3_FB             
+R28              R_0402-27.4K,1 %,62.5MW,195-0215-000-195-0215-000,27.4K 1        BUCK_3V3_FB             
+                                  2        GND                     
+R29              R_0402-47.5K,1 %,62.5MW,195-0330-000-195-0330-000,47.5K 1        BUCK_3V3_FB_MID         
+                                  2        BUCK_3V3_FB_MID_R       
+R30              R_0402-309K,1 %,62.5MW,195-0241-000-195-0241-000,309K 1        3V3_AO                  
+                                  2        3V3_AO_ADJ              
+R31              R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        3V3_AO_ADJ              
+                                  2        GND                     
+R32              R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        MICRO_USB_VBUS_DET      
+                                  2        USB0_VBUS_DET           
+R33              R_0402-1M,5 %,62.5MW,195-0488-000-195-0488-000,1M 1        USB0_VBUS_DET           
+                                  2        GND                     
+R35              R_0402-6.19K,1 %,62.5MW,195-0384-000-195-0384-000,6.19K 1        GND                     
+                                  2        RREF                    
+R36              R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        VDD_3V3_SYS             
+                                  2        HUB_DSP34_OCP           
+R37              R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        VDD_3V3_SYS             
+                                  2        HUB_PWR_DET             
+R38              R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        VDD_3V3_SYS             
+                                  2        HUB_DSP12_OCP           
+R40              R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        HUB_DSP12_PWR_EN        
+                                  2        GND                     
+R41              R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DSP2_DN                 
+                                  2        USB2_A_N                
+R42              R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DSP2_DP                 
+                                  2        USB2_A_P                
+R44              R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DSP4_DN                 
+                                  2        USB2_B_N                
+R45              R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DSP4_DP                 
+                                  2        USB2_B_P                
+R46              R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DSP3_DN                 
+                                  2        USB1_B_N                
+R47              R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DSP3_DP                 
+                                  2        USB1_B_P                
+R48              R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        MOD_SLEEP*              
+                                  2        GND                     
+R49              R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        VDD_3V3_HDMI            
+                                  2        GND                     
+R50              R_0402-130K,1 %,62.5MW,195-0061-000-130K,195-0061-000 1        HDMI_ILIM               
+                                  2        GND                     
+R51              R_0402-499OHM,1 %,62.5MW,195-0338-000-195-0338-000,499OHM 1        IFP_TERM                
+                                  2        HDMI_TXC_CON_LC_N       
+R52              R_0402-499OHM,1 %,62.5MW,195-0338-000-195-0338-000,499OHM 1        IFP_TERM                
+                                  2        HDMI_TXC_CON_LC_P       
+R53              R_0402-499OHM,1 %,62.5MW,195-0338-000-195-0338-000,499OHM 1        IFP_TERM                
+                                  2        HDMI_TXD0_CON_LC_N      
+R54              R_0402-499OHM,1 %,62.5MW,195-0338-000-195-0338-000,499OHM 1        IFP_TERM                
+                                  2        HDMI_TXD0_CON_LC_P      
+R55              R_0402-499OHM,1 %,62.5MW,195-0338-000-195-0338-000,499OHM 1        IFP_TERM                
+                                  2        HDMI_TXD1_CON_LC_N      
+R56              R_0402-499OHM,1 %,62.5MW,195-0338-000-195-0338-000,499OHM 1        IFP_TERM                
+                                  2        HDMI_TXD1_CON_LC_P      
+R57              R_0402-499OHM,1 %,62.5MW,195-0338-000-195-0338-000,499OHM 1        IFP_TERM                
+                                  2        HDMI_TXD2_CON_LC_N      
+R58              R_0402-499OHM,1 %,62.5MW,195-0338-000-195-0338-000,499OHM 1        IFP_TERM                
+                                  2        HDMI_TXD2_CON_LC_P      
+R59              R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        VDD_3V3_HDMI            
+                                  2        HDMI_DDC_SDA            
+R60              R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        VDD_3V3_HDMI            
+                                  2        HDMI_DDC_SCL            
+R61              R_0402-32.4K,1 %,62.5MW,195-0250-000-195-0250-000,32.4K 1        HDMI_CEC_PU             
+                                  2        VDD_3V3_HDMI            
+R62              R_0402-162K,1 %,62.5MW,195-0106-000-162K,195-0106-000 1        VDD_3V3_HDMI            
+                                  2        HDMI_CEC                
+R63              R_0402-1.8K,5 %,62.5MW,195-0528-000-1.8K,195-0528-000 1        VDD_5V0_HDMI_CON        
+                                  2        HDMI_DDC_SDA_5V0        
+R64              R_0402-1.8K,5 %,62.5MW,195-0528-000-1.8K,195-0528-000 1        VDD_5V0_HDMI_CON        
+                                  2        HDMI_DDC_SCL_5V0        
+R65              R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        VDD_1V8                 
+                                  2        HDMI_HPD                
+R66              R_0402-5.6OHM,5 %,62.5MW,195-0609-000-195-0609-000,5.6OHM 1        HDMI_TXC_CON_R_N        
+                                  2        HDMI_TXC_CON_N          
+R67              R_0402-5.6OHM,5 %,62.5MW,195-0609-000-195-0609-000,5.6OHM 1        HDMI_TXC_CON_R_P        
+                                  2        HDMI_TXC_CON_P          
+R68              R_0402-5.6OHM,5 %,62.5MW,195-0609-000-195-0609-000,5.6OHM 1        HDMI_TXD0_CON_R_N       
+                                  2        HDMI_TXD0_CON_N         
+R69              R_0402-5.6OHM,5 %,62.5MW,195-0609-000-195-0609-000,5.6OHM 1        HDMI_TXD0_CON_R_P       
+                                  2        HDMI_TXD0_CON_P         
+R70              R_0402-5.6OHM,5 %,62.5MW,195-0609-000-195-0609-000,5.6OHM 1        HDMI_TXD1_CON_R_N       
+                                  2        HDMI_TXD1_CON_N         
+R71              R_0402-5.6OHM,5 %,62.5MW,195-0609-000-195-0609-000,5.6OHM 1        HDMI_TXD1_CON_R_P       
+                                  2        HDMI_TXD1_CON_P         
+R72              R_0402-5.6OHM,5 %,62.5MW,195-0609-000-195-0609-000,5.6OHM 1        HDMI_TXD2_CON_R_N       
+                                  2        HDMI_TXD2_CON_N         
+R73              R_0402-5.6OHM,5 %,62.5MW,195-0609-000-195-0609-000,5.6OHM 1        HDMI_TXD2_CON_R_P       
+                                  2        HDMI_TXD2_CON_P         
+R74              R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        HDMI_HPD_CON_Q          
+                                  2        GND                     
+R75              R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        HDMI_HPD_CON_R          
+                                  2        HDMI_HPD_CON_Q          
+R76              R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        VDD_1V8                 
+                                  2        DP0_HPD                 
+R77              R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DP_CON_LANE3_R_N        
+                                  2        DP_CON_LANE3_N          
+R78              R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DP_CON_LANE3_R_P        
+                                  2        DP_CON_LANE3_P          
+R79              R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DP_CON_LANE2_R_N        
+                                  2        DP_CON_LANE2_N          
+R80              R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DP_CON_LANE2_R_P        
+                                  2        DP_CON_LANE2_P          
+R81              R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DP_CON_LANE1_R_N        
+                                  2        DP_CON_LANE1_N          
+R82              R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DP_CON_LANE1_R_P        
+                                  2        DP_CON_LANE1_P          
+R83              R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DP_CON_LANE0_R_N        
+                                  2        DP_CON_LANE0_N          
+R84              R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DP_CON_LANE0_R_P        
+                                  2        DP_CON_LANE0_P          
+R85              R_0402-5.1K,5 %,62.5MW,195-0605-000-195-0605-000,5.1K 1        DP0_HPD_B               
+                                  2        DP0_HPD_C               
+R86              R_0402-5.1K,5 %,62.5MW,195-0605-000-195-0605-000,5.1K 1        VDD_1V8                 
+                                  2        DP0_HPD_C               
+R87              R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        DP_HPD_CON_R            
+                                  2        GND                     
+R88              R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        DP_HPD_CON_R            
+                                  2        DP_HPD_CON              
+R89              R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        DP_CON_AUXP             
+                                  2        GND                     
+R90              R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        VDD_3V3_DP              
+                                  2        DP_CON_AUXN             
+R91              R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DP_SW_EN                
+                                  2        BUCK_3V3_PG             
+R92              R_0402-24.9K,1 %,62.5MW,195-0195-000-195-0195-000,24.9K 1        DP_ILIM                 
+                                  2        GND                     
+R93              R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        CAM_MUX_SEL             
+                                  2        GND                     
+R94              R_0402-47K,5 %,62.5MW,195-0599-000-195-0599-000,47K 1        VDD_3V3_SYS             
+                                  2        CAM0_I2C_SCL            
+R95              R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        CAM_MUX_OE*             
+                                  2        GND                     
+R96              R_0402-47K,5 %,62.5MW,195-0599-000-195-0599-000,47K 1        VDD_3V3_SYS             
+                                  2        CAM1_I2C_SCL            
+R97              R_0402-47K,5 %,62.5MW,195-0599-000-195-0599-000,47K 1        VDD_3V3_SYS             
+                                  2        CAM0_I2C_SDA            
+R98              R_0402-47K,5 %,62.5MW,195-0599-000-195-0599-000,47K 1        VDD_3V3_SYS             
+                                  2        CAM1_I2C_SDA            
+R99              R_0402-47K,5 %,62.5MW,195-0599-000-195-0599-000,47K 1        VDD_3V3_SYS             
+                                  2        W_DISABLE2              
+R100             R_0402-47K,5 %,62.5MW,195-0599-000-195-0599-000,47K 1        VDD_3V3_SYS             
+                                  2        PCIE1_RST               
+R101             R_0402-47K,5 %,62.5MW,195-0599-000-195-0599-000,47K 1        VDD_1V8                 
+                                  2        M2E_ALERT*              
+R102             R_0402-47K,5 %,62.5MW,195-0599-000-195-0599-000,47K 1        VDD_3V3_SYS             
+                                  2        BT_M2_WAKE_AP           
+R103             R_0402-47K,5 %,62.5MW,195-0599-000-195-0599-000,47K 1        VDD_3V3_SYS             
+                                  2        W_DISABLE1              
+R104             R_0402-47K,5 %,62.5MW,195-0599-000-195-0599-000,47K 1        VDD_3V3_SYS             
+                                  2        PCIE1_CLKREQ            
+R105             R_0402-47K,5 %,62.5MW,195-0599-000-195-0599-000,47K 1        VDD_3V3_SYS             
+                                  2        PCIE_WAKE               
+R106             R_0603-0OHM,0.05 OHM,0MW,195-1765-000-0OHM,195-1765-000 1        I2C2_SCL                
+                                  2        I2C2_M2E_SCL            
+R107             R_0603-0OHM,0.05 OHM,0MW,195-1765-000-0OHM,195-1765-000 1        I2C2_SDA                
+                                  2        I2C2_M2E_SDA            
+R110             R_0603-0OHM,0.05 OHM,0MW,195-1765-000-0OHM,195-1765-000 1        I2C2_SCL                
+                                  2        I2C2_M2M_SCL            
+R111             R_0603-0OHM,0.05 OHM,0MW,195-1765-000-0OHM,195-1765-000 1        I2C2_SDA                
+                                  2        I2C2_M2M_SDA            
+R113             R_0402-47K,5 %,62.5MW,195-0599-000-195-0599-000,47K 1        VDD_1V8                 
+                                  2        M2M_ALERT*              
+R114             R_0402-47K,5 %,62.5MW,195-0599-000-195-0599-000,47K 1        VDD_3V3_SYS             
+                                  2        PCIE0_RST               
+R115             R_0402-20K,1 %,62.5MW,195-0150-000-195-0150-000,20K 1        VDD_1V8                 
+                                  2        LS_ENABLE               
+R116             R_0402-1M,5 %,62.5MW,195-0488-000-195-0488-000,1M 1        GND                     
+                                  2        LS_ENABLE               
+R117             R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        VDD_3V3_SYS             
+                                  2        UART1_RXD_LS            
+R118             R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        VDD_3V3_SYS             
+                                  2        UART1_CTS_LS            
+R119             R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        FAN_PWM                 
+                                  2        GND                     
+R120             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        VDD_1V8                 
+                                  2        UART2_LS_OE             
+R121             R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        GND                     
+                                  2        UART2_LS_OE             
+R122             R_0402-4.7K,5 %,62.5MW,195-0598-000-195-0598-000,4.7K 1        FAN_PWM_Q*              
+                                  2        GND                     
+R123             R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        VDD_1V8                 
+                                  2        FAN_TACH                
+R124             R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        FAN_VDD                 
+                                  2        FAN_TACH_CON            
+R125             R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        VDD_3V3_SYS             
+                                  2        UART2_RXD_LS            
+R126             R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        BOARD_ID_WP             
+                                  2        GND                     
+R127             R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        VDD_1V8                 
+                                  2        BRD_ID_A2               
+R128             R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        BRD_ID_A2               
+                                  2        GND                     
+R129             R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        VDD_1V8                 
+                                  2        BRD_ID_A1               
+R130             R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        BRD_ID_A1               
+                                  2        GND                     
+R131             R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        VDD_1V8                 
+                                  2        BOARD_ID_A0             
+R132             R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        BOARD_ID_A0             
+                                  2        GND                     
+R133             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        PWR_LED_CTRL            
+                                  2        LED1_CTRL               
+R134             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        MOD_SLEEP*              
+                                  2        LED1_CTRL               
+R135             R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        VDD_1V8                 
+                                  2        LED1_CTRL               
+R136             R_0402-499OHM,1 %,62.5MW,195-0338-000-195-0338-000,499OHM 1        PC_LED-                 
+                                  2        PC_LED_R                
+R137             R_0402-10K,1 %,62.5MW,195-0004-000-10K,195-0004-000 1        BMCU_BRD_SEL            
+                                  2        GND                     
+R138             R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        BMCU_POWER_EN           
+                                  2        GND                     
+R139             R_0402-10K,1 %,62.5MW,195-0004-000-10K,195-0004-000 1        3V3_AO                  
+                                  2        BMCU_BRD_SEL            
+R140             R_0402-4.7K,5 %,62.5MW,195-0598-000-195-0598-000,4.7K 1        3V3_AO                  
+                                  2        BMCU_C2CK               
+R141             R_0402-10K,1 %,62.5MW,195-0004-000-10K,195-0004-000 1        3V3_AO                  
+                                  2        BMCU_PWR_BTN*           
+R142             R_0402-34K,1 %,62.5MW,195-0260-000-195-0260-000,34K 1        DCJ_UNPLUG_Q            
+                                  2        FORCE_OFF*              
+R144             R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        3V3_AO                  
+                                  2        BMCU_ACOK               
+R146             R_0402-110OHM,5 %,62.5MW,195-0492-000-110OHM,195-0492-000 1        GBE_LED_LINK            
+                                  2        GREEN_LED               
+R147             R_0402-120OHM,5 %,62.5MW,195-0499-000-120OHM,195-0499-000 1        GBE_LED_ACT             
+                                  2        YELLOW_LED              
+R148             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        GND                     
+                                  2        CGND                    
+R149             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        GND                     
+                                  2        CGND                    
+R150             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        GND                     
+                                  2        CGND                    
+R151             R_0603-0OHM,0.05 OHM,0MW,195-1765-000-0OHM,195-1765-000 1        GND                     
+                                  2        CGND                    
+R152             R_0603-0OHM,0.05 OHM,0MW,195-1765-000-0OHM,195-1765-000 1        GND                     
+                                  2        CGND                    
+R153             R_0603-0OHM,0.05 OHM,0MW,195-1765-000-0OHM,195-1765-000 1        GND                     
+                                  2        CGND                    
+R163             R_0402-10K,1 %,62.5MW,195-0004-000-10K,195-0004-000 1        VDD_5V_SYS              
+                                  2        BUCK_5V_PG              
+R164             R_0402-10K,1 %,62.5MW,195-0004-000-10K,195-0004-000 1        VDD_3V3_SYS             
+                                  2        BUCK_3V3_PG             
+R165             R_0402-110OHM,5 %,62.5MW,195-0492-000-110OHM,195-0492-000 1        BMCU_ACOK               
+                                  2        5V_PG_BUF_R             
+R166             R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        POWER_EN                
+                                  2        GND                     
+R167             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DSP1_DN                 
+                                  2        USB1_A_N                
+R169             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DSP1_DP                 
+                                  2        USB1_A_P                
+R170             R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        VDD_5V_SYS              
+                                  2        SHUTDOWN_REQ*           
+R171             R_0402-1OHM,1 %,62.5MW,195-2682-000-195-2682-000,1OHM 1        DCJ_IN                  
+                                  2        DCIN_SNUB               
+R172             R_0402-147K,1 %,62.5MW,195-0086-000-147K,195-0086-000 1        VDD_DCIN                
+                                  2        DCIN_SENSE              
+R173             R_0402-61.9K,1 %,62.5MW,195-0385-000-195-0385-000,61.9K 1        DCIN_SENSE              
+                                  2        GND                     
+R174             R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        HUB_DSP34_PWR_EN        
+                                  2        GND                     
+R175             R_0402-20K,1 %,62.5MW,195-0150-000-195-0150-000,20K 1        BUCK_3V3_PG             
+                                  2        GND                     
+R176             R_0402-100OHM,1 %,62.5MW,195-0002-000-100OHM,195-0002-000 1        VDD_AV10_HUB            
+                                  2        BUCK_1V1_FB_MID         
+R177             R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        BUCK_1V1_FB_MID         
+                                  2        BUCK_1V1_FB             
+R178             R_0402-121K,1 %,62.5MW,195-0046-000-121K,195-0046-000 1        BUCK_1V1_FB             
+                                  2        GND                     
+R179             R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        BD_DISABLE              
+                                  2        GND                     
+R180             R_0402-47K,5 %,62.5MW,195-0599-000-195-0599-000,47K 1        EN_PWR_PATH             
+                                  2        GND                     
+R181             R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        DCJ_IN                  
+                                  2        DCJ_SS                  
+R182             R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        DCJ_SS                  
+                                  2        GND                     
+R183             R_0402-10K,1 %,62.5MW,195-0004-000-10K,195-0004-000 1        3V3_AO                  
+                                  2        BMCU_P01                
+R184             R_0402-10K,1 %,62.5MW,195-0004-000-10K,195-0004-000 1        3V3_AO                  
+                                  2        BMCU_P02                
+R185             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        M2M_ALERT*              
+                                  2        SDIO_D1                 
+R186             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        M2_SDIO_D1              
+                                  2        SDIO_D1                 
+R187             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        M2_SDIO_D3              
+                                  2        SDIO_D3                 
+R188             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        M2_SDIO_D2              
+                                  2        SDIO_D2                 
+R189             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        M2_SDIO_D0              
+                                  2        SDIO_D0                 
+R190             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        M2_SDIO_CMD             
+                                  2        SDIO_CMD                
+R191             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        M2_SDIO_CLK             
+                                  2        SDIO_CLK                
+R192             R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        DP0_AUX_N               
+                                  2        GND                     
+R193             R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        DP0_AUX_P               
+                                  2        GND                     
+R194             R_0402-1M,5 %,62.5MW,195-0488-000-195-0488-000,1M 1        DP_MODE                 
+                                  2        GND                     
+R195             R_0402-10K,1 %,62.5MW,195-0004-000-10K,195-0004-000 1        FORCE_OFF*              
+                                  2        GND                     
+R196             R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        VDD_DCIN                
+                                  2        DCJ_UNPLUG              
+R197             R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        BUCK_5V_PG              
+                                  2        GND                     
+R198             R_0402-10K,1 %,62.5MW,195-0004-000-10K,195-0004-000 1        3V3_AO                  
+                                  2        FORCE_OFF*              
+R199             R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        VDD_3V3_SYS             
+                                  2        SPI_HUB_CS              
+R200             R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        VDD_3V3_SYS             
+                                  2        SPI_FL_WP               
+R201             R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        VDD_3V3_SYS             
+                                  2        SPI_FL_HLD              
+R202             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        HDMI_HPD_CON_R          
+                                  2        HDMI_HPD_CON            
+R203             R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        SYS_RST*                
+                                  2        GND                     
+R204             R_0402-100K,1 %,62.5MW,195-0005-000-100K,195-0005-000 1        VDD_5V_SYS              
+                                  2        DISCHG_3V3_SYS          
+R205             R_0402-5.6OHM,5 %,62.5MW,195-0609-000-195-0609-000,5.6OHM 1        VDD_3V3_SYS             
+                                  2        VDD_3V3_DISCHG          
+R206             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DSP1_SSRX_N             
+                                  2        USBSS_RX_A_CON1_N       
+R207             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DSP1_SSRX_P             
+                                  2        USBSS_RX_A_CON1_P       
+R208             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DSP2_SSRX_N             
+                                  2        USBSS_RX_A_CON2_N       
+R209             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DSP2_SSRX_P             
+                                  2        USBSS_RX_A_CON2_P       
+R210             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        USBSS_TX_A_1_N          
+                                  2        USBSS_TX_A_CON1_N       
+R211             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        USBSS_TX_A_1_P          
+                                  2        USBSS_TX_A_CON1_P       
+R212             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        USBSS_TX_A_2_N          
+                                  2        USBSS_TX_A_CON2_N       
+R213             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        USBSS_TX_A_2_P          
+                                  2        USBSS_TX_A_CON2_P       
+R214             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DSP4_SSRX_N             
+                                  2        USBSS_RX_B_CON2_N       
+R215             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DSP4_SSRX_P             
+                                  2        USBSS_RX_B_CON2_P       
+R216             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DSP3_SSRX_N             
+                                  2        USBSS_RX_B_CON1_N       
+R217             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        DSP3_SSRX_P             
+                                  2        USBSS_RX_B_CON1_P       
+R218             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        USBSS_TX_B_1_N          
+                                  2        USBSS_TX_B_CON1_N       
+R219             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        USBSS_TX_B_1_P          
+                                  2        USBSS_TX_B_CON1_P       
+R220             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        USBSS_TX_B_2_N          
+                                  2        USBSS_TX_B_CON2_N       
+R221             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        USBSS_TX_B_2_P          
+                                  2        USBSS_TX_B_CON2_P       
+R222             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        BBAT                    
+                                  2        BBAT_CONN               
+R223             R_0402-10K,5 %,62.5MW,195-0486-000-10K,195-0486-000 1        AUTO_ON_DIS             
+                                  2        GND                     
+R224             R_0402-10K,1 %,62.5MW,195-0004-000-10K,195-0004-000 1        3V3_AO                  
+                                  2        BMCU_PGOOD              
+R225             R_0402-0OHM,0.05 OHM,62.5MW,195-2655-000-0OHM,195-2655-000 1        BMCU_PGOOD              
+                                  2        BUCK_3V3_PG             
+R226             R_0402-91K,5 %,62.5MW,195-0648-000-195-0648-000,91K 1        DCJ_UNPLUG              
+                                  2        DCJ_UNPLUG_R            
+R227             R_0402-10K,1 %,62.5MW,195-0004-000-10K,195-0004-000 1        GND                     
+                                  2        BMCU_P03                
+R228             R_0402-10K,1 %,62.5MW,195-0004-000-10K,195-0004-000 1        GND                     
+                                  2        BMCU_P05                
+TP9              LABTESTPOINT_PIN-LABTESTPOINT 1        BMCU_C2D                
+TP10             LABTESTPOINT_PIN-LABTESTPOINT 1        BMCU_C2CK               
+TP11             LABTESTPOINT_PIN-LABTESTPOINT 1        GND                     
+TP12             LABTESTPOINT_PIN-LABTESTPOINT 1        BMCU_UART_TX            
+TP15             LABTESTPOINT_PIN-LTPB071C125 1        CSI4_D2_P               
+TP16             LABTESTPOINT_PIN-LTPB071C125 1        CSI4_D2_N               
+TP17             LABTESTPOINT_PIN-LTPB071C125 1        CSI4_D0_P               
+TP18             LABTESTPOINT_PIN-LTPB071C125 1        CSI4_D0_N               
+TP19             LABTESTPOINT_PIN-LTPB071C125 1        CSI4_CLK_P              
+TP20             LABTESTPOINT_PIN-LTPB071C125 1        CSI4_CLK_N              
+TP21             LABTESTPOINT_PIN-LTPB071C125 1        CSI4_D1_P               
+TP22             LABTESTPOINT_PIN-LTPB071C125 1        CSI4_D1_N               
+TP23             LABTESTPOINT_PIN-LTPB071C125 1        CSI4_D3_P               
+TP24             LABTESTPOINT_PIN-LTPB071C125 1        CSI4_D3_N               
+TP25             LABTESTPOINT_PIN-LTPB071C125 1        CSI5_D0_P               
+TP26             LABTESTPOINT_PIN-LTPB071C125 1        CSI5_D0_N               
+TP27             LABTESTPOINT_PIN-LTPB071C125 1        CSI5_D1_P               
+TP28             LABTESTPOINT_PIN-LTPB071C125 1        CSI5_D1_N               
+TP29             LABTESTPOINT_PIN-LTPB071C125 1        CSI5_CLK_P              
+TP30             LABTESTPOINT_PIN-LTPB071C125 1        CSI5_CLK_N              
+TP31             LABTESTPOINT_PIN-LTPB071C125 1        CSI1_D0_P               
+TP32             LABTESTPOINT_PIN-LTPB071C125 1        CSI1_D0_N               
+TP33             LABTESTPOINT_PIN-LTPB071C125 1        CSI1_D1_P               
+TP34             LABTESTPOINT_PIN-LTPB071C125 1        CSI1_D1_N               
+TP35             LABTESTPOINT_PIN-LTPB071C125 1        CSI1_CLK_P              
+TP36             LABTESTPOINT_PIN-LTPB071C125 1        CSI1_CLK_N              
+TP37             LABTESTPOINT_PIN-LTPB071C125 1        CSI3_D0_P               
+TP38             LABTESTPOINT_PIN-LTPB071C125 1        CSI3_D0_N               
+TP39             LABTESTPOINT_PIN-LTPB071C125 1        CSI3_D1_P               
+TP40             LABTESTPOINT_PIN-LTPB071C125 1        CSI3_D1_N               
+TP41             LABTESTPOINT_PIN-LTPB071C125 1        CSI3_CLK_P              
+TP42             LABTESTPOINT_PIN-LTPB071C125 1        CSI3_CLK_N              
+U1               U_BUF_OD_SC70_5-74LVC1G07GW/SN74LVC1G07DCKRE4,BUFFER - OPEN DRAIN,115-0138-000-115-0138-000 2        SUSCLK_32KHZ            
+                                  3        GND                     
+                                  4        M2E_SUSCLK_32KHZ        
+                                  5        VDD_1V8                 
+U3               U_SWREG_TPS53015_XSOP10-TPS53015,BUCK,1PH,500KHZ,NONE,0.77V..7V,1%,0.773V,28V,10A,50W,316-0314-000-0.773V,316-0314-000 1        BUCK_5V_FB              
+                                  2        BUCK_5V_PG              
+                                  3        BUCK_5V_VREG5           
+                                  4        BUCK_5V_EN              
+                                  5        VDD_DCIN                
+                                  6        GND                     
+                                  7        BUCK_5V_DRVL            
+                                  8        BUCK_5V_SW              
+                                  9        BUCK_5V_DRVH            
+                                  10       BUCK_5V_BST             
+U4               U_SWREG_TPS53015_XSOP10-TPS53015,BUCK,1PH,500KHZ,NONE,0.77V..7V,1%,0.773V,28V,10A,50W,316-0314-000-0.773V,316-0314-000 1        BUCK_3V3_FB             
+                                  2        BUCK_3V3_PG             
+                                  3        BUCK_3V3_VREG5          
+                                  4        BUCK_3V3_EN             
+                                  5        VDD_DCIN                
+                                  6        GND                     
+                                  7        BUCK_3V3_DRVL           
+                                  8        BUCK_3V3_SW             
+                                  9        BUCK_3V3_DRVH           
+                                  10       BUCK_3V3_BST            
+U5               U_VREG_5PIN_SOT235-TLV70018,LOW DROP OUT/FIXED,0.25V@0.2A,1.8V..1.8V,2%,[ ],5.5V,0.2A,0.5W,315-0620-000-315-0620-000,[ ] 1        VDD_3V3_SYS             
+                                  2        GND                     
+                                  3        BUCK_3V3_PG             
+                                  4        GND                     
+                                  5        VDD_1V8                 
+U6               U_LDO_SOT23_5_NOVR-GS7116S5-ADJ-R,STANDARD,0.45V@0.5A,0.8V..5V,2%,0.8V,6.5V,0.5A,0.4W,315-1022-000-0.8V,315-1022-000 1        VDD_5V_SYS              
+                                  2        GND                     
+                                  3        BUCK_5V_PG              
+                                  4        3V3_AO_ADJ              
+                                  5        3V3_AO                  
+U7               U_USB_HUB_RTS5489_QFN88-RTS5489-GR,USB,115-2752-000-115-2752-000 1        AV10_1                  
+                                  2        DSP2_SSRX_N             
+                                  3        DSP2_SSRX_P             
+                                  4        GND                     
+                                  5        DSP2_SSTX_P             
+                                  6        DSP2_SSTX_N             
+                                  7        AV10_2                  
+                                  8        DSP1_SSRX_N             
+                                  9        DSP1_SSRX_P             
+                                  10       SNN_HUB_NC01            
+                                  11       SNN_HUB_NC02            
+                                  12       DSP1_SSTX_P             
+                                  13       DSP1_SSTX_N             
+                                  14       SNN_HUB_NC03            
+                                  15       SNN_HUB_NC04            
+                                  16       AV10_3                  
+                                  17       SNN_HUB_I2C_CLK         
+                                  18       HUB_DSP34_PWR_EN        
+                                  19       HUB_DSP12_PWR_EN        
+                                  20       HUB_DSP34_OCP           
+                                  21       HUB_DSP12_OCP           
+                                  22       VDD_3V3_SYS             
+                                  23       AV10_4                  
+                                  24       DSP4_SSRX_N             
+                                  25       DSP4_SSRX_P             
+                                  26       GND                     
+                                  27       DSP4_SSTX_P             
+                                  28       DSP4_SSTX_N             
+                                  29       AV10_5                  
+                                  30       DSP3_SSRX_N             
+                                  31       DSP3_SSRX_P             
+                                  32       GND                     
+                                  33       DSP3_SSTX_P             
+                                  34       DSP3_SSTX_N             
+                                  35       AV10_6                  
+                                  36       HUB_PWR_DET             
+                                  37       SNN_HUB_ADC_IN0         
+                                  38       SNN_HUB_ADC_IN1         
+                                  39       HUB_PWR_DET             
+                                  40       HUB_ADC_CAP             
+                                  41       5V_LDO                  
+                                  42       AV33_2                  
+                                  43       HUB_XTAL_IN             
+                                  44       HUB_XTAL_OUT            
+                                  45       RREF                    
+                                  46       AV10_7                  
+                                  47       USB1_AP_P               
+                                  48       USB1_AP_N               
+                                  49       DSP1_DP                 
+                                  50       DSP1_DN                 
+                                  51       DSP2_DP                 
+                                  52       DSP2_DN                 
+                                  53       DSP3_DP                 
+                                  54       DSP3_DN                 
+                                  55       DSP4_DP                 
+                                  56       DSP4_DN                 
+                                  57       AV10_8                  
+                                  58       SPI_HUB_MISO            
+                                  59       SPI_HUB_MOSI            
+                                  60       SPI_HUB_SCK             
+                                  61       SPI_HUB_CS              
+                                  62       HUB_DSP12_OCP           
+                                  63       HUB_DSP34_OCP           
+                                  64       HUB_DSP12_PWR_EN        
+                                  65       HUB_DSP34_PWR_EN        
+                                  66       SNN_HUB_I2C_DAT         
+                                  67       SNN_HUB_I2C_INT#        
+                                  68       SNN_HUB_SM_INT#         
+                                  69       CAM_I2C_SCL             
+                                  70       CAM_I2C_SDA             
+                                  71       SNN_HUB_GPIO14          
+                                  72       AV10_9                  
+                                  73       USBSS_RX_HUB_N          
+                                  74       USBSS_RX_HUB_P          
+                                  75       SNN_HUB_NC05            
+                                  76       SNN_HUB_NC06            
+                                  77       USBSS_TX_HUB_P          
+                                  78       USBSS_TX_HUB_N          
+                                  79       SNN_HUB_NC07            
+                                  80       SNN_HUB_NC08            
+                                  81       AV10_10                 
+                                  82       SNN_HUB_NC09            
+                                  83       SNN_5V_IN1              
+                                  84       SNN_HUB_NC10            
+                                  85       AV33_3                  
+                                  86       SNN_HUB_NC11            
+                                  87       SNN_5V_IN2              
+                                  88       SNN_HUB_NC12            
+                                  89       GND                     
+U8               U_SW_LOAD_SOT363-GS7616SC-R,-9999V..9999V,-9999V..9999V,9999A,SWITCH,115-1566-000-115-1566-000 1        VDD_3V3_HDMI            
+                                  2        VDD_3V3_HDMI            
+                                  3        MOD_SLEEP*              
+                                  4        GND                     
+                                  5        VDD_3V3_SYS             
+                                  6        VDD_3V3_SYS             
+U9               U_PWR_SW_UL_SOT23_5_EFU-APL3552ABI-TRG,2.7V..5.5V,2.7V..5.5V,2A,SWITCH,315-1062-000-315-1062-000 1        VDD_5V0_HDMI_CON        
+                                  2        GND                     
+                                  3        HDMI_ILIM               
+                                  4        VDD_3V3_HDMI            
+                                  5        VDD_5V_SYS              
+U10              U_PWR_SW_UL_SOT23_5_EFU-APL3552ABI-TRG,2.7V..5.5V,2.7V..5.5V,2A,SWITCH,315-1062-000-315-1062-000 1        VDD_3V3_DP              
+                                  2        GND                     
+                                  3        DP_ILIM                 
+                                  4        DP_SW_EN                
+                                  5        VDD_3V3_SYS             
+U11              U_SW_ANA_USB_UQFN10-TS3USB30E,SWITCH - ANALOG,115-0655-000-115-0655-000 1        CAM0_I2C_SCL            
+                                  2        CAM1_I2C_SCL            
+                                  3        CAM_I2C_SCL             
+                                  4        GND                     
+                                  5        CAM_I2C_SDA             
+                                  6        CAM1_I2C_SDA            
+                                  7        CAM0_I2C_SDA            
+                                  8        CAM_MUX_OE*             
+                                  9        VDD_3V3_SYS             
+                                  10       CAM_MUX_SEL             
+U12              U_LEVSHFT_TXB0108_QFN20-TXB0108RGYR,LEVEL SHIFTER,115-1921-000-115-1921-000 1        SPI0_SCK                
+                                  2        VDD_1V8                 
+                                  3        SPI0_MISO               
+                                  4        SPI0_MOSI               
+                                  5        SPI0_CS0                
+                                  6        SPI0_CS1                
+                                  7        GPIO07                  
+                                  8        GPIO12                  
+                                  9        UART1_RTS               
+                                  10       LS_ENABLE               
+                                  11       GND                     
+                                  12       UART1_RTS_LS            
+                                  13       GPIO12_LS               
+                                  14       GPIO07_LS               
+                                  15       SPI0_CS1_LS             
+                                  16       SPI0_CS0_LS             
+                                  17       SPI0_MOSI_LS            
+                                  18       SPI0_MISO_LS            
+                                  19       VDD_3V3_SYS             
+                                  20       SPI0_SCK_LS             
+                                  21       GND                     
+U13              U_LEVSHFT_TXB0108_QFN20-TXB0108RGYR,LEVEL SHIFTER,115-1921-000-115-1921-000 1        I2S0_SCLK               
+                                  2        VDD_1V8                 
+                                  3        I2S0_SDOUT              
+                                  4        I2S0_SDIN               
+                                  5        I2S0_LRCK               
+                                  6        GPIO09                  
+                                  7        GPIO13                  
+                                  8        GPIO11                  
+                                  9        GPIO01                  
+                                  10       LS_ENABLE               
+                                  11       GND                     
+                                  12       GPIO01_LS               
+                                  13       GPIO11_LS               
+                                  14       GPIO13_LS               
+                                  15       GPIO09_LS               
+                                  16       I2S0_LRCK_LS            
+                                  17       I2S0_SDIN_LS            
+                                  18       I2S0_SDOUT_LS           
+                                  19       VDD_3V3_SYS             
+                                  20       I2S0_SCLK_LS            
+                                  21       GND                     
+U14              U_LEVSHFT_TXB0108_QFN20-TXB0108RGYR,LEVEL SHIFTER,115-1921-000-115-1921-000 1        SPI1_SCK                
+                                  2        VDD_1V8                 
+                                  3        SPI1_MISO               
+                                  4        SPI1_MOSI               
+                                  5        SPI1_CS0                
+                                  6        SPI1_CS1                
+                                  7        UART1_TXD               
+                                  8        UART1_RXD               
+                                  9        UART1_CTS               
+                                  10       LS_ENABLE               
+                                  11       GND                     
+                                  12       UART1_CTS_LS            
+                                  13       UART1_RXD_LS            
+                                  14       UART1_TXD_LS            
+                                  15       SPI1_CS1_LS             
+                                  16       SPI1_CS0_LS             
+                                  17       SPI1_MOSI_LS            
+                                  18       SPI1_MISO_LS            
+                                  19       VDD_3V3_SYS             
+                                  20       SPI1_SCK_LS             
+                                  21       GND                     
+U15              U_LEVSHFT_3STATE_SC70_6-SN74LVC1T45DCKR,LEVEL SHIFTER,115-2544-000-115-2544-000 1        VDD_5V_SYS              
+                                  2        GND                     
+                                  3        FAN_PWM_Q*              
+                                  4        FAN_PWM                 
+                                  5        GND                     
+                                  6        VDD_1V8                 
+U16              U_LEVSHFT_TXB0302_DFN8-TXB0302DQMR,LEVEL SHIFTER,115-2177-000-115-2177-000 1        VDD_1V8                 
+                                  2        UART2_RXD               
+                                  3        UART2_TXD               
+                                  4        GND                     
+                                  5        UART2_LS_OE             
+                                  6        UART2_TXD_LS            
+                                  7        UART2_RXD_LS            
+                                  8        VDD_3V3_SYS             
+U17              U_MEM_EE_I2C_DFN08-1MHZ,1.7V..3.6V,AT24C02D-MAHM-T,174-0159-000-174-0159-000 1        BOARD_ID_A0             
+                                  2        BRD_ID_A1               
+                                  3        BRD_ID_A2               
+                                  4        GND                     
+                                  5        I2C2_SDA                
+                                  6        I2C2_SCL                
+                                  7        BOARD_ID_WP             
+                                  8        VDD_1V8                 
+                                  9        GND                     
+U18              U_CPU_EFM8SB1_QFN20-EFM8SB10F2G,OTHER,115-2594-000-115-2594-000 1        BMCU_P01                
+                                  2        BMCU_PWR_BTN*           
+                                  3        GND                     
+                                  4        3V3_AO                  
+                                  5        BMCU_C2CK               
+                                  6        BMCU_C2D                
+                                  7        SNN_BMCU_P17            
+                                  8        SNN_PWR_BTN_BUF*        
+                                  9        BMCU_POWER_EN           
+                                  10       SNN_BMCU_P13            
+                                  11       BMCU_BRD_SEL            
+                                  12       GND                     
+                                  13       BUCK_3V3_EN             
+                                  14       FORCE_OFF*              
+                                  15       BMCU_PGOOD              
+                                  16       BMCU_ACOK               
+                                  17       BMCU_P05                
+                                  18       BMCU_UART_TX            
+                                  19       BMCU_P03                
+                                  20       BMCU_P02                
+                                  21       GND                     
+U19              U_BUF_OD_SC70_5-74LVC1G07GW/SN74LVC1G07DCKRE4,BUFFER - OPEN DRAIN,115-0138-000-115-0138-000 2        BUCK_5V_PG              
+                                  3        GND                     
+                                  4        5V_PG_BUF_R             
+                                  5        3V3_AO                  
+U21              U_SW_LOAD_SOT23_5B-AP22811AW5-7,0MV..5.5V,2.7V..5.5V,9999A,SWITCH,115-2766-000-115-2766-000 1        VDD_VBUS_A              
+                                  2        GND                     
+                                  3        HUB_DSP12_OCP           
+                                  4        HUB_DSP12_PWR_EN        
+                                  5        VDD_5V_SYS              
+U22              U_LEVSHFT_3STATE_SC70_5-SN74LV1T125,LEVEL SHIFTER,115-2747-000-115-2747-000 1        GND                     
+                                  2        BMCU_POWER_EN           
+                                  3        GND                     
+                                  4        POWER_EN                
+                                  5        VDD_5V_SYS              
+U23              U_LEVSHFT_3STATE_SC70_5-SN74LV1T125,LEVEL SHIFTER,115-2747-000-115-2747-000 1        GND                     
+                                  2        SYS_RST*                
+                                  3        GND                     
+                                  4        BUCK_3V3_EN             
+                                  5        3V3_AO                  
+U24              U_RST_MON_TSOP_5-NCP301LSN20T1,VOLTAGE SUPERVISOR,115-2146-000-115-2146-000 1        SHUTDOWN_REQ*           
+                                  2        DCIN_SENSE              
+                                  3        GND                     
+                                  4        GND                     
+                                  5        GND                     
+U25              U_SW_LOAD_SOT23_5B-AP22811AW5-7,0MV..5.5V,2.7V..5.5V,9999A,SWITCH,115-2766-000-115-2766-000 1        VDD_VBUS_B              
+                                  2        GND                     
+                                  3        HUB_DSP34_OCP           
+                                  4        HUB_DSP34_PWR_EN        
+                                  5        VDD_5V_SYS              
+U26              U_DCDC_BUCK_MP2152_QFN6-MP2152,BUCK,1PH,1.1MHZ,NONE,0.6V..5.5V,1.5%,0.6V,5.5V,2A,2W,316-0758-000-0.6V,316-0758-000 1        GND                     
+                                  2        BUCK_1V1_SW             
+                                  3        VDD_5V_SYS              
+                                  4        BUCK_3V3_PG             
+                                  5        BUCK_1V1_FB             
+                                  6        VDD_AV10_HUB            
+U27              U_LEVSHFT_3STATE_SC70_5-SN74LV1T125,LEVEL SHIFTER,115-2747-000-115-2747-000 1        GND                     
+                                  2        DP_MODE                 
+                                  3        GND                     
+                                  4        DP_MODE_LS              
+                                  5        VDD_5V_SYS              
+U28              U_MEM_FL_SER_512KX8_SO_8-104MHZ,2.3V..3.6V,W25X40CLSNIG,170-0285-000-170-0285-000 1        SPI_HUB_CS              
+                                  2        SPI_HUB_MISO            
+                                  3        SPI_FL_WP               
+                                  4        GND                     
+                                  5        SPI_HUB_MOSI            
+                                  6        SPI_HUB_SCK             
+                                  7        SPI_FL_HLD              
+                                  8        VDD_3V3_SYS             
+VS1              VIRTUAL_SHORT_SHUNT-VIRTUAL_SHORT 1        VDD_AV10_HUB            
+                                  2        AV10_1                  
+VS2              VIRTUAL_SHORT_SHUNT-VIRTUAL_SHORT 1        VDD_AV10_HUB            
+                                  2        AV10_2                  
+VS3              VIRTUAL_SHORT_SHUNT-VIRTUAL_SHORT 1        VDD_AV10_HUB            
+                                  2        AV10_3                  
+VS4              VIRTUAL_SHORT_SHUNT-VIRTUAL_SHORT 1        VDD_AV10_HUB            
+                                  2        AV10_4                  
+VS5              VIRTUAL_SHORT_SHUNT-VIRTUAL_SHORT 1        VDD_AV10_HUB            
+                                  2        AV10_5                  
+VS6              VIRTUAL_SHORT_SHUNT-VIRTUAL_SHORT 1        VDD_AV10_HUB            
+                                  2        AV10_6                  
+VS7              VIRTUAL_SHORT_SHUNT-VIRTUAL_SHORT 1        VDD_AV10_HUB            
+                                  2        AV10_7                  
+VS8              VIRTUAL_SHORT_SHUNT-VIRTUAL_SHORT 1        VDD_AV10_HUB            
+                                  2        AV10_8                  
+VS9              VIRTUAL_SHORT_SHUNT-VIRTUAL_SHORT 1        VDD_3V3_SYS             
+                                  2        AV33_2                  
+VS10             VIRTUAL_SHORT_SHUNT-VIRTUAL_SHORT 1        VDD_3V3_SYS             
+                                  2        AV33_3                  
+VS12             VIRTUAL_SHORT_SHUNT-VIRTUAL_SHORT 1        VDD_3V3_SYS             
+                                  2        5V_LDO                  
+VS13             VIRTUAL_SHORT_SHUNT-VIRTUAL_SHORT 1        VDD_3V3_SYS             
+                                  2        5V_LDO                  
+VS16             VIRTUAL_SHORT_SHUNT-VIRTUAL_SHORT 1        VDD_5V_SYS              
+                                  2        PC_LED+                 
+VS17             VIRTUAL_SHORT_SHUNT-VIRTUAL_SHORT 1        VDD_AV10_HUB            
+                                  2        AV10_9                  
+VS18             VIRTUAL_SHORT_SHUNT-VIRTUAL_SHORT 1        VDD_AV10_HUB            
+                                  2        AV10_10                 
+VS19             VIRTUAL_SHORT_SHUNT-VIRTUAL_SHORT 1        VDD_5V_SYS              
+                                  2        FAN_VDD                 
+Y1               XTAL_4PIN_SMD_32X25-7M12070053,12MHZ,15PPM,2PPM,35PPM,10PF,FUNDAMENTAL,085-0347-000-085-0347-000,12MHZ 1        HUB_XTAL_IN             
+                                  2        GND                     
+                                  3        HUB_XTAL_OUT            
+                                  4        GND                     
+Y2               OSC_4PIN_SMD_32X25-7XZ3270027,32.768KHZ,25PPM,5PPM,25PPM,15PF,086-0282-000-086-0282-000,32.768KHZ 1        VDD_3V3_SYS             
+                                  2        GND                     
+                                  3        M2M_SUSCLK_32KHZ        
+                                  4        VDD_3V3_SYS             
+END BODY ORDERED NET LIST

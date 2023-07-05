@@ -1,0 +1,363 @@
+#ISCELL
+  nv_standard nv_11x17xxl_v3 *
+  *
+#CELL
+  clocks xtal_4pin *
+  page12_i10
+#CELL
+  discrete c *
+  page12_i100
+#CELL
+  discrete c *
+  page12_i102
+#CELL
+  discrete c *
+  page12_i105
+#CELL
+  discrete c *
+  page12_i11
+#CELL
+  digital u_usb_hub_rts5489 *
+  page12_i112
+#ISCELL
+  nv_standard offpage *
+  page12_i113
+#ISCELL
+  nv_standard offpage *
+  page12_i114
+#ISCELL
+  nv_standard offpage *
+  page12_i115
+#ISCELL
+  nv_standard offpage *
+  page12_i116
+#ISCELL
+  nv_standard offpage *
+  page12_i117
+#ISCELL
+  nv_standard offpage *
+  page12_i118
+#ISCELL
+  nv_standard offpage *
+  page12_i119
+#ISCELL
+  nv_standard gnd *
+  page12_i12
+#ISCELL
+  nv_standard offpage *
+  page12_i120
+#ISCELL
+  nv_standard offpage *
+  page12_i121
+#ISCELL
+  nv_standard offpage *
+  page12_i122
+#ISCELL
+  nv_standard offpage *
+  page12_i123
+#ISCELL
+  nv_standard offpage *
+  page12_i124
+#ISCELL
+  nv_standard offpage *
+  page12_i125
+#ISCELL
+  nv_standard offpage *
+  page12_i126
+#ISCELL
+  nv_standard offpage *
+  page12_i127
+#ISCELL
+  nv_standard offpage *
+  page12_i128
+#ISCELL
+  nv_standard offpage *
+  page12_i129
+#ISCELL
+  nv_standard offpage *
+  page12_i130
+#ISCELL
+  nv_standard offpage *
+  page12_i131
+#ISCELL
+  nv_standard offpage *
+  page12_i132
+#ISCELL
+  nv_standard offpage *
+  page12_i133
+#ISCELL
+  nv_standard offpage *
+  page12_i134
+#ISCELL
+  nv_standard offpage *
+  page12_i135
+#ISCELL
+  nv_standard offpage *
+  page12_i136
+#CELL
+  discrete c *
+  page12_i137
+#CELL
+  discrete c *
+  page12_i138
+#CELL
+  discrete r *
+  page12_i139
+#ISCELL
+  nv_standard gnd *
+  page12_i140
+#ISCELL
+  nv_standard offpage *
+  page12_i142
+#ISCELL
+  nv_standard offpage *
+  page12_i143
+#CELL
+  digital u_usb_hub_rts5489 *
+  page12_i145
+#ISCELL
+  nv_standard gnd *
+  page12_i146
+#CELL
+  mechanic virtual_short *
+  page12_i147
+#CELL
+  mechanic virtual_short *
+  page12_i148
+#CELL
+  discrete c *
+  page12_i149
+#CELL
+  discrete c *
+  page12_i15
+#CELL
+  discrete c *
+  page12_i150
+#ISCELL
+  nv_standard gnd *
+  page12_i157
+#ISCELL
+  nv_standard gnd *
+  page12_i160
+#ISCELL
+  nv_standard var_pow *
+  page12_i161
+#ISCELL
+  nv_standard var_pow *
+  page12_i162
+#ISCELL
+  nv_standard var_pow *
+  page12_i163
+#ISCELL
+  nv_standard var_pow *
+  page12_i164
+#ISCELL
+  nv_standard var_pow *
+  page12_i165
+#CELL
+  discrete r *
+  page12_i166
+#ISCELL
+  nv_standard var_pow *
+  page12_i167
+#ISCELL
+  nv_standard offpage *
+  page12_i168
+#ISCELL
+  nv_standard offpage *
+  page12_i169
+#ISCELL
+  nv_standard offpage *
+  page12_i170
+#ISCELL
+  nv_standard offpage *
+  page12_i171
+#ISCELL
+  nv_standard offpage *
+  page12_i172
+#ISCELL
+  nv_standard offpage *
+  page12_i173
+#ISCELL
+  nv_standard offpage *
+  page12_i174
+#ISCELL
+  nv_standard offpage *
+  page12_i175
+#CELL
+  power_supply u_dcdc_buck_mp2152 *
+  page12_i176
+#ISCELL
+  nv_standard var_pow *
+  page12_i177
+#CELL
+  discrete c *
+  page12_i178
+#CELL
+  discrete c *
+  page12_i179
+#CELL
+  discrete r *
+  page12_i180
+#CELL
+  discrete l *
+  page12_i181
+#CELL
+  discrete c *
+  page12_i182
+#ISCELL
+  nv_standard gnd *
+  page12_i183
+#CELL
+  discrete r *
+  page12_i184
+#ISCELL
+  nv_standard gnd *
+  page12_i185
+#CELL
+  discrete r *
+  page12_i186
+#CELL
+  discrete r *
+  page12_i187
+#ISCELL
+  nv_standard gnd *
+  page12_i188
+#CELL
+  discrete c *
+  page12_i189
+#ISCELL
+  nv_standard gnd *
+  page12_i190
+#ISCELL
+  nv_standard gnd *
+  page12_i191
+#CELL
+  discrete c *
+  page12_i193
+#ISCELL
+  nv_standard var_pow *
+  page12_i194
+#ISCELL
+  nv_standard offpage *
+  page12_i195
+#ISCELL
+  nv_standard offpage *
+  page12_i196
+#ISCELL
+  nv_standard offpage *
+  page12_i197
+#CELL
+  memory u_mem_fl_ser_512kx8 *
+  page12_i198
+#CELL
+  discrete c *
+  page12_i199
+#ISCELL
+  nv_standard gnd *
+  page12_i200
+#CELL
+  discrete r *
+  page12_i202
+#ISCELL
+  nv_standard gnd *
+  page12_i203
+#CELL
+  discrete r *
+  page12_i204
+#CELL
+  discrete r *
+  page12_i205
+#ISCELL
+  nv_standard var_pow *
+  page12_i206
+#CELL
+  discrete r *
+  page12_i46
+#CELL
+  discrete r *
+  page12_i49
+#CELL
+  discrete c *
+  page12_i63
+#CELL
+  discrete c *
+  page12_i64
+#CELL
+  discrete c *
+  page12_i65
+#CELL
+  discrete c *
+  page12_i66
+#CELL
+  discrete c *
+  page12_i67
+#ISCELL
+  nv_standard gnd *
+  page12_i68
+#ISCELL
+  nv_standard gnd *
+  page12_i69
+#CELL
+  discrete c *
+  page12_i70
+#CELL
+  discrete c *
+  page12_i71
+#CELL
+  discrete c *
+  page12_i72
+#CELL
+  discrete c *
+  page12_i73
+#CELL
+  discrete c *
+  page12_i74
+#CELL
+  discrete c *
+  page12_i76
+#CELL
+  discrete c *
+  page12_i77
+#CELL
+  mechanic virtual_short *
+  page12_i80
+#CELL
+  mechanic virtual_short *
+  page12_i81
+#CELL
+  mechanic virtual_short *
+  page12_i82
+#CELL
+  mechanic virtual_short *
+  page12_i83
+#CELL
+  mechanic virtual_short *
+  page12_i84
+#ISCELL
+  nv_standard var_pow *
+  page12_i85
+#CELL
+  mechanic virtual_short *
+  page12_i86
+#CELL
+  mechanic virtual_short *
+  page12_i87
+#CELL
+  mechanic virtual_short *
+  page12_i88
+#CELL
+  mechanic virtual_short *
+  page12_i89
+#CELL
+  mechanic virtual_short *
+  page12_i90
+#CELL
+  mechanic virtual_short *
+  page12_i93
+#CELL
+  mechanic virtual_short *
+  page12_i94
+#ISCELL
+  nv_standard gnd *
+  page12_i99

@@ -1,0 +1,74 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME='Created/Modified on Wed Apr 13 15:58:20 2011';
+
+primitive 'D_ZENER_SOD123','D_ZENER_SOD323','D_ZENER_SOD923','D_ZENER_SOD523';
+  pin
+    'A':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'K':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='D_ZENER';
+    BODY_NAME='D_ZENER';
+    PHYS_DES_PREFIX='D';
+  end_body;
+end_primitive;
+
+primitive 'D_ZENER_SOD323_AK';
+  pin
+    'A':
+      PIN_NUMBER='(A)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'K':
+      PIN_NUMBER='(K)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='D_ZENER';
+    BODY_NAME='D_ZENER';
+    PHYS_DES_PREFIX='D';
+  end_body;
+end_primitive;
+
+primitive 'D_ZENER_SOT23';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'K':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    NC_PINS='(2)';
+    CLASS='DISCRETE';
+    PART_NAME='D_ZENER';
+    BODY_NAME='D_ZENER';
+    PHYS_DES_PREFIX='D';
+  end_body;
+end_primitive;
+
+END.

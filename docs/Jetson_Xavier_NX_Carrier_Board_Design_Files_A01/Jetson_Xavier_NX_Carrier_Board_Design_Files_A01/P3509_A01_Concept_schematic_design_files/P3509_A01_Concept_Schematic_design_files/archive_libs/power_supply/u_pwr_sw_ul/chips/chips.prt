@@ -1,0 +1,29 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'U_PWR_SW_UL_SOT23_5_DP','U_PWR_SW_UL_SOT23_5_EFU';
+  pin
+    'IN':
+      PIN_NUMBER='(5)';
+      PINUSE='POWER';
+    'OUT':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    'GND':
+      PIN_NUMBER='(2)';
+      PINUSE='GROUND';
+    'EN':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+    '-OC':
+      PIN_NUMBER='(3)';
+      OUTPUT_TYPE='(OC,AND)';
+      OUTPUT_LOAD='(1.0,*)';
+  end_pin;
+  body
+    PART_NAME='U_PWR_SW_UL';
+    BODY_NAME='U_PWR_SW_UL';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

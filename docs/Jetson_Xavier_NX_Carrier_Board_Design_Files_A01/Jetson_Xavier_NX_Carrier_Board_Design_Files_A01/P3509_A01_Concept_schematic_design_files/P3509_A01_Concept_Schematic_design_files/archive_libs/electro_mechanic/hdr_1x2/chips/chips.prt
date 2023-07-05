@@ -1,0 +1,63 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME='Created/Modified on Wed Jun 06 15:27:07 2007';
+
+primitive 'HDR_1X2_NORM','HDR_1X2_RA_1X2','HDR_1X2_SPDIF','HDR_1X2_SMD';
+ pin
+  '1':
+    PIN_NUMBER='(1)';
+    PIN_TYPE='ANALOG';
+    NO_LOAD_CHECK='BOTH';
+    NO_IO_CHECK='BOTH';
+    ALLOW_CONNECT='TRUE';
+  '2':
+    PIN_NUMBER='(2)';
+    PIN_TYPE='ANALOG';
+    NO_LOAD_CHECK='BOTH';
+    NO_IO_CHECK='BOTH';
+    ALLOW_CONNECT='TRUE';
+ end_pin;
+ body
+  CLASS=IO;
+  PART_NAME='HDR_1X2';
+  BODY_NAME='HDR_1X2';
+  PHYS_DES_PREFIX='J';
+  PINCOUNT='2';
+ end_body;
+end_primitive;
+
+primitive 'HDR_1X2_MOUNT2','HDR_1X2_SMD02';
+ pin
+  '1':
+    PIN_NUMBER='(1)';
+    PIN_TYPE='ANALOG';
+    NO_LOAD_CHECK='BOTH';
+    NO_IO_CHECK='BOTH';
+    ALLOW_CONNECT='TRUE';
+  '2':
+    PIN_NUMBER='(2)';
+    PIN_TYPE='ANALOG';
+    NO_LOAD_CHECK='BOTH';
+    NO_IO_CHECK='BOTH';
+    ALLOW_CONNECT='TRUE';
+  'MNT1':
+    PIN_NUMBER='(3)';
+    PIN_TYPE='ANALOG';
+    NO_LOAD_CHECK='BOTH';
+    NO_IO_CHECK='BOTH';
+    ALLOW_CONNECT='TRUE';
+  'MNT2':
+    PIN_NUMBER='(4)';
+    PIN_TYPE='ANALOG';
+    NO_LOAD_CHECK='BOTH';
+    NO_IO_CHECK='BOTH';
+    ALLOW_CONNECT='TRUE';
+ end_pin;
+ body
+  CLASS=IO;
+  PART_NAME='HDR_1X2';
+  BODY_NAME='HDR_1X2';
+  PHYS_DES_PREFIX='J';
+ end_body;
+end_primitive;
+
+END.

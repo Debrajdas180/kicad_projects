@@ -1,0 +1,43 @@
+Starting to read C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/packaged/pstchip.dat 
+   Finished reading C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/packaged/pstchip.dat (00:00:01.12)
+Starting to read C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/packaged/pstxprt.dat 
+   Finished reading C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/packaged/pstxprt.dat (00:00:00.08)
+Starting to read C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/packaged/pstxnet.dat 
+   Finished reading C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/packaged/pstxnet.dat (00:00:00.02)
+Starting to generate C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/packaged/dialcnet.dat 
+   Finished generating C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/packaged/dialcnet.dat (00:00:00.01)
+Starting to generate C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/packaged/dialbonl.dat 
+   Finished generating C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/packaged/dialbonl.dat (00:00:00.00)
+Starting to generate C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/packaged/dialcprt.dat 
+   Finished generating C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/packaged/dialcprt.dat (00:00:00.00)
+Starting to generate C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/packaged/dialstf.dat 
+   Finished generating C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/packaged/dialstf.dat (00:00:00.00)
+Starting to generate C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/packaged/dialpgnd.dat 
+   Finished generating C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/packaged/dialpgnd.dat (00:00:00.00)
+Starting to generate C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/packaged/dialpgnd_new.dat 
+   Finished generating C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/packaged/dialpgnd_new.dat (00:00:00.00)
+Starting to generate C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/packaged/scald.xref 
+   Finished generating C:/work/nvidia/Tegra/Xaiver_NX/customer_version/140-13509-0000-A01/p3509_a01_archive/worklib/p3509_a01/packaged/scald.xref (00:00:00.01)
+
+SCALD Lists Interface run on Feb 10 15:13:27 2020
+   DESIGN NAME : 'P3509_A01'
+   PACKAGING ON 10-Feb-2020 AT 15:05:09
+
+   DIRECTORIES  <none>
+   LIBRARIES  'p3509_a01_lib' 'nv_standard' 'standard' 'analog' 'clocks'
+              'digital' 'discrete' 'electro_mechanic' 'logic' 'mechanic'
+              'memory' 'power_supply'
+   MASTER_LIBRARIES  <none>
+   MAX_ERRORS 500
+   OVERSIGHTS ON
+   SINGLE_NODE_NETS ON
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:02:13
+elapsed time  0:00:01
+

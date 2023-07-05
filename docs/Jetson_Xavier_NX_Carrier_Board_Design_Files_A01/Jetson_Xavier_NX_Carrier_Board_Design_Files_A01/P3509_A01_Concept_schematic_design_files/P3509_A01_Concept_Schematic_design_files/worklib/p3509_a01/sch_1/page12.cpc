@@ -1,0 +1,63 @@
+#ISCELL
+  nv_standard nv_11x17xxl_v3 *
+  *
+#CELL
+  discrete q_fet_n_enh *
+  page11_i10
+#CELL
+  discrete r *
+  page11_i11
+#ISCELL
+  nv_standard gnd *
+  page11_i12
+#CELL
+  discrete r *
+  page11_i13
+#CELL
+  discrete c *
+  page11_i14
+#ISCELL
+  nv_standard gnd *
+  page11_i15
+#ISCELL
+  nv_standard gnd *
+  page11_i16
+#CELL
+  discrete d_esd *
+  page11_i17
+#CELL
+  discrete d_esd *
+  page11_i18
+#ISCELL
+  nv_standard gnd *
+  page11_i19
+#CELL
+  discrete c *
+  page11_i20
+#ISCELL
+  nv_standard gnd *
+  page11_i21
+#CELL
+  discrete d_esd *
+  page11_i25
+#ISCELL
+  nv_standard gnd *
+  page11_i26
+#ISCELL
+  nv_standard offpage *
+  page11_i27
+#ISCELL
+  nv_standard offpage *
+  page11_i28
+#CELL
+  electro_mechanic con_usb *
+  page11_i4
+#ISCELL
+  nv_standard offpage *
+  page11_i6
+#ISCELL
+  nv_standard gnd *
+  page11_i7
+#ISCELL
+  nv_standard gnd *
+  page11_i8

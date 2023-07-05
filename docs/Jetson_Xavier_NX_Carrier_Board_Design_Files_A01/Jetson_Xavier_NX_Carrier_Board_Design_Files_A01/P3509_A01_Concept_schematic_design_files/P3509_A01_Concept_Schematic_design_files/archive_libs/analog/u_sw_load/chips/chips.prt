@@ -1,0 +1,255 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'U_SW_LOAD_TSOP6';
+  pin
+    'ON_OFF':
+      PIN_NUMBER='(5)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'R1_C1':
+      PIN_NUMBER='(6)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'R2':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'VIN':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+    'VOUT1':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+    'VOUT2':
+      PIN_NUMBER='(3)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    NO_LOAD_CHECK='BOTH';
+    PART_NAME='U_SW_LOAD';
+    BODY_NAME='U_SW_LOAD';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'U_SW_LOAD_TDFN08';
+  pin
+    'BAT':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    'JIG':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'ON_K':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'S_EN':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'GND':
+      PIN_NUMBER='(5)';
+      PINUSE='POWER';
+    'TA':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'IN1':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'IN2':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'EP':
+      PIN_NUMBER='(9)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    NO_LOAD_CHECK='BOTH';
+    PART_NAME='U_SW_LOAD';
+    BODY_NAME='U_SW_LOAD';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'U_SW_LOAD_BGA4';
+  pin
+    'GND':
+      PIN_NUMBER='(B2)';
+      PINUSE='GROUND';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VIN':
+      PIN_NUMBER='(A1)';
+      PINUSE='POWER';
+    'VOUT':
+      PIN_NUMBER='(A2)';
+      PINUSE='POWER';
+    'ON':
+      PIN_NUMBER='(B1)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    PART_NAME='U_SW_LOAD';
+    NO_LOAD_CHECK='BOTH';
+    BODY_NAME='U_SW_LOAD';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'U_SW_LOAD_BGA04';
+  pin
+    'GND':
+      PIN_NUMBER='(B1)';
+      PINUSE='GROUND';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VIN':
+      PIN_NUMBER='(A2)';
+      PINUSE='POWER';
+    'VOUT':
+      PIN_NUMBER='(A1)';
+      PINUSE='POWER';
+    'ON':
+      PIN_NUMBER='(B2)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    PART_NAME='U_SW_LOAD';
+    NO_LOAD_CHECK='BOTH';
+    BODY_NAME='U_SW_LOAD';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+    PINCOUNT='4';
+  end_body;
+end_primitive;
+
+primitive 'U_SW_LOAD_SOT363';
+  pin
+    'VOUT1':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    'VOUT2':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'EN':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'GND':
+      PIN_NUMBER='(4)';
+      PINUSE='GROUND';
+    'VIN1':
+      PIN_NUMBER='(5)';
+      PINUSE='POWER';
+    'VIN2':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    PART_NAME='U_SW_LOAD';
+    NO_LOAD_CHECK='BOTH';
+    BODY_NAME='U_SW_LOAD';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'U_SW_LOAD_CSP8';
+  pin
+  'VOUT1':
+    PIN_NUMBER='(A1)';
+    PINUSE='POWER';
+  'VIN1':
+    PIN_NUMBER='(A2)';
+    PINUSE='POWER';
+  'VOUT2':
+    PIN_NUMBER='(B1)';
+    PINUSE='POWER';
+  'VIN2':
+    PIN_NUMBER='(B2)';
+    PINUSE='POWER';
+
+  'VOUT3':
+    PIN_NUMBER='(C1)';
+    PINUSE='POWER';
+  'VIN3':
+    PIN_NUMBER='(C2)';
+    PINUSE='POWER';
+
+  'GND':
+    PIN_NUMBER='(D1)';
+    PINUSE='GROUND';
+  'ON':
+    PIN_NUMBER='(D2)';
+    INPUT_LOAD='(-0.01,0.01)';
+  end_pin;
+  body
+    CLASS='IC';
+    BODY_NAME='U_SW_LOAD';
+    PART_NAME='U_SW_LOAD';
+    PHYS_DES_PREFIX='U';
+  end_body;
+end_primitive;
+
+primitive 'U_SW_LOAD_WSON14';
+  pin
+  'VINA':  PIN_NUMBER='(1,6)'; PINUSE='POWER';
+  'VINB':  PIN_NUMBER='(2,7)'; PINUSE='POWER';
+  'VOUTA': PIN_NUMBER='(13,8)'; PINUSE='POWER';
+  'VOUTB': PIN_NUMBER='(14,9)'; PINUSE='POWER';
+  'ON':    PIN_NUMBER='(3,5)'; INPUT_LOAD='(-0.01,0.01)';
+  'CT':    PIN_NUMBER='(12,10)'; PIN_TYPE='ANALOG'; NO_LOAD_CHECK='BOTH'; NO_IO_CHECK='BOTH'; ALLOW_CONNECT='TRUE';
+  'VBIAS': PIN_NUMBER='(4,4)'; PINUSE='POWER';
+  'GND':   PIN_NUMBER='(11,11)'; PINUSE='GROUND';
+  'TPAD':  PIN_NUMBER='(15,15)'; PINUSE='GROUND';
+  end_pin;
+  body
+    PART_NAME='U_SW_LOAD';
+    BODY_NAME='U_SW_LOAD';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'U_SW_LOAD_SOT23_5B';
+ pin
+ 'OUT':
+    PIN_NUMBER='(1)';
+    PINUSE='POWER';
+ 'GND':
+    PIN_NUMBER='(2)';
+    PINUSE='GROUND';
+ '-OC':
+    PIN_NUMBER='(3)';
+    OUTPUT_LOAD='(1.0,*)';
+    OUTPUT_TYPE='(OC,AND)';
+ 'EN':
+    PIN_NUMBER='(4)';
+    INPUT_LOAD='(-0.01,0.01)';
+ 'IN':
+    PIN_NUMBER='(5)';
+    PINUSE='POWER';
+ end_pin;
+ body
+  CLASS=IC;
+  NO_LOAD_CHECK='BOTH';
+  PART_NAME='U_SW_LOAD';
+  BODY_NAME='U_SW_LOAD';
+  PHYS_DES_PREFIX='U';
+  PINCOUNT='5';
+ end_body;
+end_primitive;
+
+END.

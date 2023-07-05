@@ -1,0 +1,26 @@
+FILE_TYPE=LIBRARY_PARTS;
+
+primitive 'OSC_4PIN_SMD_32X25','OSC_4PIN_SMD','OSC_4PIN_SMD_20X16','OSC_4PIN_SMD_2VCC','OSC_4PIN_SMD_ST','OSC_4PIN_SMT_ST','OSC_4PIN_SMD_20X12', 'OSC_4PIN_2520';
+  pin
+    'EN':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'GND':
+      PIN_NUMBER='(2)';
+      PINUSE='GROUND';
+   'OUT':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+   'VCC':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    BODY_NAME='OSC_4PIN';
+    PART_NAME='OSC_4PIN';
+    PHYS_DES_PREFIX='Y';
+    PINCOUNT='4';
+  end_body;
+end_primitive;
+END.

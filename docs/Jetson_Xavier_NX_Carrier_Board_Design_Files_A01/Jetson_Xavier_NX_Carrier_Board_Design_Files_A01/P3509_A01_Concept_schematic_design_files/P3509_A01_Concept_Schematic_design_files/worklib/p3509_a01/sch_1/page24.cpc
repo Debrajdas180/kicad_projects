@@ -1,0 +1,12 @@
+#ISCELL
+  nv_standard nv_11x17xxl_v3 *
+  *
+#CELL
+  mechanic mounting_hole *
+  page22_i1
+#CELL
+  mechanic mounting_hole *
+  page22_i2
+#ISCELL
+  nv_standard gnd *
+  page22_i3

@@ -1,0 +1,378 @@
+#ISCELL
+  nv_standard nv_11x17xxl_v3 *
+  *
+#CELL
+  electro_mechanic hdr_2x20 *
+  page20_i1
+#CELL
+  discrete r *
+  page20_i100
+#ISCELL
+  nv_standard gnd *
+  page20_i101
+#ISCELL
+  nv_standard 3v3 *
+  page20_i110
+#ISCELL
+  nv_standard 3v3 *
+  page20_i111
+#ISCELL
+  nv_standard gnd *
+  page20_i112
+#CELL
+  digital u_levshft_txb0108 *
+  page20_i115
+#ISCELL
+  nv_standard offpage *
+  page20_i126
+#ISCELL
+  nv_standard offpage *
+  page20_i127
+#ISCELL
+  nv_standard offpage *
+  page20_i128
+#ISCELL
+  nv_standard offpage *
+  page20_i129
+#CELL
+  discrete r *
+  page20_i13
+#ISCELL
+  nv_standard offpage *
+  page20_i130
+#ISCELL
+  nv_standard offpage *
+  page20_i131
+#ISCELL
+  nv_standard offpage *
+  page20_i132
+#ISCELL
+  nv_standard offpage *
+  page20_i133
+#ISCELL
+  nv_standard offpage *
+  page20_i134
+#ISCELL
+  nv_standard offpage *
+  page20_i135
+#ISCELL
+  nv_standard offpage *
+  page20_i136
+#ISCELL
+  nv_standard offpage *
+  page20_i137
+#ISCELL
+  nv_standard offpage *
+  page20_i138
+#ISCELL
+  nv_standard offpage *
+  page20_i139
+#CELL
+  discrete r *
+  page20_i14
+#ISCELL
+  nv_standard offpage *
+  page20_i140
+#ISCELL
+  nv_standard offpage *
+  page20_i141
+#ISCELL
+  nv_standard offpage *
+  page20_i142
+#ISCELL
+  nv_standard offpage *
+  page20_i143
+#ISCELL
+  nv_standard offpage *
+  page20_i144
+#ISCELL
+  nv_standard offpage *
+  page20_i145
+#ISCELL
+  nv_standard offpage *
+  page20_i146
+#ISCELL
+  nv_standard offpage *
+  page20_i147
+#ISCELL
+  nv_standard offpage *
+  page20_i148
+#ISCELL
+  nv_standard offpage *
+  page20_i149
+#ISCELL
+  nv_standard 3v3 *
+  page20_i15
+#ISCELL
+  nv_standard offpage *
+  page20_i150
+#ISCELL
+  nv_standard offpage *
+  page20_i151
+#ISCELL
+  nv_standard offpage *
+  page20_i152
+#ISCELL
+  nv_standard offpage *
+  page20_i153
+#ISCELL
+  nv_standard offpage *
+  page20_i154
+#ISCELL
+  nv_standard offpage *
+  page20_i155
+#ISCELL
+  nv_standard offpage *
+  page20_i156
+#ISCELL
+  nv_standard offpage *
+  page20_i157
+#ISCELL
+  nv_standard offpage *
+  page20_i158
+#ISCELL
+  nv_standard offpage *
+  page20_i159
+#ISCELL
+  nv_standard gnd *
+  page20_i16
+#ISCELL
+  nv_standard offpage *
+  page20_i160
+#ISCELL
+  nv_standard offpage *
+  page20_i161
+#ISCELL
+  nv_standard offpage *
+  page20_i162
+#ISCELL
+  nv_standard offpage *
+  page20_i163
+#ISCELL
+  nv_standard offpage *
+  page20_i164
+#ISCELL
+  nv_standard offpage *
+  page20_i165
+#ISCELL
+  nv_standard offpage *
+  page20_i166
+#ISCELL
+  nv_standard offpage *
+  page20_i167
+#ISCELL
+  nv_standard offpage *
+  page20_i168
+#ISCELL
+  nv_standard offpage *
+  page20_i169
+#ISCELL
+  nv_standard 3v3 *
+  page20_i17
+#ISCELL
+  nv_standard offpage *
+  page20_i170
+#ISCELL
+  nv_standard offpage *
+  page20_i171
+#ISCELL
+  nv_standard offpage *
+  page20_i172
+#ISCELL
+  nv_standard offpage *
+  page20_i173
+#ISCELL
+  nv_standard offpage *
+  page20_i174
+#ISCELL
+  nv_standard offpage *
+  page20_i175
+#ISCELL
+  nv_standard offpage *
+  page20_i176
+#ISCELL
+  nv_standard offpage *
+  page20_i177
+#ISCELL
+  nv_standard offpage *
+  page20_i178
+#ISCELL
+  nv_standard offpage *
+  page20_i179
+#ISCELL
+  nv_standard offpage *
+  page20_i180
+#ISCELL
+  nv_standard offpage *
+  page20_i181
+#ISCELL
+  nv_standard offpage *
+  page20_i182
+#ISCELL
+  nv_standard offpage *
+  page20_i183
+#ISCELL
+  nv_standard offpage *
+  page20_i184
+#ISCELL
+  nv_standard offpage *
+  page20_i185
+#ISCELL
+  nv_standard offpage *
+  page20_i186
+#ISCELL
+  nv_standard offpage *
+  page20_i187
+#ISCELL
+  nv_standard offpage *
+  page20_i188
+#ISCELL
+  nv_standard offpage *
+  page20_i189
+#CELL
+  digital u_levshft_txb0108 *
+  page20_i19
+#ISCELL
+  nv_standard offpage *
+  page20_i190
+#ISCELL
+  nv_standard offpage *
+  page20_i191
+#ISCELL
+  nv_standard offpage *
+  page20_i192
+#ISCELL
+  nv_standard offpage *
+  page20_i193
+#ISCELL
+  nv_standard offpage *
+  page20_i194
+#ISCELL
+  nv_standard offpage *
+  page20_i195
+#ISCELL
+  nv_standard offpage *
+  page20_i196
+#ISCELL
+  nv_standard offpage *
+  page20_i197
+#ISCELL
+  nv_standard offpage *
+  page20_i198
+#ISCELL
+  nv_standard offpage *
+  page20_i199
+#ISCELL
+  nv_standard gnd *
+  page20_i2
+#ISCELL
+  nv_standard offpage *
+  page20_i200
+#ISCELL
+  nv_standard offpage *
+  page20_i201
+#CELL
+  discrete q_fet_p_enh *
+  page20_i203
+#ISCELL
+  nv_standard var_pow *
+  page20_i204
+#ISCELL
+  nv_standard var_pow *
+  page20_i205
+#ISCELL
+  nv_standard var_pow *
+  page20_i206
+#CELL
+  discrete q_pnp *
+  page20_i209
+#CELL
+  discrete q_pnp *
+  page20_i210
+#CELL
+  discrete r *
+  page20_i211
+#CELL
+  discrete r *
+  page20_i212
+#ISCELL
+  nv_standard gnd *
+  page20_i214
+#CELL
+  discrete c *
+  page20_i31
+#ISCELL
+  nv_standard gnd *
+  page20_i32
+#ISCELL
+  nv_standard 3v3 *
+  page20_i39
+#CELL
+  discrete c *
+  page20_i40
+#ISCELL
+  nv_standard gnd *
+  page20_i48
+#ISCELL
+  nv_standard gnd *
+  page20_i49
+#ISCELL
+  nv_standard 3v3 *
+  page20_i56
+#CELL
+  discrete c *
+  page20_i57
+#ISCELL
+  nv_standard gnd *
+  page20_i63
+#ISCELL
+  nv_standard 3v3 *
+  page20_i67
+#CELL
+  discrete c *
+  page20_i68
+#ISCELL
+  nv_standard gnd *
+  page20_i69
+#CELL
+  discrete d_esd *
+  page20_i78
+#CELL
+  discrete d_esd *
+  page20_i79
+#ISCELL
+  nv_standard gnd *
+  page20_i80
+#ISCELL
+  nv_standard gnd *
+  page20_i81
+#CELL
+  discrete d_esd *
+  page20_i82
+#ISCELL
+  nv_standard gnd *
+  page20_i83
+#CELL
+  discrete d_esd *
+  page20_i84
+#ISCELL
+  nv_standard gnd *
+  page20_i85
+#ISCELL
+  nv_standard 3v3 *
+  page20_i94
+#ISCELL
+  nv_standard gnd *
+  page20_i95
+#ISCELL
+  nv_standard 3v3 *
+  page20_i96
+#CELL
+  digital u_levshft_txb0108 *
+  page20_i97
+#CELL
+  discrete r *
+  page20_i98
+#ISCELL
+  nv_standard 3v3 *
+  page20_i99

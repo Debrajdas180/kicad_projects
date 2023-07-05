@@ -1,0 +1,39 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME='Created/Modified on Wed Sep 24 13:28:04 2008';
+
+primitive 'D_3PIN_CC_SOT23','D_3PIN_CC_SOT323';
+  pin
+    'CC':
+      PIN_NUMBER='(3)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      UNKNOWN_LOADING='TRUE';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'A1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      UNKNOWN_LOADING='TRUE';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+      PIN_GROUP='1';
+    'A2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      UNKNOWN_LOADING='TRUE';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+      PIN_GROUP='1';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='D_3PIN_CC';
+    BODY_NAME='D_3PIN_CC';
+    PHYS_DES_PREFIX='D';
+    PINCOUNT='3';
+  end_body;
+end_primitive;
+
+END.

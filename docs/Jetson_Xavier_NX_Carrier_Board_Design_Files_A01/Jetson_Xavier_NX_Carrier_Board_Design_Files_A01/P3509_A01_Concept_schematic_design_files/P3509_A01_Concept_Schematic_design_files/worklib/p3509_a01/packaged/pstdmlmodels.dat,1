@@ -1,0 +1,70 @@
+("..\\packaged\\pstdmlmodels.dat" 
+ (PackagedDevice 
+  ("DEFAULT_CAPACITOR_1e+07pF_2_1" 
+   (ESpice ".subckt DEFAULT_CAPACITOR_1e+07pF_2_1 1 2
+C1 1 2 1e-005
+.ends DEFAULT_CAPACITOR_1e+07pF_2_1
+" ) 
+   (PinConnections 
+    (1 2 ) 
+    (2 1 ) ) ) 
+  ("DEFAULT_RESISTOR_0.001OHM_2_1" 
+   (ESpice ".subckt DEFAULT_RESISTOR_0.001OHM_2_1 1 2
+R1 1 2 0.001
+.ends DEFAULT_RESISTOR_0.001OHM_2_1
+" ) 
+   (PinConnections 
+    (1 2 ) 
+    (2 1 ) ) ) 
+  (DEFAULT_RESISTOR_649OHM_2_1 
+   (ESpice ".subckt DEFAULT_RESISTOR_649OHM_2_1 1 2
+R1 1 2 649
+.ends DEFAULT_RESISTOR_649OHM_2_1
+" ) 
+   (PinConnections 
+    (1 2 ) 
+    (2 1 ) ) ) 
+  (nv_cap 
+   (ESpice ".subckt nv_cap 1 2
+C1 1 2  10e-012
+.ends nv_cap
+" ) 
+   (PinConnections 
+    (1 2 ) 
+    (2 1 ) ) ) 
+  (nv_capp 
+   (ESpice ".subckt nv_capp 1 2
+C1 1 2  10e-012
+.ends nv_capp
+" ) 
+   (PinConnections 
+    (1 2 ) 
+    (2 1 ) ) ) 
+  (nv_ind 
+   (ESpice ".subckt nv_ind 1 2
+L1 1 2  10e-009
+.ends nv_ind
+" ) 
+   (PinConnections 
+    (1 2 ) 
+    (2 1 ) ) ) 
+  (nv_ind_cmf_4p 
+   (ESpice ".subckt nv_ind_cmf_4p 1 2 3 4
+L1 1 4  10e-009
+L2 2 3  10e-009
+.ends nv_ind_cmf_4p
+" ) 
+   (PinConnections 
+    (1 4 ) 
+    (4 1 ) 
+    (2 3 ) 
+    (3 2 ) ) ) 
+  (nv_res 
+   (ESpice ".subckt nv_res 1 2
+R1 1 2  10
+.ends nv_res
+" ) 
+   (PinConnections 
+    (1 2 ) 
+    (2 1 ) ) ) ) 
+ (LibraryVersion 136.2 ) ) 

@@ -1,0 +1,128 @@
+@@(#)$CDS: Archiver version 17.2-2016 S050 (3749732) 12/3/2018
+No views specified. Defaulting to All.
+Archiving cellview C:\Users\asalam\Desktop\Rey\P3509\A01\worklib\p3509_a01, from library p3509_a01_lib
+
+Archiving cellview S:\Libraries\Concept\released\discrete\r, from library discrete
+
+Archiving cellview S:\Libraries\Concept\released\discrete\led, from library discrete
+
+Archiving cellview S:\Libraries\Concept\released\discrete\q_fet_n_enh, from library discrete
+
+Archiving cellview S:\Libraries\Concept\released\electro_mechanic\con_battery, from library electro_mechanic
+
+Archiving cellview S:\Libraries\Concept\released\discrete\d_schottky, from library discrete
+
+Archiving cellview S:\Libraries\Concept\released\discrete\d_esd, from library discrete
+
+Archiving cellview S:\Libraries\Concept\released\electro_mechanic\con_sodimm_260, from library electro_mechanic
+
+Archiving cellview S:\Libraries\Concept\released\discrete\c_pol, from library discrete
+
+Archiving cellview S:\Libraries\Concept\released\electro_mechanic\hdr_1x4, from library electro_mechanic
+
+Archiving cellview S:\Libraries\Concept\released\electro_mechanic\labtestpoint, from library electro_mechanic
+
+Archiving cellview S:\Libraries\Concept\released\discrete\c, from library discrete
+
+Archiving cellview S:\Libraries\Concept\released\logic\u_buf_od, from library logic
+
+Archiving cellview S:\Libraries\Concept\released\electro_mechanic\con_pwr_jack, from library electro_mechanic
+
+Archiving cellview S:\Libraries\Concept\released\discrete\d_zener, from library discrete
+
+Archiving cellview S:\Libraries\Concept\released\digital\u_rst_mon, from library digital
+
+Archiving cellview S:\Libraries\Concept\released\discrete\q_fet_p_enh, from library discrete
+
+Archiving cellview S:\Libraries\Concept\released\electro_mechanic\hdr_1x2, from library electro_mechanic
+
+Archiving cellview S:\Libraries\Concept\released\discrete\l, from library discrete
+
+Archiving cellview S:\Libraries\Concept\released\power_supply\u_swreg_tps53015, from library power_supply
+
+Archiving cellview S:\Libraries\Concept\released\power_supply\u_vreg_5pin, from library power_supply
+
+Archiving cellview S:\Libraries\Concept\released\power_supply\u_ldo, from library power_supply
+
+Archiving cellview S:\Libraries\Concept\released\digital\u_cpu_efm8sb1, from library digital
+
+Archiving cellview S:\Libraries\Concept\released\discrete\d_3pin_cc, from library discrete
+
+Archiving cellview S:\Libraries\Concept\released\logic\u_levshft_3state, from library logic
+
+Archiving cellview S:\Libraries\Concept\released\electro_mechanic\con_usb, from library electro_mechanic
+
+Archiving cellview S:\Libraries\Concept\released\clocks\xtal_4pin, from library clocks
+
+Archiving cellview S:\Libraries\Concept\released\digital\u_usb_hub_rts5489, from library digital
+
+Archiving cellview S:\Libraries\Concept\released\mechanic\virtual_short, from library mechanic
+
+Archiving cellview S:\Libraries\Concept\released\power_supply\u_dcdc_buck_mp2152, from library power_supply
+
+Archiving cellview S:\Libraries\Concept\released\memory\u_mem_fl_ser_512kx8, from library memory
+
+Archiving cellview S:\Libraries\Concept\released\discrete\l_cmf_4p, from library discrete
+
+Archiving cellview S:\Libraries\Concept\released\discrete\d_esd_diffpair, from library discrete
+
+Archiving cellview S:\Libraries\Concept\released\analog\u_sw_load, from library analog
+
+Archiving cellview S:\Libraries\Concept\released\electro_mechanic\con_usb3, from library electro_mechanic
+
+Archiving cellview S:\Libraries\Concept\released\electro_mechanic\con_hdmi_displayport, from library electro_mechanic
+
+Archiving cellview S:\Libraries\Concept\released\discrete\q_npn, from library discrete
+
+Archiving cellview S:\Libraries\Concept\released\power_supply\u_pwr_sw_ul, from library power_supply
+
+Archiving cellview S:\Libraries\Concept\released\analog\u_sw_ana_usb, from library analog
+
+Archiving cellview S:\Libraries\Concept\released\electro_mechanic\con_fpc_15, from library electro_mechanic
+
+Archiving cellview S:\Libraries\Concept\released\electro_mechanic\con_rj45, from library electro_mechanic
+
+Archiving cellview S:\Libraries\Concept\released\electro_mechanic\con_m2_pci_exp, from library electro_mechanic
+
+Archiving cellview S:\Libraries\Concept\released\mechanic\mec_standoff, from library mechanic
+
+Archiving cellview S:\Libraries\Concept\released\clocks\osc_4pin, from library clocks
+
+Archiving cellview S:\Libraries\Concept\released\electro_mechanic\hdr_2x20, from library electro_mechanic
+
+Archiving cellview S:\Libraries\Concept\released\digital\u_levshft_txb0108, from library digital
+
+Archiving cellview S:\Libraries\Concept\released\discrete\q_pnp, from library discrete
+
+Archiving cellview S:\Libraries\Concept\released\memory\u_mem_ee_i2c, from library memory
+
+Archiving cellview S:\Libraries\Concept\released\electro_mechanic\hdr_1x12, from library electro_mechanic
+
+Archiving cellview S:\Libraries\Concept\released\logic\u_levshft_txb0302, from library logic
+
+Archiving cellview S:\Libraries\Concept\released\electro_mechanic\con_b2w_1x4, from library electro_mechanic
+
+Archiving cellview S:\Libraries\Concept\released\mechanic\mounting_hole, from library mechanic
+
+Archiving cellview S:\Libraries\Concept\released\nv_standard\cgnd, from library nv_standard
+
+Archiving cellview S:\Libraries\Concept\released\nv_standard\nvvdd, from library nv_standard
+
+Archiving cellview S:\Libraries\Concept\released\standard\synonym, from library standard
+
+Archiving cellview S:\Libraries\Concept\released\nv_standard\var_pow, from library nv_standard
+
+Archiving cellview S:\Libraries\Concept\released\nv_standard\gnd, from library nv_standard
+
+Archiving cellview S:\Libraries\Concept\released\nv_standard\offpage, from library nv_standard
+
+Archiving cellview S:\Libraries\Concept\released\nv_standard\3v3, from library nv_standard
+
+Archiving cellview S:\Libraries\Concept\released\nv_standard\nv_11x17xxl_v3, from library nv_standard
+
+Archiving cellview S:\Libraries\Concept\released\nv_standard\nv_11x17xxl_v3_toc, from library nv_standard
+
+Archiving cellview S:\Libraries\Concept\released\nv_standard\origin, from library nv_standard
+
+Completed archiving the design...
+For more information, please look at the file C:\Users\asalam\Desktop\Rey\P3509\p3509_a01_archive\archiver.log

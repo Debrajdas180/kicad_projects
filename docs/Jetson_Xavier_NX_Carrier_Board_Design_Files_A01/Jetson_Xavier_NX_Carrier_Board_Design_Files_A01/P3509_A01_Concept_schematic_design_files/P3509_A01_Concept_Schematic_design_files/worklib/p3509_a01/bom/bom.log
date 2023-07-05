@@ -1,0 +1,188 @@
+
+
+    Cadence Design Systems, Inc.
+    Bomhdl 17.2-2016 S050 (3749732) 12/3/2018
+    Copyright 2011 Cadence Design Systems, Inc, Cadence Design Systems, Inc.
+
+    Run on Mon Feb 10 14:24:19 2020
+
+
+*****************************
+*  Processing project file  *
+*****************************
+
+    DESIGN_LIBRARY 'p3509_a01_lib'
+    DESIGN_NAME 'p3509_a01'
+    VIEW_SCHEMATIC 'sch_1'
+    VIEW_PACKAGER 'packaged'
+    VIEW_VARIANT 'variant'
+    VIEW_BOM ''
+    VIEW_CONFIG_PHYSICAL 'cfg_package'
+    PPT './p3509_a01_ptf'
+    USE_LIBRARY_PPT 'ON'
+    MERGE_PPT 'ON'
+    INCLUDE_PPT ''
+    EXCLUDE_PPT ''
+    SPREADSHEET 'OFF'
+    LAST_OUTPUT_FILE './worklib/p3509_a01/bom/sku0000.rpt'
+    TEMPLATE_FILE 'template.bom'
+    PACKAGED_VARIANT_SYNC_CHECK '1'
+    LAST_TEMPLATE_FILE 'S:\eda\app\prd\cadence_setup\cds_site/cdssetup/bomloader_template.bom'
+    LAST_STANDARD_OPTION '0'
+    LAST_WHAT_TO_OUTPUT '1'
+    LAST_VARIANT_FILE 'variant.dat'
+    LAST_SS_DELIMITER 'Hash #'
+    USE_FILTERS '1'
+    LAST_CALLOUT_FILE ''
+    LAST_VARIANT 'SKU0000'
+    GEN_HIER_BOM '0'
+
+*********************************
+*  End processing project file  *
+*********************************
+
+ 
+Initializing tool communication modules... 
+
+*********************************
+*  Loading the design database  *
+*********************************
+
+Start loading the design. 
+Loading logical design view of p3509_a01 
+Setting design view directives...
+ 
+Loading pstX files...
+ 
+
+Loading... C:\work\nvidia\Tegra\Xaiver_NX\customer_version\140-13509-0000-A01\p3509_a01_archive\worklib\p3509_a01\packaged\pstchip.dat
+ 
+
+Loading... C:\work\nvidia\Tegra\Xaiver_NX\customer_version\140-13509-0000-A01\p3509_a01_archive\worklib\p3509_a01\packaged\pstchip.dat
+ 
+
+Loading... C:\work\nvidia\Tegra\Xaiver_NX\customer_version\140-13509-0000-A01\p3509_a01_archive\worklib\p3509_a01\packaged\pstxnet.dat
+ 
+packaging the design view... 
+End loading logical design view of p3509_a01 
+Reading cell level PPTs... 
+INFO(SPCODD-181): Loading ./p3509_a01_ptf/074-0245-000.ptf.
+       
+INFO(SPCODD-181): Loading ./p3509_a01_ptf/080-1761-000.ptf.
+       
+INFO(SPCODD-181): Loading ./p3509_a01_ptf/155-0608-000.ptf.
+       
+INFO(SPCODD-181): Loading ./p3509_a01_ptf/CON_SODIMM_260.ptf.
+       
+INFO(SPCODD-181): Loading ./p3509_a01_ptf/labtestpoint.ptf.
+       
+INFO(SPCODD-181): Loading ./p3509_a01_ptf/mounting_hole.ptf.
+       
+INFO(SPCODD-181): Loading ./p3509_a01_ptf/programmedparts.ptf.
+       
+INFO(SPCODD-181): Loading ./p3509_a01_ptf/standard.ptf.
+       
+INFO(SPCODD-181): Loading ./p3509_a01_ptf/virtual_short.ptf.
+       
+Start loading variant databse... 
+Setting design view directives...
+ 
+Loading variant data base C:\work\nvidia\Tegra\Xaiver_NX\customer_version\140-13509-0000-A01\p3509_a01_archive\worklib\p3509_a01\variant\variant.dat 
+
+Loading... C:\work\nvidia\Tegra\Xaiver_NX\customer_version\140-13509-0000-A01\p3509_a01_archive\worklib\p3509_a01\packaged\pstchip.dat
+ 
+
+Loading... C:\work\nvidia\Tegra\Xaiver_NX\customer_version\140-13509-0000-A01\p3509_a01_archive\worklib\p3509_a01\variant\variant.dat
+ 
+End loading variant database of C:\work\nvidia\Tegra\Xaiver_NX\customer_version\140-13509-0000-A01\p3509_a01_archive\worklib\p3509_a01\variant\variant.dat 
+Start Merging the variant database in main design view.
+ 
+Variant Database merged successfully.
+ 
+Design loaded successfully. 
+
+
+******************************************
+*  Finished loading the design database  *
+******************************************
+
+
+**********************************
+*  Start generating bom reports. *
+**********************************
+
+Report generated successfully.
+
+Output file list :
+C:\work\nvidia\Tegra\Xaiver_NX\customer_version\140-13509-0000-A01\p3509_a01_archive\worklib\p3509_a01\bom\sku0000.rpt
+
+*********************************
+*  End generating bom reports   *
+*********************************
+
+
+*********************************
+*  Loading the design database  *
+*********************************
+
+Start loading the design. 
+Loading logical design view of p3509_a01 
+Setting design view directives...
+ 
+Loading pstX files...
+ 
+
+Loading... C:\work\nvidia\Tegra\Xaiver_NX\customer_version\140-13509-0000-A01\p3509_a01_archive\worklib\p3509_a01\packaged\pstchip.dat
+ 
+
+Loading... C:\work\nvidia\Tegra\Xaiver_NX\customer_version\140-13509-0000-A01\p3509_a01_archive\worklib\p3509_a01\packaged\pstchip.dat
+ 
+
+Loading... C:\work\nvidia\Tegra\Xaiver_NX\customer_version\140-13509-0000-A01\p3509_a01_archive\worklib\p3509_a01\packaged\pstxnet.dat
+ 
+packaging the design view... 
+End loading logical design view of p3509_a01 
+Start loading variant databse... 
+Setting design view directives...
+ 
+Loading variant data base variant.dat 
+
+Loading... C:\work\nvidia\Tegra\Xaiver_NX\customer_version\140-13509-0000-A01\p3509_a01_archive\worklib\p3509_a01\packaged\pstchip.dat
+ 
+
+Loading... variant.dat
+ 
+End loading variant database of variant.dat 
+Start Merging the variant database in main design view.
+ 
+Variant Database merged successfully.
+ 
+Design loaded successfully. 
+
+
+******************************************
+*  Finished loading the design database  *
+******************************************
+
+
+**********************************
+*  Start generating bom reports. *
+**********************************
+
+Report generated successfully.
+
+Output file list :
+C:\work\nvidia\Tegra\Xaiver_NX\customer_version\140-13509-0000-A01\p3509_a01_archive\worklib\p3509_a01\bom\sku0000.rpt
+
+*********************************
+*  End generating bom reports   *
+*********************************
+
+    Start time   14:24:19
+    End time     14:28:09
+    Elapsed time  0:03:50
+
+*********************************
+*  BOM-HDL execution done.      *
+*********************************
+

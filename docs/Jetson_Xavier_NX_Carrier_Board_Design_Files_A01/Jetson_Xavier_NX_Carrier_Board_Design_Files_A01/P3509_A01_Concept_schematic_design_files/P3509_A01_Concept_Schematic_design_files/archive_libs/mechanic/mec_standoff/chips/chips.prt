@@ -1,0 +1,67 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME='Created/Modified on Thu Jun 06 16:57:47 2013';
+
+primitive 'MEC_STANDOFF_STD';
+  pin
+  end_pin;
+  body
+    CLASS='MECHANICAL';
+    PART_NAME='MEC_STANDOFF';
+    BODY_NAME='MEC_STANDOFF';
+    PHYS_DES_PREFIX='MEC';
+  end_body;
+end_primitive;
+
+primitive 'MEC_STANDOFF_SMD','MEC_STANDOFF_TH';
+  pin
+ '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='IO';
+    PART_NAME='MEC_STANDOFF';
+    BODY_NAME='MEC_STANDOFF';
+    PHYS_DES_PREFIX='MEC';
+  end_body;
+end_primitive;
+
+primitive 'MEC_STANDOFF_TH_4PIN';
+  pin
+  '1':
+    PIN_NUMBER='(1)';
+    PIN_TYPE='ANALOG';
+    NO_LOAD_CHECK='BOTH';
+    NO_IO_CHECK='BOTH';
+    ALLOW_CONNECT='TRUE';
+  '2':
+    PIN_NUMBER='(2)';
+    PIN_TYPE='ANALOG';
+    NO_LOAD_CHECK='BOTH';
+    NO_IO_CHECK='BOTH';
+    ALLOW_CONNECT='TRUE';
+  '3':
+    PIN_NUMBER='(3)';
+    PIN_TYPE='ANALOG';
+    NO_LOAD_CHECK='BOTH';
+    NO_IO_CHECK='BOTH';
+    ALLOW_CONNECT='TRUE';
+  '4':
+    PIN_NUMBER='(4)';
+    PIN_TYPE='ANALOG';
+    NO_LOAD_CHECK='BOTH';
+    NO_IO_CHECK='BOTH';
+    ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='IO';
+    PART_NAME='MEC_STANDOFF';
+    BODY_NAME='MEC_STANDOFF';
+    PHYS_DES_PREFIX='MEC';
+  end_body;
+end_primitive;
+
+END.

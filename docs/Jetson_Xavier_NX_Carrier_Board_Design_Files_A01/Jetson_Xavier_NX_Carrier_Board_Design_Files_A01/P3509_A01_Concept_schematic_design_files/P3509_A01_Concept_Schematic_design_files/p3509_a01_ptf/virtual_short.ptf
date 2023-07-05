@@ -1,0 +1,16 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'VIRTUAL_SHORT'
+
+{====================================================================================================================================================================================================================}
+:NAME            | PACK_TYPE = JEDEC_TYPE        | HEIGHT | DESCRIPTION                                                 | ALT_SYMBOLS                                                             | SOURCE_EXPANSION ;
+{====================================================================================================================================================================================================================}
+ 'VIRTUAL_SHORT' | 'SHUNT'   = 'VIRTUAL_SHORT'   | '0MM'  | 'Virtual Short, copper only, not a part'                    | '(virtual_short_l2,virtual_short_l3,virtual_short_l4,virtual_short_l5)' | 'NON_PHYSICAL'
+ 'VIRTUAL_SHORT' | '4MIL'    = 'NET_ISO_24X4'    | '0MM'  | 'Virtual Short, copper only, not a part, trace 4 mil wide'  | '()'                                                                    | 'NON_PHYSICAL'
+ 'VIRTUAL_SHORT' | '10MIL'   = 'NET_ISO_36X10'   | '0MM'  | 'Virtual Short, copper only, not a part, trace 10 mil wide' | '()'                                                                    | 'NON_PHYSICAL'
+ 'VIRTUAL_SHORT' | '12MIL'   = 'NET_ISO_40X12'   | '0MM'  | 'Virtual Short, copper only, not a part, trace 12 mil wide' | '()'                                                                    | 'NON_PHYSICAL'
+ 'VIRTUAL_SHORT' | '25MIL'   = 'NET_ISO_76X25'   | '0MM'  | 'Virtual Short, copper only, not a part, trace 25 mil wide' | '()'                                                                    | 'NON_PHYSICAL'
+ 'VIRTUAL_SHORT' | '65MIL'   = 'NET_ISO_120X160' | '0MM'  | 'Virtual Short, copper only, not a part, trace 65 mil wide' | '()'                                                                    | 'NON_PHYSICAL'
+
+END_PART
+END.

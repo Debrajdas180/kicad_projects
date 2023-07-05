@@ -1,0 +1,151 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME='Created/Modified on Mon Jul 07 17:51:33 2014';
+
+primitive 'U_BUF_OD_SC70_6','U_BUF_OD_DFN6','U_BUF_OD_SOT363';
+  pin
+  'A':
+    PIN_NUMBER='(1,3)';
+    INPUT_LOAD='(-0.01,0.01)';
+  'Y':
+    PIN_NUMBER='(6,4)';
+    OUTPUT_LOAD='(1.0,*)';
+    OUTPUT_TYPE='(OC,AND)';
+  'VCC':
+    PIN_NUMBER='(5,5)';
+    PINUSE='POWER';
+  'GND':
+    PIN_NUMBER='(2,2)';
+    PINUSE='GROUND';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='U_BUF_OD';
+    BODY_NAME='U_BUF_OD';
+    PHYS_DES_PREFIX='U';
+    PINCOUNT='6';
+  end_body;
+end_primitive;
+
+primitive 'U_BUF_OD_BGA6';
+  pin
+  'A':
+    PIN_NUMBER='(A1,C1)';
+    INPUT_LOAD='(-0.01,0.01)';
+  'Y':
+    PIN_NUMBER='(A2,C2)';
+    OUTPUT_LOAD='(1.0,*)';
+    OUTPUT_TYPE='(OC,AND)';
+  'VCC':
+    PIN_NUMBER='(B2,B2)';
+    PINUSE='POWER';
+  'GND':
+    PIN_NUMBER='(B1,B1)';
+    PINUSE='GROUND';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='U_BUF_OD';
+    BODY_NAME='U_BUF_OD';
+    PHYS_DES_PREFIX='U';
+  end_body;
+end_primitive;
+
+primitive 'U_BUF_OD_SOP14';
+  pin
+  'A':
+    PIN_NUMBER='(1,3,5,9,11,13)';
+    INPUT_LOAD='(-0.01,0.01)';
+  'Y':
+    PIN_NUMBER='(2,4,6,8,10,12)';
+    OUTPUT_LOAD='(1.0,*)';
+    OUTPUT_TYPE='(OC,AND)';
+  'VCC':
+    PIN_NUMBER='(14,14,14,14,14,14)';
+    PINUSE='POWER';
+  'GND':
+    PIN_NUMBER='(7,7,7,7,7,7)';
+    PINUSE='GROUND';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='U_BUF_OD';
+    BODY_NAME='U_BUF_OD';
+    PHYS_DES_PREFIX='U';
+  end_body;
+end_primitive;
+
+primitive 'U_BUF_OD_SC70_5';
+  pin
+  'A':
+    PIN_NUMBER='(2)';
+    INPUT_LOAD='(-0.01,0.01)';
+  'GND':
+    PIN_NUMBER='(3)';
+    PINUSE='GROUND';
+  'Y':
+    PIN_NUMBER='(4)';
+    OUTPUT_LOAD='(1.0,-1.0)';
+  'VCC':
+    PIN_NUMBER='(5)';
+    PINUSE='POWER';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='U_BUF_OD';
+    BODY_NAME='U_BUF_OD';
+    PHYS_DES_PREFIX='U';
+    NC_PINS='(1)';
+    PINCOUNT='5';
+  end_body;
+end_primitive;
+
+primitive 'U_BUF_OD_VSSOP8','U_BUF_OD_DFN8';
+  pin
+  'A':
+    PIN_NUMBER='(1,3,6)';
+    INPUT_LOAD='(-0.01,0.01)';
+  'Y':
+    PIN_NUMBER='(7,5,2)';
+    OUTPUT_TYPE='(OC,AND)';
+    OUTPUT_LOAD='(1.0,*)';
+  'VCC':
+    PIN_NUMBER='(8,8,8)';
+    PINUSE='POWER';
+  'GND':
+    PIN_NUMBER='(4,4,4)';
+    PINUSE='GROUND';
+  end_pin;
+  body
+    PART_NAME='U_BUF_OD';
+    BODY_NAME='U_BUF_OD';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+primitive 'U_BUF_OD_DSBGA5';
+  pin
+  'A':
+    PIN_NUMBER='(B1)';
+    INPUT_LOAD='(-0.01,0.01)';
+  'GND':
+    PIN_NUMBER='(C1)';
+    PINUSE='GROUND';
+  'Y':
+    PIN_NUMBER='(C2)';
+    OUTPUT_LOAD='(1.0,-1.0)';
+  'VCC':
+    PIN_NUMBER='(A2)';
+    PINUSE='POWER';
+  end_pin;
+  body
+    CLASS='IC';
+    PART_NAME='U_BUF_OD';
+    BODY_NAME='U_BUF_OD';
+    PHYS_DES_PREFIX='U';
+    NC_PINS='(A1)';
+    PINCOUNT='5';
+  end_body;
+end_primitive;
+
+END.

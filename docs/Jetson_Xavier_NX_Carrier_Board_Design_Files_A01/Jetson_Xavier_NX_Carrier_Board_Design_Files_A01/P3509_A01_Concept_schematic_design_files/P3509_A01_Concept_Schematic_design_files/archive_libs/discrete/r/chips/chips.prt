@@ -1,0 +1,29 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' COMPILATION ON SUN JUN 15 13:43:34 1986  ';
+
+primitive 'R_0201','R_0402','R_0603','R_0805','R_1206','R_1210','R_1206W','R_0603W','R_2512','R_SMD';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+	PIN_TYPE='ANALOG';
+	NO_LOAD_CHECK='BOTH';
+	NO_IO_CHECK='BOTH';
+	ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+	PIN_TYPE='ANALOG';
+	NO_LOAD_CHECK='BOTH';
+	NO_IO_CHECK='BOTH';
+	ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    BODY_NAME='R';
+    PART_NAME='R';
+    PHYS_DES_PREFIX='R';
+	SIGNAL_MODEL='nv_res';
+        PINCOUNT='2';
+  end_body;
+end_primitive;
+
+END.

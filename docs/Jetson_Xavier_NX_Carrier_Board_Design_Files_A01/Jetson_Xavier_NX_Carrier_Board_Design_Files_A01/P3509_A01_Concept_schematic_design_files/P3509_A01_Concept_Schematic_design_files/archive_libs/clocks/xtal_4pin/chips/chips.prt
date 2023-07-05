@@ -1,0 +1,93 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME='Created/Modified on Fri Sep 19 15:52:37 2008';
+
+primitive 'XTAL_4PIN_SMD','XTAL_4PIN_H10SSMD','XTAL_4PIN_XR_SMD';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      UNKNOWN_LOADING='TRUE';
+      ALLOW_CONNECT='TRUE';
+      NO_LOAD_CHECK='BOTH';
+      BIDIRECTIONAL='TRUE';
+    '3':
+      PIN_NUMBER='(3)';
+      PIN_TYPE='ANALOG';
+      UNKNOWN_LOADING='TRUE';
+      ALLOW_CONNECT='TRUE';
+      NO_LOAD_CHECK='BOTH';
+      BIDIRECTIONAL='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    NC_PINS='(2,4)';
+    BODY_NAME='XTAL_4PIN';
+    PART_NAME='XTAL_4PIN';
+    PHYS_DES_PREFIX='Y';
+  end_body;
+end_primitive;
+
+primitive 'XTAL_4PIN_SMD1','XTAL_4PIN_SMDS_69X14';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      UNKNOWN_LOADING='TRUE';
+      ALLOW_CONNECT='TRUE';
+      NO_LOAD_CHECK='BOTH';
+      BIDIRECTIONAL='TRUE';
+    '3':
+      PIN_NUMBER='(4)';
+      PIN_TYPE='ANALOG';
+      UNKNOWN_LOADING='TRUE';
+      ALLOW_CONNECT='TRUE';
+      NO_LOAD_CHECK='BOTH';
+      BIDIRECTIONAL='TRUE';
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='NC';
+    '4':
+      PIN_NUMBER='(3)';
+      PIN_TYPE='NC';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    BODY_NAME='XTAL_4PIN';
+    PART_NAME='XTAL_4PIN';
+    PHYS_DES_PREFIX='Y';
+  end_body;
+end_primitive;
+
+primitive 'XTAL_4PIN_SMD4','XTAL_4PIN_SMD_4','XTAL_4PIN_SMD_4PIN','XTAL_4PIN_SMD_16X12','XTAL_4PIN_SMD_20X16','XTAL_4PIN_SMD_25X20','XTAL_4PIN_SMD_25X20_A','XTAL_4PIN_SMD_32X25','XTAL_4PIN_SMD_52X34','XTAL_4PIN_SMD_60X35','XTAL_4PIN_SMD_70X50';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      UNKNOWN_LOADING='TRUE';
+      ALLOW_CONNECT='TRUE';
+      NO_LOAD_CHECK='BOTH';
+      BIDIRECTIONAL='TRUE';
+    '3':
+      PIN_NUMBER='(3)';
+      PIN_TYPE='ANALOG';
+      UNKNOWN_LOADING='TRUE';
+      ALLOW_CONNECT='TRUE';
+      NO_LOAD_CHECK='BOTH';
+      BIDIRECTIONAL='TRUE';
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='NC';
+    '4':
+      PIN_NUMBER='(4)';
+      PIN_TYPE='NC';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    BODY_NAME='XTAL_4PIN';
+    PART_NAME='XTAL_4PIN';
+    PHYS_DES_PREFIX='Y';
+    PINCOUNT='4';
+  end_body;
+end_primitive;
+
+END.
