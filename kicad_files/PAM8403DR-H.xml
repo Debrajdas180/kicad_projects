@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\My_Projects\PAM8403DR-H\kicad_files\PAM8403DR-H.kicad_sch</source>
+    <date>11/5/2022 12:52:53 PM</date>
+    <tool>Eeschema (6.0.8)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>PAM8403D-KIT</title>
+        <company>SPECIFIC_ELECTRONICS</company>
+        <rev/>
+        <date/>
+        <source>PAM8403DR-H.kicad_sch</source>
+        <comment number="1" value="Author - Debraj Das"/>
+        <comment number="2" value="Date - 1/11/2022"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nf</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: PAM8403DR-H.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f7102a2-8768-4a78-9930-71570ebc6e68</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>470nf</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: PAM8403DR-H.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac788841-3756-4ba6-9635-cfeb81d8df49</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>470nf</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: PAM8403DR-H.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc8cfa4e-f3e5-48f7-a748-ad75504141fc</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1uf</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: PAM8403DR-H.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2b0fc6c-4b41-4125-8162-72617dc3cd08</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1uf</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: PAM8403DR-H.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d734aed-95c2-4bde-8c10-03f6fda4be84</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1uf</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: PAM8403DR-H.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efef5a61-58fa-4abc-b5eb-0dea32a230ec</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>22UF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: PAM8403DR-H.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e84d8e3-ebbd-4516-bc16-32ea62b84bbe</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>INL</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x01_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: PAM8403DR-H.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a045cdc-a3f5-440b-b233-adae3f08e730</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>INR</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x01_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: PAM8403DR-H.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9557c925-818b-4c7f-b988-359c04842b43</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>~{SHDN}</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x01_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: PAM8403DR-H.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41572890-7e57-4a83-99ed-303bf58edd49</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>~{MUTE}</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x01_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: PAM8403DR-H.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35395d74-7c5a-418f-aaf5-e0eeee3fefb2</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>LOUT+</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x01_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: PAM8403DR-H.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c13e3b54-f640-4eb1-ade9-8a32418d5041</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>LOUT-</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x01_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: PAM8403DR-H.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5fc35d12-a7e0-4bde-afe5-a66c5e55f3e9</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>ROUT-</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x01_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: PAM8403DR-H.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51a9c05a-b384-49b3-9379-ae32e3fbd18d</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>ROUT+</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x01_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: PAM8403DR-H.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b5a3ddf-0083-4df0-812d-fd651f3b91d2</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>5V</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x01_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: PAM8403DR-H.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45b6008f-81d4-4e4b-9225-4b5a490b0153</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>GND</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x01_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: PAM8403DR-H.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f21dcdbd-e148-4b2f-ae45-530ce8774095</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: PAM8403DR-H.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf09237b-0f4b-4ff1-b6d9-ad42c02d8a02</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: PAM8403DR-H.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8518689-65b0-48fc-9629-4ed9ad71e8e9</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: PAM8403DR-H.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e6b04c0-0e4e-41c8-8f99-6e5248e303b9</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>PAM8403D</value>
+      <footprint>Package_SO:SOP-16_3.9x9.9mm_P1.27mm</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/PAM8403.pdf</datasheet>
+      <libsource lib="Amplifier_Audio" part="PAM8403D" description="3W Filterless Class-D Stereo Audio Amplifier, SOP-16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: PAM8403DR-H.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>639a4871-7c01-472c-a639-465c88a4af8b</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Amplifier_Audio" part="PAM8403D">
+      <description>3W Filterless Class-D Stereo Audio Amplifier, SOP-16</description>
+      <docs>https://www.diodes.com/assets/Datasheets/PAM8403.pdf</docs>
+      <footprints>
+        <fp>SOP*3.9x9.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">PAM8403D</field>
+        <field name="Footprint">Package_SO:SOP-16_3.9x9.9mm_P1.27mm</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/PAM8403.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="LOUT+" type="output"/>
+        <pin num="2" name="PGND" type="power_in"/>
+        <pin num="3" name="LOUT-" type="output"/>
+        <pin num="4" name="PVDD" type="power_in"/>
+        <pin num="5" name="~{MUTE}" type="input"/>
+        <pin num="6" name="VDD" type="power_in"/>
+        <pin num="7" name="INL" type="input"/>
+        <pin num="8" name="VREF" type="input"/>
+        <pin num="9" name="NC" type="no_connect"/>
+        <pin num="10" name="INR" type="input"/>
+        <pin num="11" name="GND" type="power_in"/>
+        <pin num="12" name="~{SHDN}" type="input"/>
+        <pin num="13" name="PVDD" type="input"/>
+        <pin num="14" name="ROUT-" type="output"/>
+        <pin num="15" name="PGND" type="passive"/>
+        <pin num="16" name="ROUT+" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x01_Male">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Amplifier_Audio">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Amplifier_Audio.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="PVDD" pintype="input"/>
+      <node ref="U1" pin="4" pinfunction="PVDD" pintype="power_in"/>
+      <node ref="U1" pin="6" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="15" pinfunction="PGND" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="PGND" pintype="power_in"/>
+    </net>
+    <net code="3" name="INL">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="4" name="INR">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="5" name="LOUT+">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="LOUT+" pintype="output"/>
+    </net>
+    <net code="6" name="LOUT-">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="LOUT-" pintype="output"/>
+    </net>
+    <net code="7" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="VREF" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="INL" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="INR" pintype="input"/>
+    </net>
+    <net code="12" name="ROUT+">
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="ROUT+" pintype="output"/>
+    </net>
+    <net code="13" name="ROUT-">
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="ROUT-" pintype="output"/>
+    </net>
+    <net code="14" name="unconnected-(U1-Pad9)">
+      <node ref="U1" pin="9" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="15" name="~{MUTE}">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="~{MUTE}" pintype="input"/>
+    </net>
+    <net code="16" name="~{SHDN}">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="~{SHDN}" pintype="input"/>
+    </net>
+  </nets>
+</export>

@@ -237,7 +237,7 @@
     (property "Sheetfile" "File: PAM8403DR-H.kicad_sch")
     (property "Sheetname" "")
     (attr through_hole)
-    (fp_text reference "-" (at 0 1.305) (layer "F.SilkS")
+    (fp_text reference "-" (at 0 1.305) (layer "F.SilkS") hide
       (effects (font (size 0.7 0.7) (thickness 0.12)))
       (tstamp a0714155-f68c-4222-82cc-68921a8e4afe)
     )
@@ -650,7 +650,7 @@
     (property "Sheetfile" "File: PAM8403DR-H.kicad_sch")
     (property "Sheetname" "")
     (attr through_hole)
-    (fp_text reference "+" (at 0 1.305) (layer "F.SilkS")
+    (fp_text reference "+" (at 0 1.305) (layer "F.SilkS") hide
       (effects (font (size 0.7 0.7) (thickness 0.12)))
       (tstamp e6775989-eb20-485a-82d5-1780bd1bd529)
     )
@@ -730,7 +730,7 @@
     (property "Sheetfile" "File: PAM8403DR-H.kicad_sch")
     (property "Sheetname" "")
     (attr through_hole)
-    (fp_text reference "+" (at 0 1.305) (layer "F.SilkS")
+    (fp_text reference "+" (at 0 1.305) (layer "F.SilkS") hide
       (effects (font (size 0.7 0.7) (thickness 0.12)))
       (tstamp 134f13af-a5c9-4b71-a984-c247892d0965)
     )
@@ -927,7 +927,7 @@
     (property "Sheetfile" "File: PAM8403DR-H.kicad_sch")
     (property "Sheetname" "")
     (attr through_hole)
-    (fp_text reference "-" (at 0 1.305) (layer "F.SilkS")
+    (fp_text reference "-" (at 0 1.305) (layer "F.SilkS") hide
       (effects (font (size 0.7 0.7) (thickness 0.12)))
       (tstamp bb7dd239-6c5c-4ff1-b62b-e1f89d0ed89c)
     )

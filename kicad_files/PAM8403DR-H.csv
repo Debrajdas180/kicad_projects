@@ -1,0 +1,12 @@
+Ref,Qnty,Value,Footprint,needed quantity
+"C1, ",1,100nf,C_0603_1608Metric,200
+"C2, C3, ",2,470nf,C_0603_1608Metric,400
+"C4, C5, C6, ",3,1uf,C_0603_1608Metric,600
+"C7, ",1,22UF,C_0805_2012Metric,200
+"R1, R2, R3, ",3,10k,R_0603_1608Metric,600
+"U1, ",1,PAM8403D,SOP-16_3.9x9.9mm_P1.27mm,200
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
