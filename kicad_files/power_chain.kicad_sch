@@ -1219,7 +1219,7 @@
     (property "Value" "690-005-298-486" (at 60.325 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "footprints:690-005-299-043" (at 61.595 91.44 0)
+    (property "Footprint" "footprints:EDAC_690-005-298-486" (at 61.595 91.44 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (at 61.595 91.44 0)
